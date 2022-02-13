@@ -1,0 +1,3500 @@
+citrus fruit,margarine,ready soups,semi-finished bread
+coffee,tropical fruit,yogurt
+whole milk
+cream cheese,meat spreads,pip fruit,yogurt
+condensed milk,long life bakery product,other vegetables,whole milk
+abrasive cleaner,butter,rice,whole milk,yogurt
+rolls/buns
+UHT-milk,bottled beer,liquor (appetizer),other vegetables,rolls/buns
+potted plants
+cereals,whole milk
+bottled water,chocolate,other vegetables,tropical fruit,white bread
+bottled water,butter,citrus fruit,curd,dishes,flour,tropical fruit,whole milk,yogurt
+beef
+frankfurter,rolls/buns,soda
+chicken,tropical fruit
+butter,fruit/vegetable juice,newspapers,sugar
+fruit/vegetable juice
+packaged fruit/vegetables
+chocolate
+specialty bar
+other vegetables
+butter milk,pastry
+whole milk
+cream cheese,detergent,newspapers,processed cheese,tropical fruit
+bathroom cleaner,candy,flour,frozen dessert,other vegetables,rolls/buns,root vegetables,salty snack,sweet spreads,tropical fruit,waffles
+bottled water,canned beer
+yogurt
+chocolate,rolls/buns,sausage,soda
+other vegetables
+brown bread,canned beer,fruit/vegetable juice,newspapers,shopping bags,soda
+beverages,bottled water,specialty bar,yogurt
+bottled water,hamburger meat,hygiene articles,napkins,other vegetables,rolls/buns,spices
+beverages,other vegetables,root vegetables,sugar,whole milk
+abrasive cleaner,artif. sweetener,berries,other vegetables,pork,soda,whipped/sour cream,whole milk
+beef,detergent,grapes
+pastry,soda
+fruit/vegetable juice
+canned beer
+dessert,other vegetables,root vegetables,whole milk
+citrus fruit,newspapers,zwieback
+canned beer,rolls/buns,sausage,shopping bags,soda,specialty bar
+brown bread,candy,cereals,coffee,domestic eggs,pastry,root vegetables,soda,sugar,tropical fruit,waffles,whole milk,yogurt
+berries,yogurt
+canned beer
+bottled water,butter milk,cream cheese,newspapers,rolls/buns,soda,spread cheese,yogurt
+coffee
+bottled water,pastry
+rolls/buns
+misc. beverages
+UHT-milk,bottled water,butter,curd,hard cheese,long life bakery product,other vegetables,rolls/buns,root vegetables,whipped/sour cream
+cat food,newspapers,rolls/buns,sausage
+canned beer
+grapes,ham,other vegetables,whole milk
+baking powder,brown bread,curd,domestic eggs,fruit/vegetable juice,margarine,other vegetables,semi-finished bread,tropical fruit,turkey
+pickled vegetables,processed cheese,soda,whole milk,yogurt
+curd,pastry,whole milk,yogurt
+brown bread,canned beer,packaged fruit/vegetables
+bottled water,chewing gum,chocolate marshmallow,hygiene articles,napkins,oil,rolls/buns
+beef,cat food,ham,ice cream,rolls/buns,whipped/sour cream
+pastry,rolls/buns,sugar
+canned fish,detergent,frozen vegetables,other vegetables,salty snack,seasonal products,whole milk
+pastry,sausage
+beef,sausage,whole milk
+brown bread,frankfurter,rolls/buns,sugar,tropical fruit
+pastry,rolls/buns,soda
+whole milk
+coffee,curd cheese
+newspapers,red/blush wine
+curd,sausage,whole milk
+berries,chocolate,frozen potato products,pickled vegetables,pip fruit,rolls/buns,tropical fruit,whole milk
+red/blush wine
+butter,candles,flower (seeds),margarine,specialty chocolate,specialty fat,whole milk
+citrus fruit,domestic eggs,frankfurter,newspapers,oil,sparkling wine,specialty chocolate,whole milk
+meat spreads,soda,whole milk
+frozen potato products
+other vegetables,rolls/buns,sugar,whole milk
+butter milk,citrus fruit,curd,pastry,whole milk
+bottled beer,bottled water,flour,fruit/vegetable juice,salt
+bottled beer,bottled water,soda,sugar
+coffee,frozen meals
+chocolate
+bathroom cleaner,canned vegetables,domestic eggs,frozen vegetables,fruit/vegetable juice,margarine,oil,rolls/buns,root vegetables,whole milk
+frozen vegetables,hard cheese,onions,root vegetables
+candles,condensed milk,frozen vegetables,herbs,oil,salt,white wine
+bottled water
+brandy,detergent,onions,rolls/buns,root vegetables,sausage,yogurt
+coffee,newspapers
+other vegetables,pork,whipped/sour cream
+berries,yogurt
+soda
+berries
+candles,fruit/vegetable juice,salty snack
+butter milk,citrus fruit,cream cheese,yogurt
+berries,chocolate,citrus fruit,coffee,hamburger meat,onions,pork,rice,whipped/sour cream
+detergent
+grapes,photo/film
+brown bread,canned beer,fruit/vegetable juice,red/blush wine,rolls/buns,sausage,shopping bags,sliced cheese,waffles
+butter,chicken,citrus fruit,detergent,hamburger meat,oil,other vegetables,pasta,root vegetables,tropical fruit
+brown bread,whole milk,yogurt
+citrus fruit,tropical fruit
+misc. beverages,soda
+bathroom cleaner,grapes,pastry,pork,rolls/buns,sausage,soda,specialty bar,whole milk
+bottled water,frankfurter,rolls/buns
+bottled beer,coffee,fruit/vegetable juice,napkins,photo/film,sausage,shopping bags,softener,whole milk,yogurt
+soda
+fruit/vegetable juice,rolls/buns
+beef,berries,brown bread,citrus fruit,detergent,root vegetables
+candy,cling film/bags,rolls/buns,soda,waffles,whipped/sour cream,whole milk
+processed cheese
+pip fruit,tropical fruit
+bottled beer,chewing gum,dishes,frankfurter,oil,other vegetables,pickled vegetables,rolls/buns,root vegetables,sausage
+bottled water,packaged fruit/vegetables
+bottled water,dessert,frozen vegetables,margarine,newspapers,red/blush wine,rolls/buns,whole milk
+berries,whipped/sour cream
+UHT-milk,berries,citrus fruit,processed cheese
+tropical fruit,whole milk,yogurt
+bottled beer,frozen vegetables,hamburger meat,rolls/buns,sparkling wine,whole milk
+dishes,domestic eggs,frozen vegetables,hamburger meat,other vegetables,soda,whole milk
+cream cheese,soda,whole milk
+coffee,fish,long life bakery product,male cosmetics,margarine,other vegetables,pastry,shopping bags
+frankfurter,long life bakery product,sausage,waffles
+canned beer,dessert,packaged fruit/vegetables,semi-finished bread
+pastry,soda
+other vegetables,red/blush wine
+misc. beverages
+canned fruit,citrus fruit,cream cheese,domestic eggs,frankfurter,fruit/vegetable juice,hard cheese,hygiene articles,misc. beverages,pip fruit,rice,sausage,sugar,tropical fruit,whole milk
+sparkling wine
+specialty bar
+butter milk,rolls/buns,sausage
+curd cheese
+dessert,frankfurter
+beverages,brown bread,shopping bags,whole milk,yogurt
+newspapers
+berries,soda
+curd,flour,liquor (appetizer)
+coffee,other vegetables,tropical fruit
+soda
+Instant food products,rolls/buns
+canned beer
+canned beer
+frankfurter,margarine,rolls/buns,sausage,whole milk
+canned beer,misc. beverages,other vegetables
+frozen vegetables,whole milk
+whole milk
+butter,citrus fruit,cream cheese,margarine,newspapers,oil,white bread
+frankfurter,rolls/buns
+baking powder,frankfurter,frozen vegetables,ham,other vegetables,pip fruit,rolls/buns,soft cheese,sugar,whole milk
+butter milk,detergent,honey,soda,yogurt
+bottled water,citrus fruit,dental care,hamburger meat,onions,rolls/buns
+pasta,popcorn
+cake bar,chocolate,meat spreads,other vegetables,shopping bags,whole milk
+candles,citrus fruit,dessert,dishes,pork,sausage,white bread
+rolls/buns
+curd,dessert,grapes,napkins,other vegetables,yogurt
+beverages,bottled beer,frozen vegetables,fruit/vegetable juice,other vegetables,root vegetables,soft cheese,whole milk,yogurt
+coffee,shopping bags
+popcorn
+bottled water,rolls/buns,soda,sugar,whole milk
+other vegetables,packaged fruit/vegetables,snack products,tropical fruit,whole milk
+beef,cling film/bags,flour,flower soil/fertilizer,herbs
+butter,dessert,rolls/buns,whole milk
+chewing gum,frankfurter,soda
+bottled water,specialty cheese,tropical fruit
+canned beer
+bottled beer,finished products,frozen vegetables,other vegetables
+beverages,soda
+hamburger meat,root vegetables,whole milk
+long life bakery product,pastry,whole milk
+finished products,shopping bags,white wine
+other vegetables
+bottled beer,brown bread,fruit/vegetable juice,ham,other vegetables,tropical fruit,white bread,whole milk
+other vegetables
+butter milk,cocoa drinks,curd,popcorn,salty snack
+bottled beer
+cake bar,chocolate,curd,dessert,salty snack,shopping bags,soda,waffles
+cereals,cream cheese,dog food,whole milk
+salt,whole milk
+dessert,ice cream
+coffee,sausage,soft cheese
+bottled water,dishes,other vegetables,shopping bags,waffles
+ham,rolls/buns,whole milk
+ice cream,other vegetables
+bottled water,other vegetables
+bottled beer,prosecco,soda,white wine
+candy,herbs
+bottled beer,butter,cereals,cream cheese,curd,domestic eggs,frankfurter,frozen fish,frozen meals,fruit/vegetable juice,ham,other vegetables,pip fruit,root vegetables,sliced cheese,soft cheese,sugar,tropical fruit,waffles,whipped/sour cream,white bread,whole milk,yogurt
+canned beer,rolls/buns
+cake bar,cream cheese,curd,semi-finished bread,shopping bags,specialty bar,zwieback
+frankfurter,margarine,shopping bags,spread cheese,tropical fruit,whole milk
+other vegetables
+dog food
+specialty bar
+curd,detergent,liquor (appetizer),salt,shopping bags
+frankfurter,rolls/buns
+soda
+beef,berries,brown bread,dessert,root vegetables,spread cheese,whole milk
+canned beer
+beef,herbs,pip fruit,pork,spices
+UHT-milk,citrus fruit,frankfurter,margarine,sugar
+bottled beer,liquor (appetizer),sausage
+canned beer
+specialty chocolate
+curd,rolls/buns
+canned beer
+bottled water,newspapers,whole milk
+chewing gum,rolls/buns
+dishes,other vegetables,pork,root vegetables,whole milk
+citrus fruit,pastry
+potted plants
+pastry,rolls/buns,soda
+bottled water,butter,hygiene articles,make up remover,soda,yogurt
+coffee,condensed milk,shopping bags,sugar
+other vegetables,sausage,shopping bags,soda,yogurt
+UHT-milk,beverages,soda,whole milk
+beef,margarine,pork,rolls/buns,sausage,whole milk
+beverages
+beverages,specialty bar
+bottled water,fruit/vegetable juice
+newspapers
+cleaner,female sanitary products
+newspapers,sausage,shopping bags,soda
+newspapers
+beef,beverages,butter milk,citrus fruit,cookware,dish cleaner,hard cheese,other vegetables,rolls/buns,sausage,whipped/sour cream,whole milk
+misc. beverages,newspapers
+white wine
+canned beer,rolls/buns,sausage,shopping bags,sliced cheese,soda
+bottled beer,cake bar,curd,meat
+baking powder,cling film/bags,frankfurter,meat,oil,onions,tea,tropical fruit
+canned beer,ice cream,rolls/buns
+canned beer
+berries,bottled water,other vegetables,root vegetables,shopping bags,tropical fruit
+beverages,bottled water,brown bread,butter milk,citrus fruit,cream cheese,curd,dessert,meat,other vegetables,rolls/buns,tea
+bottled water,mustard,whole milk
+beef,beverages,flower (seeds),house keeping products,rolls/buns,sausage,sliced cheese,spices
+butter,curd,frankfurter,long life bakery product,rolls/buns,root vegetables,salty snack,sausage,sliced cheese
+butter,meat,other vegetables,rolls/buns
+Instant food products,beverages,detergent,pickled vegetables,root vegetables
+herbs,other vegetables,rolls/buns,root vegetables,sliced cheese,whole milk
+margarine,semi-finished bread,whipped/sour cream,whole milk
+canned fish,canned vegetables,cereals,citrus fruit,curd,dessert,frozen dessert,hygiene articles,napkins,rolls/buns,salt,skin care,sugar,whipped/sour cream,whole milk,yogurt
+candy,citrus fruit,curd,margarine,newspapers,pastry,sugar
+bottled beer,bottled water,misc. beverages,napkins,other vegetables,red/blush wine,soda,whole milk
+citrus fruit,rolls/buns,whole milk
+hygiene articles,napkins,oil,sausage
+beef,bottled beer,bottled water,butter,frankfurter,frozen dessert,grapes,hamburger meat,potato products,root vegetables,whole milk
+bottled water,hard cheese,newspapers,rolls/buns
+chocolate,cream cheese,rolls/buns,soda
+beef,dishes,frozen vegetables,photo/film,turkey
+other vegetables,pork,rolls/buns,shopping bags,soda,whipped/sour cream
+beverages,whole milk
+rolls/buns,soda
+bottled water,curd,hygiene articles,pip fruit,rolls/buns,sausage,sliced cheese,whole milk,yogurt
+ice cream
+liquor
+fruit/vegetable juice,other vegetables,pip fruit
+other vegetables,root vegetables,yogurt
+soda
+soda
+bottled water,chocolate,citrus fruit,newspapers,other vegetables,rolls/buns,sausage,soda,tropical fruit,whole milk,yogurt
+detergent,pet care,root vegetables,whole milk
+berries,other vegetables,pastry,pork,root vegetables,specialty bar
+pork
+chocolate
+fruit/vegetable juice
+coffee,pickled vegetables
+bottled water
+butter,frankfurter,margarine,rolls/buns,sausage,spices,whipped/sour cream
+domestic eggs,hygiene articles,napkins,onions,other vegetables,pip fruit,soda,soups,sugar,tea,tropical fruit,whole milk
+canned beer
+root vegetables
+berries,citrus fruit,meat,root vegetables,soda,whole milk
+bottled water,frankfurter,fruit/vegetable juice,hygiene articles,rolls/buns
+margarine,rum,tropical fruit
+butter milk,flour,herbs,hygiene articles,root vegetables,tropical fruit,whipped/sour cream,whole milk
+baking powder,brown bread,citrus fruit,cream cheese,domestic eggs,margarine,other vegetables,pip fruit,root vegetables,waffles,whole milk
+bottled water,curd,fruit/vegetable juice,hamburger meat,margarine,other vegetables,pastry,rolls/buns,semi-finished bread,whole milk,yogurt
+chicken,dessert,other vegetables,pasta,pip fruit,rolls/buns,soda,waffles,whipped/sour cream,whole milk,yogurt
+chicken,citrus fruit,frozen fish,rolls/buns,root vegetables,tropical fruit,whole milk
+citrus fruit,frankfurter,onions,other vegetables,rolls/buns,soda,sugar,whole milk
+canned beer
+pastry,pip fruit,salad dressing,turkey
+bottled water,brown bread,curd,domestic eggs,misc. beverages,mustard,packaged fruit/vegetables,pickled vegetables,whole milk,yogurt
+pasta
+citrus fruit,tropical fruit
+brown bread,potted plants,rolls/buns,sausage,whole milk,yogurt
+frozen meals,fruit/vegetable juice,pastry,waffles,whole milk
+canned beer
+citrus fruit,sauces,sugar
+liquor (appetizer)
+citrus fruit,other vegetables,rolls/buns,salty snack,shopping bags
+sausage
+bottled water,canned beer,chicken,napkins,newspapers,oil,other vegetables,vinegar,whole milk
+flour,hamburger meat,margarine,other vegetables,root vegetables,specialty cheese,whipped/sour cream,whole milk,yogurt
+dessert,oil,other vegetables,pork,sausage,soda,yogurt
+abrasive cleaner,beef,berries,root vegetables,whipped/sour cream,whole milk
+bottled water,citrus fruit,packaged fruit/vegetables,yogurt
+UHT-milk,coffee
+candy
+newspapers
+beef,citrus fruit,other vegetables,yogurt
+rolls/buns,sausage
+beef,canned beer,curd,dessert,frankfurter,hygiene articles,mustard,napkins,pickled vegetables,rolls/buns,root vegetables,soft cheese,yogurt
+canned beer
+bottled beer
+chewing gum,chocolate,newspapers,onions,soda
+candy,cream cheese,packaged fruit/vegetables,tropical fruit,white bread
+bottled water,white wine
+beef,pasta,pastry,soap,white bread
+abrasive cleaner,candy,chicken,cleaner,root vegetables,sausage,tropical fruit,whole milk,yogurt
+hair spray
+chicken,long life bakery product,shopping bags,spices,whole milk
+brown bread,cat food,citrus fruit,pastry,pork,sugar
+ice cream
+bottled beer,hard cheese,meat
+brown bread,instant coffee,other vegetables,yogurt
+bottled water,cake bar
+salty snack,soda,tropical fruit
+photo/film
+canned beer,citrus fruit,coffee,dishes,sausage,soda,yogurt
+grapes,root vegetables
+brown bread,domestic eggs,photo/film
+canned beer,canned fish,rolls/buns
+tropical fruit,whole milk
+chicken
+bottled water,brown bread,frankfurter,other vegetables,yogurt
+berries,butter milk,cream cheese,curd,detergent,margarine,misc. beverages,other vegetables,roll products,root vegetables,specialty chocolate
+hygiene articles,margarine
+rolls/buns,shopping bags,soda,tropical fruit,yogurt
+candy,chocolate,ham,hard cheese,misc. beverages,other vegetables,rolls/buns,soda,whipped/sour cream
+hamburger meat,salty snack,white bread
+mayonnaise,napkins,rolls/buns,soda,yogurt
+soda,specialty chocolate
+yogurt
+soda
+bottled water
+hamburger meat,meat,rubbing alcohol,sausage
+beverages,citrus fruit,fruit/vegetable juice,hard cheese,pet care,pip fruit,soda,waffles
+shopping bags
+newspapers
+curd,dish cleaner,frankfurter,frozen potato products,other vegetables,specialty bar,whole milk,zwieback
+canned beer,citrus fruit,sausage,whole milk
+frankfurter,rolls/buns
+cookware,salt,salty snack
+oil
+beverages,cake bar,chewing gum,cream cheese,curd,pastry,rolls/buns,soda
+butter,other vegetables,specialty chocolate
+citrus fruit
+butter milk,frankfurter,whole milk
+butter,mayonnaise,processed cheese,root vegetables,salty snack,whole milk
+bottled beer,frozen meals,tropical fruit,whole milk
+beef,hamburger meat,pip fruit
+berries,cereals,shopping bags,waffles,whipped/sour cream
+canned beer
+canned beer,red/blush wine,whipped/sour cream
+candy,chocolate marshmallow,domestic eggs,margarine,root vegetables
+soda,whole milk
+beef
+frozen vegetables
+bottled beer,rolls/buns
+hygiene articles,whole milk
+whole milk
+citrus fruit,curd,soft cheese,whole milk
+fruit/vegetable juice,pastry
+brown bread,butter,frankfurter,pip fruit,pork,processed cheese,sausage,white bread
+domestic eggs,root vegetables,tropical fruit,whipped/sour cream,whole milk
+frankfurter,napkins,pastry,root vegetables,sausage,whipped/sour cream,yogurt
+berries,cat food,curd,curd cheese,detergent,other vegetables,packaged fruit/vegetables,root vegetables,specialty bar,whole milk
+bottled beer,brown bread,coffee,pastry,rolls/buns
+coffee,curd,dessert,frozen vegetables,packaged fruit/vegetables,root vegetables,specialty fat
+yogurt
+bottled water,other vegetables
+berries,white bread
+berries,coffee
+bottled water,butter milk,frozen meals,other vegetables
+newspapers,rolls/buns
+citrus fruit,ham,hygiene articles,pastry,rolls/buns,waffles,whipped/sour cream,whole milk
+frozen dessert,napkins,salty snack,whole milk
+bottled water,butter milk,rolls/buns,tropical fruit
+bottled water
+butter milk,yogurt
+newspapers
+coffee
+bottled beer,liquor
+butter,candy,cling film/bags,frozen vegetables,hard cheese,napkins,onions,pasta,specialty fat,syrup,whipped/sour cream
+dog food,frozen meals,hamburger meat,hard cheese,pasta,salty snack,shopping bags
+cream cheese,liver loaf,other vegetables,pastry,sausage,shopping bags,soap
+hard cheese,napkins,pastry
+condensed milk,rolls/buns,sausage,tropical fruit
+hamburger meat
+beverages,frozen dessert,onions,whole milk
+coffee
+shopping bags
+bottled water,pastry,rolls/buns,shopping bags,soda,yogurt
+soda
+sliced cheese
+coffee,sausage,whole milk
+chocolate,yogurt
+dish cleaner,domestic eggs,hygiene articles,rolls/buns
+whole milk
+meat,other vegetables,whipped/sour cream,whole milk
+bathroom cleaner,dish cleaner,hygiene articles,napkins
+other vegetables,red/blush wine
+butter milk,coffee,fruit/vegetable juice,long life bakery product,rolls/buns,shopping bags,sliced cheese,sweet spreads,whole milk,yogurt
+Instant food products,other vegetables,rolls/buns,whole milk
+other vegetables,tropical fruit
+baking powder,bottled water,chewing gum,salty snack
+specialty bar
+ice cream
+frankfurter,yogurt
+canned beer
+bottled water
+bottled beer,bottled water,margarine,other vegetables,rolls/buns,whole milk
+citrus fruit,onions,other vegetables,shopping bags,tropical fruit
+ham,hamburger meat,newspapers,sausage,soda,softener,whole milk
+domestic eggs,napkins,rolls/buns,specialty bar
+citrus fruit,curd,hygiene articles,other vegetables,pork,root vegetables,tropical fruit
+coffee,frozen vegetables,fruit/vegetable juice,salty snack,soda,specialty cheese
+citrus fruit,fruit/vegetable juice,pip fruit,pork,sparkling wine,yogurt
+beef,berries,domestic eggs,rolls/buns,whipped/sour cream
+other vegetables,pet care
+chewing gum,chicken,dishes,rolls/buns,sliced cheese,yogurt
+chewing gum,soda
+whole milk
+rolls/buns
+bottled beer
+bottled water,male cosmetics,pastry,root vegetables
+pastry
+berries,cake bar,pet care,shopping bags
+bottled water,canned vegetables,citrus fruit,root vegetables,soda,softener,tropical fruit,yogurt
+canned fruit,fruit/vegetable juice,oil,whole milk
+misc. beverages,soda
+bottled water,soda
+other vegetables,rolls/buns,tropical fruit
+salty snack
+bottled water,canned beer
+chocolate
+UHT-milk,citrus fruit,cream cheese,frozen vegetables
+bottled water,canned beer,male cosmetics
+bottled water,napkins,onions,other vegetables,pastry,soda
+cat food,dessert,oil,soda
+beef,coffee,dental care,frozen potato products,hygiene articles,margarine,newspapers,oil,other vegetables,rolls/buns,whole milk
+bottled beer,bottled water,brandy,canned beer,misc. beverages,rolls/buns,zwieback
+beef,instant coffee,onions,other vegetables,root vegetables,soda,tropical fruit
+soda
+coffee,hygiene articles
+bottled water,brown bread,rolls/buns
+beef,frozen vegetables,hamburger meat,margarine,other vegetables,pork,rolls/buns,shopping bags,whole milk
+canned beer,hygiene articles,liquor (appetizer),napkins,newspapers,soda
+ham,ice cream,other vegetables,sausage,white bread
+beef,other vegetables,rolls/buns,root vegetables,sugar
+bottled beer,bottled water,butter,whole milk
+house keeping products,hygiene articles,ice cream,pork
+berries,fruit/vegetable juice,ice cream,packaged fruit/vegetables,salty snack,specialty bar,whole milk
+curd,frozen vegetables,other vegetables,roll products,rolls/buns,sausage,whipped/sour cream,yogurt
+bottled water,cling film/bags,misc. beverages
+bottled water,frozen dessert,hard cheese,other vegetables,packaged fruit/vegetables,rice,tropical fruit,whole milk
+bottled water,herbs
+rolls/buns,yogurt
+Instant food products
+specialty chocolate
+coffee
+bottled beer,liquor
+beef,root vegetables
+honey,waffles,whole milk
+frankfurter,pastry,rolls/buns,snack products,specialty bar
+curd,frankfurter,frozen vegetables,hygiene articles,liver loaf,photo/film,rolls/buns,root vegetables,sausage,semi-finished bread
+cream cheese,other vegetables,whole milk
+frankfurter,pickled vegetables,root vegetables,seasonal products,soda
+newspapers,rolls/buns,whole milk
+dental care,frankfurter,margarine
+other vegetables,salty snack
+bottled water,shopping bags
+butter,hygiene articles,onions,pastry,pork,rolls/buns,rum,whole milk
+bottled water
+domestic eggs,other vegetables,specialty cheese,whipped/sour cream
+canned beer,curd,hamburger meat,pasta,whole milk
+citrus fruit,hamburger meat,other vegetables
+shopping bags
+cream cheese,fruit/vegetable juice,soda,whole milk
+ice cream
+bottled water,pastry
+baby cosmetics,butter milk,chocolate,coffee,cream cheese,curd,dessert,ham,long life bakery product,pip fruit,sliced cheese,whipped/sour cream,white bread,whole milk
+frankfurter,soda
+beef,domestic eggs,flour,misc. beverages,napkins,organic products,rice,rolls/buns,root vegetables,sausage,turkey
+bottled beer
+bottled beer,bottled water,napkins
+bottled water,frozen meals,hard cheese,meat,other vegetables,soda
+candy,dessert
+UHT-milk,bottled water,other vegetables,packaged fruit/vegetables
+beverages,rolls/buns,soda
+canned fish,ham,mustard
+specialty bar
+brown bread,salty snack,shopping bags,soda
+coffee,cream cheese,whole milk
+pastry,red/blush wine,rolls/buns
+bottled beer,nut snack
+bottled beer,pet care
+citrus fruit,other vegetables,soda
+frozen vegetables,hygiene articles,other vegetables,pork
+other vegetables,shopping bags
+detergent,white wine
+bottled water,dessert,whole milk
+pip fruit,shopping bags,white wine
+bottled beer,soda,sugar
+candy,coffee,fruit/vegetable juice,pip fruit,rolls/buns,tropical fruit
+bottled beer,bottled water,cream cheese,frozen dessert,fruit/vegetable juice,misc. beverages,root vegetables,soda,spread cheese,white bread
+misc. beverages,soda
+curd,whole milk
+bottled water,male cosmetics,other vegetables,tropical fruit,yogurt
+brown bread,white bread
+brown bread,hygiene articles,sugar
+bottled water,candy,coffee,house keeping products,red/blush wine,root vegetables,shopping bags,tropical fruit
+domestic eggs
+coffee,detergent,hygiene articles,photo/film
+soda
+whole milk
+bottled beer
+beef,berries,cat food,chocolate,coffee,dish cleaner,frozen fish,frozen potato products,mayonnaise,mustard,napkins,newspapers,oil,packaged fruit/vegetables,pork,soda,whole milk
+other vegetables,yogurt
+bottled water,dishes,yogurt
+sparkling wine
+bottled water,candy
+berries,butter milk,citrus fruit,fruit/vegetable juice,hygiene articles,other vegetables,sugar
+hamburger meat,other vegetables,rolls/buns,root vegetables,whole milk
+packaged fruit/vegetables,seasonal products
+margarine,other vegetables
+soda
+bottled water,frozen potato products,fruit/vegetable juice,margarine,salty snack,whole milk,yogurt
+herbs,yogurt
+citrus fruit,rolls/buns,soda,spread cheese
+misc. beverages
+female sanitary products
+soda
+beverages,pasta,shopping bags,tropical fruit,white bread,whole milk
+female sanitary products,soda
+bottled water,soda,waffles,white bread
+chewing gum,chocolate marshmallow,coffee
+baking powder,chocolate marshmallow,coffee,frozen vegetables,honey,red/blush wine,root vegetables,tropical fruit,whole milk
+butter milk,pip fruit,pork,whole milk
+bottled water,citrus fruit
+frankfurter
+frankfurter,rolls/buns
+UHT-milk,curd,domestic eggs,frankfurter,hard cheese,hygiene articles,napkins,pip fruit,rolls/buns,shopping bags,tropical fruit
+other vegetables
+fruit/vegetable juice,newspapers,yogurt
+bottled water,brown bread,cereals,sausage,soda,whole milk,yogurt
+whole milk
+bottled water,curd,pastry,pip fruit,whole milk
+whole milk
+other vegetables,root vegetables
+fruit/vegetable juice,onions
+specialty chocolate
+domestic eggs,hamburger meat
+photo/film
+newspapers,rolls/buns,snack products,soda
+canned beer
+canned beer
+bottled beer,candles,curd,frozen meals,frozen potato products,kitchen towels,other vegetables,soda
+canned beer
+curd,rolls/buns,spices,whipped/sour cream,zwieback
+butter,fruit/vegetable juice,newspapers
+bottled water,domestic eggs,other vegetables,soda,whole milk,yogurt
+whole milk
+beef,curd,herbs,sliced cheese,tropical fruit,whipped/sour cream,whole milk,yogurt
+rolls/buns,sausage
+soda
+fruit/vegetable juice,long life bakery product
+coffee,detergent,long life bakery product,rolls/buns,shopping bags
+bottled water,candy,pip fruit,whole milk
+bottled beer,chewing gum,frozen vegetables,liquor (appetizer),napkins,newspapers
+beverages
+domestic eggs,hamburger meat,hygiene articles,margarine,oil,other vegetables,roll products,root vegetables
+fruit/vegetable juice,other vegetables,root vegetables,white wine,whole milk,yogurt
+canned beer
+bottled beer,frozen vegetables
+canned beer
+newspapers
+rolls/buns
+UHT-milk,hamburger meat,salty snack
+curd,pip fruit,rum,whole milk
+canned beer
+domestic eggs,frozen vegetables,grapes,root vegetables,white wine
+butter,packaged fruit/vegetables,rolls/buns,root vegetables,whipped/sour cream
+canned beer,citrus fruit,frozen vegetables,rolls/buns,salty snack
+cling film/bags,potted plants
+baking powder,bottled beer,frankfurter,margarine,rolls/buns,whole milk
+red/blush wine,whole milk
+baking powder,cereals,curd,domestic eggs,frozen dessert,frozen meals,fruit/vegetable juice,hard cheese,pork,soap,tropical fruit,whole milk,yogurt
+chicken,pastry
+dish cleaner,dishes,sausage
+specialty bar
+pastry,specialty bar,whipped/sour cream
+brown bread,root vegetables
+rolls/buns,soda
+bottled beer,other vegetables,red/blush wine
+berries,bottled water,butter,citrus fruit,hygiene articles,napkins,other vegetables,root vegetables,rubbing alcohol,tropical fruit,whole milk
+brown bread,pastry,processed cheese,soda,whole milk
+candy,frankfurter,pastry,rolls/buns,root vegetables,sausage,tropical fruit,whole milk,yogurt
+coffee,long life bakery product
+ham,rolls/buns,white wine
+canned beer
+canned beer
+canned beer
+canned fish,pip fruit,whole milk
+bottled water,curd,other vegetables,pip fruit,pork,soda,sugar,white bread,whole milk
+soap
+bottled water,butter,frozen meals,pasta,pip fruit
+beef,citrus fruit,hamburger meat,mustard,soap,whole milk
+bottled beer,chocolate,meat,newspapers,other vegetables,rolls/buns,sausage,soda,whole milk,yogurt
+frozen chicken
+soda
+bottled beer,bottled water,brown bread,curd,rolls/buns,seasonal products,tropical fruit,yogurt
+other vegetables
+beef,citrus fruit,curd,detergent,margarine,newspapers,oil,rolls/buns,specialty bar
+beef,citrus fruit,meat,other vegetables,pickled vegetables,pork,root vegetables,whole milk
+butter,hamburger meat,meat,newspapers,packaged fruit/vegetables,root vegetables,whole milk
+bottled water,long life bakery product,newspapers,red/blush wine,soda
+rolls/buns
+canned beer,pastry
+pastry,pork,sauces,whole milk
+light bulbs,newspapers,pastry,pip fruit,sliced cheese,white wine
+UHT-milk,beef,bottled water,citrus fruit,frozen vegetables,rolls/buns,skin care,tropical fruit,yogurt
+beef,berries,brown bread,citrus fruit,coffee,kitchen towels,sugar
+rolls/buns,spices
+butter,canned vegetables,citrus fruit,curd,frozen vegetables,herbs,misc. beverages,tropical fruit,whipped/sour cream,whole milk
+beef,coffee,flour,frozen dessert,herbs,meat,oil,potted plants,rolls/buns,semi-finished bread,whole milk
+beverages,bottled water,pastry
+beef,citrus fruit,other vegetables,rolls/buns
+hair spray,ham,margarine,white bread,whole milk
+Instant food products,bottled beer,canned fish,coffee,hamburger meat,hygiene articles,ketchup,newspapers,oil,soups,whole milk
+beef,bottled water,butter milk,citrus fruit,fruit/vegetable juice,margarine,other vegetables,processed cheese,rolls/buns,sliced cheese
+beef,citrus fruit,domestic eggs,fruit/vegetable juice,pastry,roll products,rolls/buns,tea,whole milk
+detergent,root vegetables,whole milk
+candy,citrus fruit,cling film/bags,frozen vegetables,fruit/vegetable juice,grapes,liquor,liquor (appetizer),other vegetables,pickled vegetables,rum,tropical fruit
+bottled water,yogurt
+brown bread,canned fish,long life bakery product,other vegetables,root vegetables,tropical fruit,whipped/sour cream
+frankfurter,newspapers,root vegetables
+abrasive cleaner,beef,brown bread,other vegetables,pastry,salty snack,shopping bags,whole milk
+shopping bags
+canned beer
+canned beer,rolls/buns
+bottled water,candy,chocolate,meat spreads,misc. beverages,other vegetables,rolls/buns,soda,waffles
+bottled water,hamburger meat,other vegetables,rolls/buns,yogurt
+Instant food products,bottled water,canned fish,citrus fruit,fruit/vegetable juice,hamburger meat,napkins,rolls/buns,root vegetables,soda
+chewing gum,domestic eggs,frankfurter,sausage,shopping bags,soda
+bottled beer
+domestic eggs,pastry,rolls/buns,tropical fruit
+soda
+canned beer,frankfurter,onions,other vegetables,root vegetables,white bread
+canned beer,chicken,cling film/bags,dish cleaner,hamburger meat,herbs,napkins,soda,soups,whipped/sour cream
+coffee,soda
+whole milk
+margarine
+other vegetables,tropical fruit
+meat,other vegetables
+bottled water,canned beer,cream cheese
+newspapers
+newspapers,pastry,rolls/buns
+citrus fruit,curd,fruit/vegetable juice,long life bakery product,other vegetables,potato products,whole milk,yogurt
+detergent,rolls/buns,whole milk
+UHT-milk,butter milk,citrus fruit,female sanitary products,frankfurter,rolls/buns,shopping bags
+butter,ham,other vegetables,soda,sugar,whipped/sour cream
+bottled beer,citrus fruit,frankfurter,salty snack
+coffee,curd,domestic eggs,onions,sausage,yogurt
+domestic eggs
+domestic eggs,rolls/buns,soda,whole milk
+bottled beer,newspapers,rolls/buns
+chocolate marshmallow,hard cheese,whole milk
+other vegetables,rolls/buns,root vegetables,sausage,soda
+beverages,butter milk,curd,yogurt
+bottled water
+beef
+chocolate marshmallow,coffee,frankfurter,hamburger meat,mustard,newspapers,potato products,rolls/buns,soap,waffles,whole milk
+butter,chicken,newspapers
+candles,coffee,meat,pastry,pip fruit,potted plants,sausage,sugar,tropical fruit
+beverages,pork,whipped/sour cream,whole milk
+coffee,pastry,yogurt
+cat food,detergent,dishes,margarine,shopping bags,sliced cheese,whole milk
+frankfurter,fruit/vegetable juice,ham,napkins,pastry,rolls/buns,soda,sugar,vinegar,whole milk,yogurt
+beef,brown bread,newspapers,specialty chocolate,whole milk
+butter milk,cream cheese,other vegetables,pip fruit,rolls/buns
+chocolate,coffee,rolls/buns,sausage,whole milk
+coffee,pastry
+beef,chicken,specialty chocolate
+chocolate,frozen dessert,frozen fish,frozen vegetables,other vegetables,root vegetables,sliced cheese,whole milk
+frozen meals,rolls/buns,whole milk
+detergent
+canned fish,rolls/buns
+house keeping products
+cleaner,jam,salt,sparkling wine,yogurt
+curd,rolls/buns,sliced cheese,soda,tropical fruit
+tropical fruit
+UHT-milk,artif. sweetener,curd,dental care
+beef,berries,onions,rolls/buns
+bottled water,brown bread,margarine,napkins,newspapers,pasta,whole milk
+UHT-milk,bottled water,canned beer,pork,soda
+cleaner,curd,curd cheese,hygiene articles,margarine,other vegetables,yogurt
+canned beer,fruit/vegetable juice,long life bakery product,rolls/buns,shopping bags,soda,white wine
+frankfurter,pip fruit,roll products,rolls/buns,whole milk
+hygiene articles,newspapers,shopping bags,yogurt
+cat food,coffee,curd,sliced cheese,whole milk
+bottled water,candy
+beef,butter,frankfurter
+rolls/buns,shopping bags,snack products,soda
+bottled water,hygiene articles,pastry,whole milk
+rolls/buns
+brown bread,chicken,onions,other vegetables,red/blush wine,white wine,whole milk
+butter,dishes,onions,tropical fruit,whole milk
+brown bread,hygiene articles,oil,other vegetables,sausage,shopping bags,turkey,yogurt
+candy,curd,hard cheese,newspapers,other vegetables,sausage,soda,whole milk
+citrus fruit,frankfurter,instant coffee,margarine,pastry,ready soups,shopping bags
+UHT-milk,decalcifier,frozen dessert,fruit/vegetable juice,newspapers
+newspapers,rolls/buns
+canned beer
+specialty bar,yogurt
+specialty bar,whipped/sour cream
+canned beer,rolls/buns
+rolls/buns
+beverages,rolls/buns
+rolls/buns
+rolls/buns,shopping bags
+bottled beer
+bottled water,citrus fruit,curd,oil,rolls/buns,sliced cheese,yogurt
+bottled water,soda
+pastry
+candles,coffee,domestic eggs,pastry,rolls/buns
+beef,margarine,pip fruit,rolls/buns,root vegetables
+bottled water,newspapers,rolls/buns,spread cheese
+rolls/buns,soda,spread cheese,tropical fruit
+candles,canned beer,packaged fruit/vegetables
+bottled beer,napkins,salty snack,white wine,whole milk,yogurt
+beef,butter,domestic eggs,meat,other vegetables,rolls/buns,whole milk
+bottled beer,detergent,dishes,liquor (appetizer),onions,whole milk
+UHT-milk,bottled water,brown bread,butter milk,frankfurter,grapes,margarine,organic products,other vegetables,soda
+beef,bottled beer,rolls/buns
+beef
+bottled beer,liquor (appetizer),sausage
+chicken,herbs,hygiene articles,onions
+canned beer
+bottled beer,other vegetables,root vegetables,sausage,seasonal products,whole milk
+curd,tropical fruit,whipped/sour cream,whole milk,yogurt
+abrasive cleaner,flower (seeds),frankfurter,newspapers,rolls/buns,soda
+sausage,semi-finished bread,tropical fruit
+beef,root vegetables,tropical fruit,yogurt
+flour,pastry,rum,tropical fruit
+yogurt
+frankfurter,mustard,rolls/buns
+bottled beer
+grapes,soda
+beverages,rolls/buns
+bottled beer,curd,potted plants
+flower (seeds),ice cream,sugar
+canned beer,rolls/buns,sausage,shopping bags,soda
+other vegetables
+beverages,bottled water,dessert
+decalcifier
+canned beer
+coffee
+berries,other vegetables,whipped/sour cream,whole milk
+bottled beer,newspapers,pork,rolls/buns,semi-finished bread,tropical fruit
+baking powder,butter milk,chicken,citrus fruit,cream cheese,domestic eggs,frankfurter,frozen dessert,other vegetables,pork,rolls/buns,sugar,whipped/sour cream,whole milk
+beef,bottled beer,bottled water,domestic eggs,hygiene articles,pork,whole milk
+bottled water,cat food,citrus fruit,frankfurter,onions,other vegetables,packaged fruit/vegetables,pork,root vegetables
+brandy,frozen dessert
+chicken,condensed milk,frozen vegetables,fruit/vegetable juice,other vegetables,packaged fruit/vegetables
+oil,vinegar
+rolls/buns,soda,specialty bar
+whole milk
+pork,root vegetables,whipped/sour cream,whole milk
+newspapers,rolls/buns
+Instant food products,dishes,grapes,other vegetables,zwieback
+baking powder,citrus fruit,cream cheese,frankfurter,napkins,rolls/buns,seasonal products,whipped/sour cream
+bottled beer,finished products,frozen vegetables,ice cream,packaged fruit/vegetables,root vegetables,soda,specialty cheese,yogurt
+flour,onions,other vegetables
+rolls/buns,tropical fruit,whole milk
+chocolate,chocolate marshmallow,cream cheese,other vegetables,tea
+beef,ham,other vegetables,potted plants,turkey,whole milk
+bottled beer,margarine,other vegetables,whole milk
+curd
+beef,other vegetables,sausage
+canned beer,chewing gum,liquor (appetizer)
+berries,cake bar,candy,chicken,citrus fruit,curd,frozen vegetables,ham,liquor (appetizer),margarine,onions,rolls/buns,seasonal products,skin care,soda,whole milk,yogurt
+UHT-milk,bottled water,dessert,long life bakery product,margarine,packaged fruit/vegetables,whole milk,yogurt
+meat,rolls/buns,soda,specialty bar
+dessert,whole milk
+canned beer
+UHT-milk,chicken,coffee,house keeping products,long life bakery product,rolls/buns
+newspapers,red/blush wine,rolls/buns
+bottled water,pet care
+other vegetables,root vegetables,shopping bags,soda
+pastry
+bottled water,brown bread,domestic eggs,flower (seeds),frankfurter,hamburger meat,margarine,rolls/buns,whole milk
+chicken,grapes,mayonnaise,whipped/sour cream,whole milk
+frozen dessert,semi-finished bread
+bottled water,candy,canned fruit,citrus fruit,female sanitary products,grapes,margarine,misc. beverages,rolls/buns,shopping bags,soda,tropical fruit,yogurt
+beef,berries,bottled water,butter,cat food,newspapers,pork,rolls/buns,root vegetables,sausage,whole milk
+baking powder,detergent,frozen vegetables,onions,other vegetables,packaged fruit/vegetables,pasta,rolls/buns,root vegetables,soda,soups,whipped/sour cream,whole milk
+rolls/buns,root vegetables,whole milk,yogurt
+bottled beer
+canned beer,frankfurter
+butter,coffee,root vegetables,whole milk
+UHT-milk,berries,bottled water,hygiene articles,newspapers,other vegetables,soda,whipped/sour cream
+hamburger meat
+fruit/vegetable juice,long life bakery product,margarine,newspapers,rolls/buns,semi-finished bread,tropical fruit,whole milk
+beverages,frankfurter,frozen meals,pork,waffles
+frankfurter,frozen fish,margarine,sausage,specialty bar
+newspapers,soda
+ice cream
+beef,brown bread,coffee,frozen vegetables,pastry,whole milk
+bottled water,newspapers,pastry,photo/film,whole milk
+butter,curd,fish,flour,pork,sugar,whipped/sour cream,whole milk,yogurt
+chewing gum,whole milk
+bottled beer
+UHT-milk,brown bread,grapes,margarine,pork
+potted plants,root vegetables
+canned beer
+bottled beer,bottled water,butter,citrus fruit,mustard,oil,root vegetables,whipped/sour cream,whole milk
+coffee,female sanitary products,herbs,hygiene articles,other vegetables,pip fruit,shopping bags,whole milk
+cream cheese,dessert,rice,root vegetables,yogurt
+curd,newspapers,organic products,rolls/buns,tropical fruit
+beef,butter,candles,coffee,domestic eggs,hard cheese,other vegetables,pasta,root vegetables,soft cheese,whole milk
+butter,chicken,pork,white bread,whole milk
+candles,citrus fruit,grapes,margarine,newspapers,oil,pastry,rolls/buns,whole milk
+beef,coffee,frozen meals,fruit/vegetable juice,margarine,meat,other vegetables,pip fruit,potted plants,soft cheese,tropical fruit,whipped/sour cream
+cream cheese,rolls/buns,spread cheese
+bottled beer,bottled water,citrus fruit,herbs,potted plants,whole milk
+specialty bar
+beverages,chocolate,margarine,meat,napkins,newspapers,other vegetables,rolls/buns,whole milk
+citrus fruit,pip fruit,tropical fruit
+beef,frankfurter,frozen vegetables,packaged fruit/vegetables,root vegetables,tropical fruit,whole milk
+citrus fruit,whole milk
+bottled beer,curd,other vegetables,root vegetables,specialty chocolate,turkey
+canned beer,citrus fruit,curd,dog food,mustard,onions,pasta,rolls/buns,whole milk,yogurt
+domestic eggs,sausage
+newspapers
+whole milk,yogurt
+yogurt
+yogurt
+bottled water
+berries,domestic eggs,whipped/sour cream,whole milk
+packaged fruit/vegetables,pastry,rolls/buns,whole milk
+frankfurter,soda
+jam,nuts/prunes,potted plants,semi-finished bread,shopping bags,soda,whole milk
+butter,citrus fruit,coffee,dishes,flour,other vegetables,packaged fruit/vegetables,soda,sparkling wine,sugar,whipped/sour cream,whole milk
+beef,citrus fruit,curd,fruit/vegetable juice,hard cheese,onions,rolls/buns,root vegetables
+canned beer,coffee,frozen vegetables,napkins,whole milk,yogurt
+other vegetables,whipped/sour cream
+beef,other vegetables
+berries,coffee,dessert,fish,other vegetables,red/blush wine,spread cheese,white wine,whole milk,yogurt
+curd,domestic eggs,frozen vegetables,instant coffee,newspapers,other vegetables,sugar,whole milk
+berries,butter,hard cheese,napkins,root vegetables,sliced cheese,specialty chocolate,tropical fruit,whipped/sour cream,whole milk,yogurt
+coffee
+artif. sweetener,bottled water,frozen fish,hygiene articles,newspapers,other vegetables,pork,ready soups,rolls/buns,sausage,semi-finished bread
+beverages,cream cheese,dishes,meat,root vegetables,waffles,whipped/sour cream
+abrasive cleaner,butter,chicken,long life bakery product,margarine,other vegetables,packaged fruit/vegetables,pip fruit,rolls/buns,root vegetables,rum,sugar,tropical fruit
+berries,fruit/vegetable juice,margarine,organic products,shopping bags,whipped/sour cream,whole milk
+frozen meals,misc. beverages
+whipped/sour cream
+beef,bottled beer,chocolate,root vegetables,shopping bags
+UHT-milk,bottled beer,bottled water,chicken,domestic eggs,fruit/vegetable juice,other vegetables,pork,rolls/buns,soda,whipped/sour cream,whole milk
+Instant food products,brown bread,chicken,frozen potato products,fruit/vegetable juice,hamburger meat,nuts/prunes,other vegetables,pip fruit,pork,root vegetables,shopping bags,soda,spread cheese,whole milk
+beef,bottled beer,bottled water,brown bread,hard cheese,herbs,other vegetables,rolls/buns,root vegetables,salty snack,shopping bags,tropical fruit,whole milk,yogurt
+packaged fruit/vegetables,pickled vegetables
+sugar
+beef,dessert,frankfurter,ice cream,packaged fruit/vegetables,rolls/buns,root vegetables,sausage,sliced cheese,soda,whole milk,yogurt
+berries,frozen vegetables,instant coffee,pet care
+bottled water,chewing gum,napkins,soda
+abrasive cleaner,berries,beverages,chicken,citrus fruit,curd,root vegetables,sausage
+UHT-milk,dishes,domestic eggs,fruit/vegetable juice,newspapers,soda,whole milk
+ice cream,rolls/buns
+citrus fruit,frankfurter,rolls/buns,tropical fruit
+brandy,brown bread,dog food,root vegetables,shopping bags,sweet spreads,white bread,whole milk
+rolls/buns,sausage,specialty chocolate
+baking powder,berries,citrus fruit,ham,packaged fruit/vegetables,pastry,sausage,sliced cheese,sugar,tropical fruit,whipped/sour cream,whole milk
+beef,cream cheese,root vegetables,whole milk
+fruit/vegetable juice
+hygiene articles,sugar
+berries,whipped/sour cream
+beverages,coffee,yogurt
+beef,pork
+bottled beer,shopping bags
+butter milk,coffee,curd,sliced cheese,yogurt
+Instant food products,beef,canned beer
+berries,beverages,chocolate,flour,newspapers,oil,pork,soda,whipped/sour cream
+white bread
+fruit/vegetable juice,grapes,processed cheese,rolls/buns,white bread,whole milk
+flower (seeds),potato products
+bottled water,coffee,dishes,onions,rolls/buns,root vegetables,yogurt
+UHT-milk,bathroom cleaner,canned beer,chicken,hamburger meat,newspapers,soda
+chicken,other vegetables,salt
+coffee,cream cheese,fish
+canned beer
+brown bread,frozen meals,napkins,other vegetables,rolls/buns,whole milk
+bottled beer,brown bread,chicken,frozen vegetables,newspapers,pork,red/blush wine,vinegar,whole milk
+misc. beverages,other vegetables
+tropical fruit,whole milk
+cake bar,newspapers,whole milk
+beef,berries,hamburger meat,hygiene articles,pastry
+grapes,rolls/buns,salty snack,sausage,soda
+chocolate,rolls/buns,whole milk
+rolls/buns,soda
+citrus fruit,other vegetables,pip fruit,tropical fruit
+artif. sweetener,bottled water,domestic eggs,shopping bags,sliced cheese,soda,whole milk
+bottled beer,pastry,soda
+coffee,curd cheese,frozen vegetables,fruit/vegetable juice,hard cheese,hygiene articles,ice cream,other vegetables,pastry,soft cheese,spread cheese,tropical fruit,whole milk,yogurt
+newspapers,pastry,sliced cheese
+soda
+citrus fruit,coffee,dessert,frozen meals,ham,popcorn,shopping bags,whole milk
+salty snack
+bottled water,coffee,cream cheese,curd,flour,misc. beverages,newspapers,whole milk
+root vegetables,whipped/sour cream
+canned beer,shopping bags,soda
+bottled water,canned beer,curd,dish cleaner,margarine,roll products,white wine
+bottled beer,bottled water,fruit/vegetable juice,napkins,soda
+packaged fruit/vegetables,potted plants
+bottled water,cling film/bags,frozen vegetables,ice cream,root vegetables,tropical fruit
+beef,bottled water,chocolate,domestic eggs,fruit/vegetable juice,grapes,ham,newspapers,pastry,salty snack,shopping bags,whipped/sour cream,white bread,white wine,yogurt
+UHT-milk,bottled beer,brown bread,canned beer,citrus fruit,long life bakery product,pork,soda
+beverages,cake bar,liqueur,misc. beverages,rolls/buns,soda
+rolls/buns,sausage,soda
+bottled water,citrus fruit,napkins,rolls/buns,sausage,soda,whole milk,yogurt
+butter,cream cheese,frozen fish,root vegetables,shopping bags,whole milk,yogurt
+cream cheese,whole milk
+frankfurter,other vegetables,pastry,ready soups,rolls/buns,root vegetables,turkey,yogurt
+shopping bags,soda
+bottled beer,soda
+frankfurter,popcorn
+berries,detergent,newspapers,pickled vegetables,whipped/sour cream,whole milk
+canned beer
+canned vegetables,frankfurter,pork,soda,white bread
+butter,chocolate,chocolate marshmallow,curd,dental care,dish cleaner,flour,frankfurter,hamburger meat,mustard,oil,rice,salty snack,sugar,whole milk
+berries,beverages,coffee,root vegetables,shopping bags,soups,sugar,whole milk
+frankfurter,rolls/buns
+newspapers
+frozen fish,newspapers
+newspapers,tropical fruit
+beef,berries,grapes,newspapers,potted plants,rolls/buns,whole milk,yogurt
+coffee,instant coffee,rolls/buns,salty snack,specialty chocolate
+potted plants,specialty chocolate
+dish cleaner,sparkling wine
+citrus fruit,napkins,shopping bags
+bottled beer,herbs,onions
+candles,detergent,pastry,whole milk
+photo/film
+hamburger meat
+chewing gum,other vegetables,white bread,whole milk
+rolls/buns,shopping bags,whole milk
+grapes,hard cheese,napkins,pork,shopping bags,soda,tropical fruit
+baking powder,berries,bottled water,butter,canned beer,dessert,fruit/vegetable juice,grapes,ice cream,misc. beverages,other vegetables,pastry,potted plants,salt,specialty chocolate,tropical fruit,whipped/sour cream,whole milk,yogurt
+chewing gum,chicken,citrus fruit,other vegetables,pork,potted plants,whipped/sour cream,white bread
+chewing gum,other vegetables
+bottled water,red/blush wine,sausage
+baking powder,whipped/sour cream,whole milk
+coffee,rolls/buns
+hygiene articles
+ice cream,newspapers
+curd,domestic eggs,flour,misc. beverages,newspapers,whipped/sour cream
+frozen meals,newspapers,whole milk
+bottled water,coffee,dessert,domestic eggs,onions,rolls/buns,white bread,whole milk
+finished products,fruit/vegetable juice,organic sausage,sliced cheese,white bread
+dog food,long life bakery product,salt
+brown bread,canned vegetables,domestic eggs,fruit/vegetable juice,other vegetables,root vegetables,rum,soda,tropical fruit,white bread
+other vegetables,whole milk,yogurt
+chocolate
+ice cream
+cat food,oil,tropical fruit
+citrus fruit,frankfurter,fruit/vegetable juice,pastry,sliced cheese,specialty cheese,whole milk,yogurt
+butter,canned fish,flower (seeds),pasta,softener
+butter milk,frozen fish,other vegetables,salty snack
+canned beer,chocolate,pastry,tropical fruit
+brown bread,citrus fruit,packaged fruit/vegetables,rolls/buns,root vegetables,sliced cheese,white bread,yogurt,zwieback
+UHT-milk,salt,shopping bags,soda,specialty chocolate
+beef
+canned vegetables,curd,spread cheese,sugar,yogurt
+bottled beer,citrus fruit,dessert,frozen vegetables,fruit/vegetable juice,other vegetables,salty snack,whole milk,yogurt
+bottled beer,brown bread,white wine,yogurt
+bottled beer,liquor,red/blush wine
+grapes
+other vegetables,pork,soda
+berries,candy,canned fish,chocolate,citrus fruit,cream cheese,domestic eggs,frozen vegetables,margarine,napkins,other vegetables,pastry,sausage,soups,whipped/sour cream,whole milk,yogurt
+UHT-milk,brown bread,chicken,chocolate,cocoa drinks,coffee,flour,frankfurter,fruit/vegetable juice,long life bakery product,mayonnaise,mustard,other vegetables,pastry,pork,root vegetables,salty snack,seasonal products,tropical fruit,yogurt
+artif. sweetener,photo/film,soda
+bottled beer,butter,coffee,frankfurter,onions,processed cheese,rolls/buns
+dessert,domestic eggs,pip fruit,root vegetables,shopping bags,yogurt
+coffee,detergent,frankfurter,whole milk
+newspapers,whole milk
+domestic eggs,flower soil/fertilizer,hygiene articles,photo/film
+chocolate,dessert,flower (seeds),mayonnaise,oil,packaged fruit/vegetables,shopping bags,soda,waffles
+bottled water,chicken,frozen vegetables,long life bakery product,other vegetables,whipped/sour cream
+baking powder,candy,cocoa drinks,coffee,cream cheese,curd,domestic eggs,napkins,pork,salty snack,sugar,waffles,whipped/sour cream,white bread,whole milk,yogurt
+citrus fruit,cleaner,coffee,cream cheese,curd,detergent,long life bakery product,napkins,newspapers,oil,other vegetables,pastry,vinegar,whipped/sour cream,whole milk,yogurt
+light bulbs
+cream cheese,margarine,tea
+cake bar,cleaner,curd,detergent,domestic eggs,frozen meals,house keeping products,potted plants,sausage,seasonal products,shopping bags
+citrus fruit,onions
+other vegetables,roll products,whipped/sour cream
+bottled water,butter,chicken,cling film/bags,dog food,domestic eggs,frozen fish,frozen vegetables,fruit/vegetable juice,hard cheese,long life bakery product,napkins,other vegetables,pip fruit,rice,root vegetables,softener,specialty fat,tropical fruit,whipped/sour cream,white bread,whole milk,yogurt
+ice cream
+beef,ice cream,newspapers,pork,rolls/buns
+artif. sweetener,chocolate marshmallow,flour,margarine,organic products,other vegetables,pork,semi-finished bread,tropical fruit,yogurt
+domestic eggs,hygiene articles,onions,soda
+baking powder,grapes,herbs,pip fruit,potted plants,root vegetables,seasonal products,shopping bags,tropical fruit,yogurt
+bottled water,canned beer,cream cheese,shopping bags,whipped/sour cream
+berries,butter,domestic eggs,fruit/vegetable juice,hard cheese,hygiene articles,other vegetables,rolls/buns,root vegetables,sparkling wine
+berries,coffee,dessert,shopping bags,whipped/sour cream,white bread
+long life bakery product,rolls/buns
+ice cream,long life bakery product
+coffee,dishes,fruit/vegetable juice
+butter,misc. beverages,pasta,whole milk
+whole milk
+berries,butter milk,citrus fruit,yogurt
+beef,cream,dental care,domestic eggs,grapes,hard cheese,mustard,nuts/prunes,onions,other vegetables,pastry,rolls/buns,root vegetables,shopping bags,sliced cheese,soft cheese,specialty bar,specialty chocolate
+citrus fruit,grapes,pork,potted plants,ready soups,root vegetables,whole milk
+butter milk,curd,curd cheese,margarine,other vegetables,pip fruit,rice,root vegetables,tropical fruit,turkey,vinegar,yogurt
+margarine,newspapers
+butter milk,yogurt
+beef,butter,butter milk,curd,domestic eggs,onions,other vegetables,pastry,shopping bags,tropical fruit,white bread,whole milk,yogurt
+bottled water
+bottled water,domestic eggs,long life bakery product,pip fruit,whole milk
+rice,whole milk
+chocolate
+butter milk,chicken,frankfurter,long life bakery product,margarine
+white bread,whole milk
+dish cleaner,domestic eggs,root vegetables,sausage
+grapes,soda,waffles,zwieback
+brown bread
+cream cheese,margarine,oil,other vegetables,pasta,potted plants,root vegetables,salty snack
+UHT-milk,bottled water
+onions
+beef,bottled water,misc. beverages,shopping bags,specialty chocolate
+bottled beer,pork,rolls/buns,whole milk
+candy,canned beer,shopping bags,specialty chocolate
+margarine,yogurt
+baking powder,cat food,chocolate,flour,fruit/vegetable juice,hygiene articles,margarine,napkins,newspapers,soda,sugar,whipped/sour cream,yogurt
+curd,dessert,newspapers,pip fruit,shopping bags,specialty bar,specialty chocolate,yogurt
+chicken,meat,oil,root vegetables,whole milk
+bottled beer,coffee,misc. beverages
+bottled water
+bottled beer,liquor
+fruit/vegetable juice,pasta,pet care,sausage,whipped/sour cream,whole milk
+shopping bags
+dishes,domestic eggs,herbs,other vegetables,pork,specialty bar,yogurt
+chewing gum,frankfurter,other vegetables,specialty cheese
+ice cream
+canned beer,margarine,other vegetables,root vegetables,spread cheese
+domestic eggs,frozen meals,grapes,newspapers,other vegetables,processed cheese,salty snack,sausage,tropical fruit,white bread
+citrus fruit,frozen vegetables,fruit/vegetable juice,hygiene articles,instant coffee,other vegetables,pastry,pip fruit,root vegetables,sausage,soda,spread cheese,whipped/sour cream,whole milk,yogurt
+root vegetables
+canned vegetables
+bottled beer,brown bread,misc. beverages,tropical fruit,white bread,whole milk
+UHT-milk,candy,dental care,fruit/vegetable juice,grapes,newspapers,rolls/buns,shopping bags,soft cheese,yogurt
+pastry,whole milk
+brown bread,canned beer,domestic eggs,frankfurter,fruit/vegetable juice,margarine,shopping bags,whole milk,yogurt
+bottled water,dessert,soda
+shopping bags
+butter,rolls/buns,salt
+butter,chicken,chocolate,frankfurter,frozen vegetables,fruit/vegetable juice,ham,pastry,potted plants,processed cheese,red/blush wine,soda,white bread,whole milk
+cake bar,ice cream,pork,soda
+bottled beer,roll products,rolls/buns,whole milk,zwieback
+brown bread
+canned beer,frozen fish,red/blush wine
+misc. beverages,soda
+frozen vegetables,whole milk
+cream cheese,frozen dessert,fruit/vegetable juice,grapes,hamburger meat,meat spreads,other vegetables,pip fruit,pork,root vegetables,soda,sugar,whole milk,yogurt
+whipped/sour cream
+UHT-milk,curd,dish cleaner,frankfurter,instant coffee,pastry,pip fruit,root vegetables,waffles,white bread,yogurt
+butter,grapes,newspapers,other vegetables,toilet cleaner,whole milk
+UHT-milk,beverages,butter,chocolate,curd,grapes,pastry,processed cheese,rolls/buns,sausage,sliced cheese,whipped/sour cream,yogurt
+citrus fruit,liquor,shopping bags,specialty bar,white bread
+butter,domestic eggs,fruit/vegetable juice,ham,hard cheese,ice cream,misc. beverages,yogurt
+chewing gum
+beef
+beef,cat food,grapes,misc. beverages,pasta,pastry,pip fruit,processed cheese,rolls/buns,root vegetables,soda,specialty vegetables,tropical fruit,white bread
+bottled beer,cereals,long life bakery product,other vegetables,specialty cheese,whole milk,yogurt
+chocolate marshmallow,domestic eggs,frankfurter,ham,long life bakery product,other vegetables,pastry,rolls/buns,sausage,specialty bar
+canned fish
+baking powder,other vegetables,pickled vegetables,rum,sausage,sliced cheese,white bread,whole milk
+bottled water,candy,chewing gum,fruit/vegetable juice,long life bakery product,soda
+specialty cheese
+bottled water,soda
+bottled water,chewing gum,soda
+beef,bottled water,brown bread,chicken,curd,light bulbs,napkins,pastry,pickled vegetables,salty snack,sauces,soda,specialty bar,waffles,whole milk
+artif. sweetener,dessert,flour,frankfurter,margarine,pastry,rum,sauces,skin care,sugar,tropical fruit
+bottled water,candy,chicken,citrus fruit,frozen vegetables,fruit/vegetable juice,hard cheese,margarine,mayonnaise,napkins,other vegetables,pastry,pickled vegetables,processed cheese,rice,roll products,root vegetables,skin care,sugar,whole milk,yogurt
+chicken,condensed milk,dishes,domestic eggs,kitchen towels,long life bakery product,napkins,pastry,processed cheese,semi-finished bread,shopping bags,soda,soft cheese,specialty chocolate,tropical fruit,waffles,white bread,whole milk
+bottled water,butter,canned beer,pastry,rolls/buns,waffles
+UHT-milk,brown bread,citrus fruit,dessert,root vegetables,yogurt
+beverages,liquor (appetizer),whipped/sour cream
+citrus fruit,frankfurter,turkey
+beef,brown bread,citrus fruit,coffee,domestic eggs,other vegetables,rolls/buns,salty snack,shopping bags,soda,whole milk
+chicken,other vegetables,specialty chocolate,white wine
+baby food,brown bread,butter,butter milk,cake bar,chocolate,curd,dessert,finished products,frozen vegetables,fruit/vegetable juice,other vegetables,pasta,pastry,pip fruit,rolls/buns,salty snack,sausage,shopping bags,soft cheese,soups,tropical fruit,waffles,whipped/sour cream,white bread,yogurt
+UHT-milk,butter,citrus fruit,dessert,flower (seeds),shopping bags,whole milk
+coffee,ice cream,waffles
+specialty chocolate
+UHT-milk,bottled water,detergent,frankfurter,frozen vegetables,herbs,margarine,mayonnaise,potted plants,salty snack,seasonal products,soda,yogurt
+pork
+UHT-milk,chocolate,vinegar,waffles
+UHT-milk,brown bread,canned beer,coffee,domestic eggs,liquor (appetizer),newspapers,soda
+cookware
+UHT-milk,bottled beer,butter,citrus fruit,margarine
+brown bread,butter,cat food,hamburger meat,margarine,onions,other vegetables,sausage,tropical fruit,white bread,yogurt
+Instant food products,bottled water,domestic eggs,frankfurter,other vegetables,pastry,rolls/buns,root vegetables,soups
+UHT-milk,citrus fruit,cream cheese,dish cleaner,house keeping products,shopping bags,yogurt
+bottled water,chewing gum,fruit/vegetable juice,ham,popcorn,processed cheese,semi-finished bread,shopping bags,soda,white bread,whole milk
+butter,chicken,citrus fruit,ham,herbs,napkins,other vegetables,pip fruit
+bottled water,canned beer
+candy,popcorn
+bottled beer,cream cheese,other vegetables,pip fruit,soda,tropical fruit
+UHT-milk,coffee,domestic eggs,frankfurter,frozen dessert,frozen meals,mustard,pastry,rolls/buns,sausage
+citrus fruit,cocoa drinks,hamburger meat,packaged fruit/vegetables,rolls/buns,specialty chocolate,vinegar
+candy,soda
+bottled water,flower (seeds),rolls/buns,root vegetables,sausage,white wine
+coffee,frozen meals,frozen vegetables,instant coffee,pickled vegetables,sliced cheese,yogurt
+bottled beer,cat food,coffee,dish cleaner,domestic eggs,kitchen towels,margarine,meat,napkins,other vegetables,pet care,red/blush wine,sliced cheese,soft cheese,whole milk,yogurt
+red/blush wine
+UHT-milk,instant coffee
+brown bread
+semi-finished bread
+misc. beverages,shopping bags,soda,whole milk
+cat food,dish cleaner,shopping bags
+UHT-milk,bottled water,citrus fruit,curd,dessert,frozen meals,frozen vegetables,fruit/vegetable juice,grapes,napkins,other vegetables,pip fruit,root vegetables,specialty chocolate,tropical fruit,whipped/sour cream,whole milk
+bottled beer,butter,canned beer,chocolate,citrus fruit,other vegetables,seasonal products,soda,waffles
+bottled water,cream cheese,margarine,meat,other vegetables,packaged fruit/vegetables,salty snack
+rolls/buns
+fruit/vegetable juice,root vegetables,salt,salty snack,whipped/sour cream
+bottled beer,curd,other vegetables,tropical fruit,whipped/sour cream,whole milk
+bottled beer,brown bread,oil,soda,sugar
+shopping bags
+bottled beer,brown bread,grapes,white wine
+candy,cream cheese,ham,processed cheese,tropical fruit,white bread
+root vegetables,skin care
+canned beer,ice cream,misc. beverages,napkins,shopping bags
+bottled beer,bottled water,napkins,other vegetables,tropical fruit
+finished products,fruit/vegetable juice,other vegetables,soda
+dessert
+sparkling wine
+dental care,oil,other vegetables,yogurt
+misc. beverages
+nut snack,other vegetables
+misc. beverages
+UHT-milk,canned beer,dessert,light bulbs,soda,yogurt
+cream cheese,frankfurter,fruit/vegetable juice,kitchen towels,newspapers,rolls/buns,tropical fruit
+beverages,bottled water,cake bar,citrus fruit,pip fruit,sausage,sliced cheese,soda,sugar,yogurt
+citrus fruit,meat,other vegetables,root vegetables,salty snack,semi-finished bread,whipped/sour cream
+bottled beer,flower (seeds),margarine,pastry,sausage,soda,yogurt
+onions
+abrasive cleaner,beef,bottled water,brown bread,canned vegetables,citrus fruit,dish cleaner,herbs,hygiene articles,onions,other vegetables,specialty cheese,whipped/sour cream,whole milk,yogurt
+brown bread,butter,detergent,fruit/vegetable juice,other vegetables,pastry,pip fruit,whipped/sour cream,yogurt
+cookware,domestic eggs,frozen vegetables,ham,hamburger meat,onions,other vegetables,processed cheese,rolls/buns,shopping bags,white bread
+newspapers,yogurt
+bottled water,citrus fruit,curd,grapes,waffles
+other vegetables,sugar
+frozen fish,frozen meals,pork,shopping bags
+bathroom cleaner
+frozen potato products,grapes,ham,ice cream,oil,pudding powder,spread cheese,white bread
+bottled water,brandy,canned beer,coffee,grapes,pasta,soda,specialty cheese,white wine
+pastry
+bottled water,citrus fruit,photo/film,red/blush wine
+photo/film
+dessert,white bread
+citrus fruit,long life bakery product,pip fruit,tropical fruit
+soda
+chewing gum
+bottled beer,root vegetables,sliced cheese,soda
+other vegetables,pork
+UHT-milk,fruit/vegetable juice,turkey,whole milk
+candy,other vegetables,shopping bags,soda,tropical fruit
+canned beer,coffee,light bulbs,margarine,napkins,oil,other vegetables,pasta,sausage,shopping bags,syrup
+bottled water,brown bread,canned beer,canned fish,liquor (appetizer),meat,other vegetables,sausage,shopping bags
+bottled water,canned beer,coffee,dessert,flour,fruit/vegetable juice,other vegetables,pork,rice,roll products,salty snack,soda,tropical fruit,yogurt
+brown bread,citrus fruit,mayonnaise,pip fruit,sausage,shopping bags
+chocolate,grapes,light bulbs
+grapes,light bulbs,pastry,salty snack,shopping bags
+bottled water,ketchup,male cosmetics,other vegetables,processed cheese,yogurt
+potted plants
+bottled water,potted plants
+hygiene articles,potted plants,prosecco
+UHT-milk,dish cleaner,napkins,soda
+bottled water,candy,chewing gum,soda,specialty chocolate
+canned beer,canned fish,rolls/buns
+specialty chocolate
+beef,bottled beer,butter milk,chocolate,cream cheese,fruit/vegetable juice,other vegetables,whipped/sour cream,white bread,yogurt
+bottled water,pasta,tropical fruit
+beef,butter,flour,other vegetables,rolls/buns,root vegetables,yogurt
+rolls/buns,white wine
+berries,bottled beer,roll products,root vegetables,whipped/sour cream
+hamburger meat,hygiene articles,oil,pickled vegetables,rolls/buns,sausage,softener,whole milk
+beef,chicken,curd,pork,whipped/sour cream,whole milk
+chewing gum,citrus fruit,cream cheese,frozen vegetables,fruit/vegetable juice,pastry,processed cheese,rolls/buns,sausage,whole milk
+shopping bags
+canned beer
+canned beer,soda
+UHT-milk,rolls/buns,yogurt
+newspapers,red/blush wine,rolls/buns
+coffee,rolls/buns
+brown bread,whole milk
+citrus fruit,cream cheese,curd,domestic eggs,flour,hard cheese,margarine,oil,other vegetables,rice,root vegetables,sugar,whipped/sour cream,whole milk,yogurt
+brown bread,citrus fruit,grapes,pastry,tropical fruit,whole milk
+brown bread,chocolate
+UHT-milk,frozen vegetables,fruit/vegetable juice,kitchen towels,margarine,oil,other vegetables,tropical fruit,whipped/sour cream
+baking powder,bottled water,butter,frankfurter,frozen vegetables,long life bakery product,misc. beverages,newspapers,rolls/buns,sugar,tropical fruit,whipped/sour cream
+coffee
+bottled beer,chewing gum,ham,rolls/buns
+bottled water,curd,other vegetables,pickled vegetables,yogurt
+butter milk,curd,sausage,whipped/sour cream,whole milk
+canned beer,margarine,newspapers,pork,soda,whole milk
+citrus fruit,cookware,soda,whipped/sour cream,yogurt
+domestic eggs,hygiene articles,pastry,tropical fruit,whole milk
+cream cheese,other vegetables,yogurt
+chocolate,long life bakery product,pork,soda,sugar,whole milk
+baking powder,bottled beer,candy,chicken,chocolate,frozen fish,margarine,other vegetables,pip fruit,pork,rolls/buns,soda,tidbits,waffles,white wine,whole milk
+potted plants,rolls/buns,root vegetables,whole milk,yogurt
+baby cosmetics,cake bar,citrus fruit,shopping bags
+fruit/vegetable juice
+beef,cat food,ice cream,tropical fruit,whole milk
+beef,beverages,butter,candles,chicken,citrus fruit,cream cheese,curd,domestic eggs,flour,frankfurter,ham,hard cheese,hygiene articles,liver loaf,margarine,mayonnaise,other vegetables,pasta,roll products,rolls/buns,root vegetables,sausage,skin care,soft cheese,soups,specialty fat,sugar,tropical fruit,whipped/sour cream,whole milk,yogurt
+coffee,frankfurter,hygiene articles,other vegetables,pastry,pip fruit,rolls/buns,soda,spread cheese,waffles,white bread,yogurt
+beef,bottled beer,bottled water,brown bread,canned beer,hamburger meat,other vegetables,rolls/buns,soda
+brown bread,butter,butter milk,curd,dessert,domestic eggs,ham,hamburger meat,hygiene articles,other vegetables,pip fruit,pork,roll products,whipped/sour cream,whole milk
+shopping bags
+baking powder,cat food,other vegetables,pork,root vegetables,salty snack,shopping bags,specialty fat,sugar,waffles
+bathroom cleaner,bottled beer,bottled water,condensed milk,misc. beverages
+bottled beer,chicken,newspapers,red/blush wine
+butter,cat food,domestic eggs,meat,sausage
+bottled beer,potted plants
+chicken,domestic eggs,grapes,other vegetables,pastry,pork,rolls/buns,soda,specialty bar
+cereals,finished products,margarine,other vegetables,salty snack,soda,whipped/sour cream,whole milk
+abrasive cleaner,beef,berries,cat food,citrus fruit,cleaner,cream cheese,detergent,dish cleaner,hygiene articles,oil,other vegetables,pork,root vegetables,shopping bags,specialty chocolate,vinegar,whole milk,yogurt
+frozen potato products,root vegetables,whole milk,yogurt
+domestic eggs,seasonal products,shopping bags
+domestic eggs,seasonal products,shopping bags,specialty bar
+bottled water,soda
+cling film/bags
+bottled water,canned beer,fruit/vegetable juice,other vegetables,rolls/buns,shopping bags,whisky
+whole milk
+brown bread,butter,coffee,frozen dessert,frozen vegetables,meat,pastry,pork,sausage,whipped/sour cream,white bread,whole milk
+canned beer,mayonnaise,rolls/buns,sausage,shopping bags
+domestic eggs,sliced cheese,tropical fruit,zwieback
+beef,butter,cookware,dog food,frankfurter,long life bakery product,newspapers,pip fruit,tropical fruit,yogurt
+frozen potato products,potted plants
+frankfurter,packaged fruit/vegetables,sausage,soda
+frankfurter,other vegetables,zwieback
+beverages,brown bread,cat food,chicken,dessert,herbs,other vegetables,pip fruit,root vegetables,shopping bags,tropical fruit,whipped/sour cream,yogurt
+dishes,flower (seeds),napkins,other vegetables,pip fruit,tropical fruit,whole milk
+bottled beer
+citrus fruit,coffee,grapes,pastry,rolls/buns,soda
+beverages,brandy,cookware,curd,hamburger meat,male cosmetics,pip fruit,shopping bags,whole milk
+berries,chicken,frozen vegetables,mayonnaise,newspapers,salty snack
+pork
+rolls/buns
+bottled water
+Instant food products,coffee,house keeping products,margarine,pastry,popcorn,processed cheese,sausage,tropical fruit,whole milk,yogurt
+bottled water,frozen potato products,soda
+baking powder,bottled water,candy,canned beer,cat food,curd cheese,domestic eggs,frankfurter,margarine,napkins,whipped/sour cream,whole milk
+baking powder,bottled water,butter,candy,coffee,fruit/vegetable juice,jam,long life bakery product,napkins,other vegetables,processed cheese,root vegetables,salty snack,sausage,soda,sugar,whipped/sour cream,whole milk
+dessert,fruit/vegetable juice,sweet spreads,tropical fruit
+bottled beer
+bottled beer
+brown bread,rolls/buns
+citrus fruit,coffee,tropical fruit,whole milk
+softener,yogurt
+beef,butter,butter milk,candy,fruit/vegetable juice,hamburger meat,oil,onions,other vegetables,pork,rolls/buns,root vegetables,tropical fruit,turkey,waffles,whole milk,yogurt
+soda,softener
+canned beer
+canned beer
+other vegetables,sausage,whole milk
+canned vegetables,cleaner,curd,pork,rolls/buns,root vegetables,soda,whipped/sour cream,white bread,whole milk
+Instant food products
+bottled water,frankfurter,fruit/vegetable juice,pastry,sausage,soda,sugar,tropical fruit,whole milk,yogurt
+dental care,newspapers,oil
+chicken,hamburger meat,other vegetables,rolls/buns,shopping bags
+beef,candy,domestic eggs,flour,rolls/buns
+UHT-milk,bottled water,canned beer,chewing gum,dessert,shopping bags,soda,softener
+canned beer,citrus fruit,domestic eggs,margarine,other vegetables,pork
+baking powder,curd,flour,newspapers,whipped/sour cream
+chicken,red/blush wine
+whipped/sour cream
+brown bread,frankfurter,ham,margarine,onions,rolls/buns,root vegetables,white bread,whole milk,yogurt
+bottled beer,frankfurter,mustard,pastry,rolls/buns,root vegetables,shopping bags
+chocolate,liver loaf,pet care,root vegetables,waffles
+napkins,onions,other vegetables,pork,root vegetables,shopping bags,whole milk
+UHT-milk,chocolate,dental care,dishes,frankfurter,liver loaf,pasta,turkey,waffles
+butter,citrus fruit,dishes,flower (seeds),newspapers,other vegetables,pork,root vegetables,soda,whole milk
+butter,ice cream,newspapers,onions,other vegetables,pork,root vegetables,semi-finished bread,sliced cheese,soda,soft cheese,tropical fruit,whipped/sour cream,whole milk
+soda
+bottled beer,margarine,rolls/buns,root vegetables,soda
+beverages,chocolate,fruit/vegetable juice,whipped/sour cream
+chocolate
+frozen vegetables,specialty chocolate,whole milk
+beef,curd,pastry,pork,rolls/buns,whole milk
+coffee,shopping bags
+rolls/buns,waffles
+cat food,citrus fruit,flour,hard cheese,other vegetables,rolls/buns,specialty cheese,whole milk,yogurt
+brown bread,citrus fruit,pasta,yogurt
+chocolate,newspapers,shopping bags,soda,specialty chocolate
+cream cheese,rolls/buns
+soda
+chicken,coffee,shopping bags,whipped/sour cream
+frozen fish
+chicken,meat,other vegetables,root vegetables,salt,salty snack,sausage,whole milk
+beef,berries,other vegetables,shopping bags,white bread
+baking powder,bottled beer,canned vegetables,female sanitary products,frozen meals,ham,hard cheese,rice,rolls/buns,soups,whole milk
+bottled beer,bottled water,butter,chicken,hard cheese,onions,packaged fruit/vegetables,pork,root vegetables,salt
+butter,herbs,hygiene articles,margarine,misc. beverages,other vegetables,shopping bags,white bread,whole milk
+grapes,root vegetables
+chewing gum,chocolate,pip fruit,tropical fruit,whole milk
+berries,canned beer,domestic eggs,frankfurter,ketchup,margarine,meat,misc. beverages,other vegetables,salty snack,tropical fruit,whipped/sour cream,whole milk
+chocolate,onions,other vegetables,rolls/buns,salt,shopping bags,specialty bar
+berries,canned vegetables,citrus fruit,domestic eggs,newspapers,organic sausage,rolls/buns,salty snack,sausage,whipped/sour cream,yogurt
+canned beer,citrus fruit,newspapers,other vegetables,pastry,rolls/buns,soft cheese
+canned beer,detergent,hamburger meat,hygiene articles,pastry,shopping bags,soda,softener
+cleaner,coffee,flour,frankfurter,frozen dessert,frozen meals,other vegetables,root vegetables,shopping bags,sliced cheese,sugar,whipped/sour cream,whole milk
+pork,sausage
+other vegetables,root vegetables,yogurt
+dish cleaner,newspapers,oil
+canned beer
+newspapers
+chewing gum,kitchen towels,other vegetables,pip fruit,root vegetables,whole milk
+coffee
+red/blush wine,specialty chocolate
+onions,pet care,specialty bar,vinegar
+berries,brown bread,domestic eggs,frankfurter,other vegetables,pastry,rolls/buns,shopping bags,soft cheese,whole milk
+beef,berries,brown bread,detergent,meat,other vegetables,pip fruit,sugar,tropical fruit,white bread,whole milk
+bottled beer,candles,canned fish,hygiene articles,soda,whole milk
+dessert,dishes
+baking powder,hamburger meat,sweet spreads
+chewing gum,dishes,napkins
+bottled beer,bottled water,fruit/vegetable juice,prosecco
+beverages,chocolate marshmallow,long life bakery product,pastry
+bottled beer,bottled water,coffee,frozen meals,fruit/vegetable juice,salty snack,sugar,whole milk,yogurt
+butter milk,citrus fruit,dessert,detergent,dish cleaner,domestic eggs,flour,grapes,ketchup,oil,other vegetables,pip fruit,sugar,yogurt
+bottled water,cat food,dish cleaner,hard cheese,rolls/buns,tropical fruit,whole milk
+cat food,soda
+beverages,pastry,soda,whole milk
+fruit/vegetable juice,soda
+salty snack,sausage,yogurt
+brown bread,butter,cream cheese,domestic eggs,fruit/vegetable juice,jam,misc. beverages,napkins,potted plants,root vegetables,soft cheese,whipped/sour cream,whole milk,yogurt
+berries,butter milk,newspapers,other vegetables,soda,yogurt
+other vegetables
+abrasive cleaner,bottled beer,light bulbs,pip fruit,root vegetables,sausage
+beverages,bottled water,misc. beverages
+chicken,roll products,root vegetables,shopping bags,vinegar
+chocolate,whole milk,yogurt
+canned vegetables,dog food,hard cheese,rolls/buns,sausage
+brown bread,citrus fruit,dishes,ham,hamburger meat,onions,other vegetables,red/blush wine,root vegetables,shopping bags,soda,sugar,white bread,whole milk
+brown bread,whole milk
+bottled water,dishes,onions,root vegetables,whole milk
+citrus fruit,frozen potato products
+butter,butter milk,chicken,chocolate,chocolate marshmallow,dessert,detergent,frankfurter,hygiene articles,ice cream,margarine,napkins,oil,pastry,potted plants,salty snack,soda
+ice cream,salty snack,waffles
+brown bread,butter,candy,chicken,cream cheese,domestic eggs,frozen vegetables,ham,meat,newspapers,other vegetables,rolls/buns,sausage,semi-finished bread,tropical fruit,whole milk,yogurt
+fruit/vegetable juice,long life bakery product,potted plants,root vegetables
+bottled water,cat food,detergent,frozen vegetables,fruit/vegetable juice,grapes,ham,house keeping products,oil,onions,other vegetables,pastry,semi-finished bread,sliced cheese,soft cheese,tropical fruit,whipped/sour cream,white bread,yogurt
+coffee
+canned beer,citrus fruit,frozen meals,red/blush wine,salty snack
+potted plants
+chocolate,other vegetables
+pastry,white bread,whole milk
+chocolate,mustard,oil,zwieback
+canned beer,chicken,domestic eggs,other vegetables,pastry,whole milk
+butter,dog food,yogurt
+dessert,frozen dessert,frozen meals,ham,hygiene articles,long life bakery product,newspapers,shopping bags,soda,specialty bar,sweet spreads,white bread
+butter milk,chewing gum,shopping bags,soda,whole milk
+citrus fruit,cling film/bags,liquor,misc. beverages
+cream cheese,curd,ham,herbs,light bulbs,other vegetables,yogurt
+canned beer
+brown bread,frankfurter,margarine,packaged fruit/vegetables,waffles
+candy,chicken,shopping bags,tropical fruit
+bottled beer,frankfurter
+bottled beer
+coffee,cream cheese,dishes,other vegetables
+frozen potato products
+chicken,whole milk
+chocolate,domestic eggs,grapes,margarine,meat,other vegetables,rolls/buns,sausage,soda,soft cheese,yogurt
+canned beer
+chocolate,yogurt
+frozen meals,pet care,soda
+bottled water,canned fruit,meat spreads
+butter,chocolate,waffles
+pastry,semi-finished bread,shopping bags,soda,yogurt
+canned beer,citrus fruit,soft cheese,whole milk
+meat,yogurt
+butter,frozen vegetables,root vegetables,salty snack
+butter,dessert,frankfurter,fruit/vegetable juice,pastry,sausage,whole milk
+female sanitary products,frozen meals,instant coffee,newspapers,other vegetables,packaged fruit/vegetables,potted plants,shopping bags,soda,tropical fruit,white bread,whole milk
+instant coffee,sugar,yogurt
+other vegetables,root vegetables,sparkling wine,white bread
+pastry,rolls/buns,soda,yogurt
+oil
+berries,citrus fruit,grapes,oil,pip fruit,rolls/buns,shopping bags,soft cheese
+beef,beverages,butter milk,chocolate,cream cheese,root vegetables,soda,sweet spreads,whole milk,yogurt
+bottled beer,bottled water,citrus fruit,cream cheese,domestic eggs,long life bakery product,napkins,onions,other vegetables,seasonal products,sugar,whole milk
+dessert,misc. beverages
+curd,jam,shopping bags
+bottled water
+coffee,domestic eggs,sausage,soda
+herbs
+bottled beer,dog food,fruit/vegetable juice,soda
+bottled water,chewing gum,hygiene articles,misc. beverages,packaged fruit/vegetables,pastry,potted plants,shopping bags,soda,specialty bar,whole milk
+frankfurter,pork,specialty bar,specialty fat
+beef,chocolate,finished products,hair spray,rolls/buns,shopping bags,specialty chocolate,spread cheese,tropical fruit,waffles
+oil
+curd
+herbs,potted plants
+coffee,other vegetables,rolls/buns,sausage,shopping bags,sliced cheese,soda
+pudding powder,sugar,whole milk
+sausage,waffles
+soda
+bottled water,canned beer,soda,whole milk
+brandy,brown bread,detergent,dish cleaner,female sanitary products,napkins,root vegetables,shopping bags,whole milk
+sugar
+cream cheese,dishes
+candy,chocolate,long life bakery product,misc. beverages,other vegetables,shopping bags
+detergent,frozen fruits
+whipped/sour cream
+yogurt
+beef,other vegetables,pork,shopping bags,yogurt
+baking powder,butter,domestic eggs,grapes,salt,sugar
+soda,whole milk
+berries,bottled water,butter milk,cat food,citrus fruit,coffee,domestic eggs,frozen meals,fruit/vegetable juice,grapes,ham,hygiene articles,sausage,soda,waffles
+canned beer
+coffee,hamburger meat,meat,spices
+soda
+bottled beer
+whole milk,yogurt
+chicken,whole milk
+pip fruit
+UHT-milk,margarine,pork,rolls/buns
+oil
+shopping bags,whole milk
+chocolate,coffee,pastry,pip fruit,rolls/buns,root vegetables,whole milk
+coffee,detergent,root vegetables
+curd,dessert,ham,whole milk
+bottled beer,chocolate marshmallow,ice cream,soda
+brown bread,sausage,soda,whole milk
+detergent
+cling film/bags,female sanitary products,oil
+chewing gum,frozen potato products,grapes,ice cream,long life bakery product,misc. beverages,napkins,pastry,photo/film,pip fruit,rolls/buns,salty snack,soda,specialty bar,tropical fruit
+photo/film
+UHT-milk,coffee
+bottled beer,meat,shopping bags
+bottled water,butter,condensed milk,fruit/vegetable juice,grapes,oil,roll products,root vegetables,whipped/sour cream,whole milk
+baking powder,curd,frozen vegetables,grapes,liver loaf,pip fruit,tropical fruit,whipped/sour cream,whole milk
+beef,bottled beer,hygiene articles,other vegetables,root vegetables,soda
+baking powder,butter,domestic eggs,flour,oil,root vegetables,shopping bags,specialty chocolate,sugar,white wine,whole milk
+bottled water,brown bread,fruit/vegetable juice,pork
+butter milk,shopping bags
+brown bread,shopping bags,specialty chocolate
+canned beer,curd,herbs,newspapers,roll products,vinegar
+newspapers
+brandy
+bottled beer,long life bakery product,pastry,shopping bags,sugar
+beverages,chocolate,soda
+UHT-milk
+chocolate,coffee,cream cheese,jam,pasta,soda,sweet spreads
+liquor,red/blush wine,rolls/buns
+rolls/buns
+bottled water,rolls/buns
+brown bread,pastry,sausage,whole milk
+hard cheese,rolls/buns,shopping bags,soda
+canned beer
+canned beer
+berries,brown bread,citrus fruit,cream cheese,meat spreads,tropical fruit,yogurt
+yogurt
+beverages,fruit/vegetable juice,potted plants,rolls/buns,yogurt
+salty snack
+frozen vegetables,tropical fruit
+brown bread,butter,citrus fruit,cleaner,frozen vegetables,fruit/vegetable juice,other vegetables,rolls/buns,whole milk
+rolls/buns
+salty snack,whipped/sour cream
+butter milk,citrus fruit,whipped/sour cream,whole milk
+butter milk
+bottled beer,bottled water,other vegetables,soups,whole milk
+canned beer
+fruit/vegetable juice,soda
+tropical fruit,whole milk
+bathroom cleaner,bottled beer,coffee,liquor (appetizer),soda
+frozen vegetables,ham,other vegetables,whole milk
+whipped/sour cream
+bottled water,citrus fruit,decalcifier,long life bakery product,newspapers,rolls/buns,tropical fruit,whole milk
+dessert,fruit/vegetable juice,newspapers
+rolls/buns,whole milk
+canned beer
+rolls/buns,soda
+cling film/bags,dessert,fish,yogurt
+cling film/bags,fruit/vegetable juice,meat,other vegetables,rolls/buns
+rolls/buns,sausage
+dishes,margarine,oil,other vegetables
+napkins,other vegetables,tropical fruit,waffles
+baby cosmetics
+citrus fruit,coffee
+bottled water,domestic eggs,margarine,rolls/buns,root vegetables,tropical fruit,whipped/sour cream,whole milk,yogurt
+spices
+citrus fruit,hamburger meat,rolls/buns,root vegetables,sausage,whole milk,yogurt
+coffee,condensed milk,rolls/buns,sausage
+beef,candles,margarine,other vegetables
+canned beer,salty snack,shopping bags
+canned beer
+rolls/buns,shopping bags,soda,waffles
+beverages,bottled water,newspapers,whole milk
+brown bread,potted plants,root vegetables
+yogurt
+onions,shopping bags
+citrus fruit,coffee,hamburger meat,rice,rolls/buns,tropical fruit
+dishes,napkins
+UHT-milk,bottled water,brown bread,butter milk,other vegetables
+UHT-milk,chicken,curd,newspapers,other vegetables,rolls/buns,whole milk
+detergent,frozen potato products,margarine,meat,soda,whole milk
+rolls/buns
+butter,jam,rolls/buns,soda,yogurt
+brown bread,fish,other vegetables,sausage,shopping bags
+rolls/buns
+other vegetables,rolls/buns
+frankfurter,whole milk
+newspapers
+brown bread,cat food,citrus fruit,fruit/vegetable juice,grapes,jam,napkins,onions,other vegetables,pastry,pickled vegetables,rolls/buns,root vegetables,tropical fruit,turkey
+butter,napkins,newspapers,oil,onions,roll products
+Instant food products,canned fish,curd,ice cream,newspapers,whole milk
+bottled water,frozen vegetables,newspapers,skin care,sweet spreads,yogurt
+flower (seeds),whipped/sour cream
+brown bread,frozen vegetables
+canned fruit,citrus fruit,detergent,dog food,domestic eggs,misc. beverages,whole milk
+oil,onions,yogurt
+butter milk,rolls/buns,sausage,soda
+butter,dishes,napkins,other vegetables,pastry
+brown bread,frankfurter,sugar
+domestic eggs,rolls/buns,white wine
+canned fish,rolls/buns,soda
+bottled beer
+waffles
+coffee,condensed milk,napkins
+canned beer
+chewing gum,dishes,meat,onions,other vegetables
+frozen vegetables,fruit/vegetable juice,long life bakery product,whole milk
+beef,liver loaf,margarine,packaged fruit/vegetables,pastry,pip fruit,whole milk
+cat food,frankfurter,mustard,napkins,rolls/buns,root vegetables,sugar,vinegar
+chicken,flour,rolls/buns,salt,sugar,vinegar,whole milk
+citrus fruit,frankfurter,ham,other vegetables
+pip fruit,sliced cheese,yogurt
+bottled water,dishes,newspapers,other vegetables,rolls/buns,root vegetables,whole milk
+other vegetables,pip fruit
+baking powder,coffee,frozen meals,hamburger meat,other vegetables,pork,whipped/sour cream,whole milk
+condensed milk,other vegetables,salt,whipped/sour cream
+long life bakery product,pastry,shopping bags
+dental care,detergent,pip fruit,sausage,whipped/sour cream
+newspapers,processed cheese,red/blush wine
+napkins
+long life bakery product,meat,napkins,oil,pickled vegetables,whipped/sour cream,whole milk
+pastry
+canned fruit,dessert,other vegetables,root vegetables,sausage,shopping bags,snack products,soda,waffles,whole milk
+bottled beer,detergent,ice cream,pip fruit,root vegetables,whole milk
+frozen vegetables
+citrus fruit,coffee,tropical fruit
+bottled beer,other vegetables,salty snack,soda,whipped/sour cream,yogurt
+chewing gum,frankfurter,frozen dessert,shopping bags,white wine
+sausage
+beef,beverages,bottled water,cat food,flour,fruit/vegetable juice,margarine,other vegetables,rolls/buns,yogurt
+hamburger meat,napkins,other vegetables,pastry,whipped/sour cream
+bottled beer,bottled water,long life bakery product,margarine,red/blush wine,sugar,yogurt
+beverages
+whole milk
+rolls/buns
+bottled water,chewing gum,tropical fruit
+bottled beer,bottled water,butter,citrus fruit,domestic eggs,herbs,oil
+candy,soft cheese,whipped/sour cream,whole milk,yogurt
+bottled water,citrus fruit,house keeping products,margarine,napkins,roll products,root vegetables,sugar,tropical fruit,yogurt
+soda
+beverages,brown bread,candy,frankfurter,specialty chocolate,yogurt
+canned beer,cream,cream cheese,sausage
+napkins
+yogurt
+dog food,herbs,oil
+UHT-milk,fish,sausage
+chocolate,yogurt
+other vegetables,pork,specialty fat
+canned beer,curd,mustard
+berries,brown bread,decalcifier,frankfurter,fruit/vegetable juice,margarine,napkins,pastry,sausage,waffles,whole milk,yogurt
+frankfurter,frozen meals,semi-finished bread,shopping bags
+curd,fruit/vegetable juice,pastry,pickled vegetables,processed cheese,rolls/buns
+candles,fruit/vegetable juice,liver loaf,organic sausage,pastry
+canned fish,cat food,pork
+specialty bar
+ice cream
+specialty bar
+shopping bags,yogurt
+coffee,frozen vegetables
+canned beer,rolls/buns,shopping bags
+pastry,soda
+beef,citrus fruit,female sanitary products,flour,oil,other vegetables,pasta,pork,rolls/buns,root vegetables,seasonal products,waffles,whole milk
+bottled water,curd,photo/film
+beef,butter,citrus fruit,cookware,dishes,frozen meals,fruit/vegetable juice,oil,pasta,root vegetables,waffles,whipped/sour cream,yogurt
+bottled water,male cosmetics,yogurt
+chicken,curd,ice cream,napkins,other vegetables,potted plants,rolls/buns,soda,sugar,whole milk
+detergent
+coffee,dishes,napkins,pip fruit,sweet spreads
+chocolate,coffee
+berries,red/blush wine,soda,tropical fruit,yogurt
+sauces,softener
+bottled beer,onions,other vegetables,pork
+bottled water,brandy,condensed milk,pickled vegetables,rolls/buns,yogurt
+dishes,napkins
+canned fish,other vegetables,rolls/buns
+bottled water,chicken,citrus fruit,onions
+canned vegetables,house keeping products,margarine,onions,pork,rolls/buns,salty snack,soda
+root vegetables
+brown bread,frozen vegetables,ham,other vegetables,pip fruit,processed cheese,shopping bags,soda,tropical fruit,whole milk
+rolls/buns,whole milk
+bottled beer,house keeping products,soda
+margarine,rolls/buns
+chocolate,rolls/buns,soft cheese,tropical fruit
+brown bread,pip fruit,tropical fruit
+UHT-milk,domestic eggs,fruit/vegetable juice,hamburger meat,margarine,pickled vegetables,rolls/buns,root vegetables,sausage,semi-finished bread,soda,tropical fruit,whole milk
+bottled beer
+UHT-milk,brown bread,pastry,tropical fruit,turkey,yogurt
+meat,rolls/buns,specialty chocolate
+coffee,female sanitary products,shopping bags,whole milk
+canned beer,soda
+canned beer,rolls/buns
+UHT-milk,canned beer,dessert,pastry,rolls/buns
+fruit/vegetable juice,mustard,other vegetables,sausage,sliced cheese
+butter milk,onions,other vegetables,pork
+frozen vegetables,hamburger meat,hard cheese,other vegetables
+beverages,rolls/buns,sausage,shopping bags,sliced cheese,specialty bar
+canned beer,rolls/buns,shopping bags,soda,waffles
+chocolate,misc. beverages
+long life bakery product,pastry
+fruit/vegetable juice,soda
+whole milk
+domestic eggs,long life bakery product,seasonal products
+soda
+pip fruit
+UHT-milk,domestic eggs,rolls/buns,yogurt
+frankfurter,pip fruit,pork
+specialty chocolate
+bottled beer,sausage,white bread
+oil
+bottled beer,pip fruit,popcorn,soda,tropical fruit
+citrus fruit,other vegetables,whole milk
+napkins
+rolls/buns,whole milk
+coffee
+newspapers,tropical fruit
+canned beer
+bottled beer
+canned beer
+rum
+margarine,newspapers,rolls/buns
+pastry
+dessert,whole milk
+bottled water,coffee,detergent,grapes,margarine,oil,other vegetables,pasta,roll products,root vegetables
+whole milk
+rolls/buns,yogurt
+candles,chewing gum,other vegetables,rolls/buns,root vegetables,whole milk,yogurt
+pastry
+canned beer
+sausage
+other vegetables,soda,spread cheese,tropical fruit,yogurt
+butter,citrus fruit,frankfurter,tropical fruit,whipped/sour cream,whole milk
+rolls/buns
+frankfurter,other vegetables,pip fruit,whole milk
+newspapers,other vegetables,sausage,shopping bags
+rolls/buns,whole milk
+canned beer,whole milk
+frozen vegetables,whole milk
+butter,canned fish,ham,herbs,oil,other vegetables,pip fruit,rolls/buns,soda,white bread
+newspapers,white bread,whole milk,yogurt
+beef,bottled water,citrus fruit,flour,margarine,pip fruit,rolls/buns,soups,yogurt
+domestic eggs,rolls/buns,soda
+soda,waffles
+beverages,bottled water,mustard,newspapers,whole milk,yogurt
+ham,honey,newspapers,pip fruit,rolls/buns,whole milk
+brown bread,cling film/bags,curd,dish cleaner,ketchup,margarine,mayonnaise,sugar,yogurt
+bottled water
+butter milk,coffee
+other vegetables,pork
+onions,pork,shopping bags
+instant coffee,oil,other vegetables,specialty bar,turkey,whole milk
+cream cheese,soda
+berries,other vegetables,rolls/buns,root vegetables,shopping bags,tropical fruit,yogurt
+rolls/buns
+bottled beer,citrus fruit,margarine,newspapers,other vegetables,whole milk
+brown bread,coffee,frankfurter,margarine,mayonnaise,roll products,rolls/buns,root vegetables,sausage,yogurt
+whipped/sour cream
+brown bread,butter,butter milk,long life bakery product,tropical fruit
+bottled water,frankfurter,pip fruit,rolls/buns
+decalcifier,detergent,domestic eggs,frozen vegetables,napkins,processed cheese,rice,rolls/buns,sausage,shopping bags,soda,softener,tropical fruit,white bread,whole milk
+bottled water,citrus fruit,detergent,newspapers,sausage,specialty bar,tropical fruit,whole milk
+rolls/buns,sausage,soda,specialty bar
+margarine,rolls/buns,shopping bags,sliced cheese,soda
+candy
+berries,pet care,pickled vegetables,soda,tropical fruit
+brown bread,butter milk,cream cheese,domestic eggs,pip fruit,rolls/buns,whole milk
+bottled water,citrus fruit,cream cheese,dessert,fruit/vegetable juice,grapes,rolls/buns,tropical fruit
+butter,candles,canned fish,canned fruit,coffee,cream cheese,domestic eggs,hamburger meat,margarine,mayonnaise,other vegetables,pastry,pip fruit,rice,tea
+Instant food products,brown bread,coffee,curd,curd cheese,other vegetables,rolls/buns,spread cheese,whole milk
+nuts/prunes,rolls/buns,soda
+beef,ham,newspapers,other vegetables
+ham,rolls/buns
+bottled beer,butter,liquor
+napkins
+beef,bottled water,margarine,root vegetables,soda
+frankfurter,hamburger meat
+canned beer,citrus fruit,meat,other vegetables
+canned fish,curd,flour,mayonnaise,pastry,waffles,whole milk
+other vegetables,rolls/buns,sausage,soda
+other vegetables,sausage
+rolls/buns,soda
+liquor,root vegetables,sugar,white bread
+butter,misc. beverages,root vegetables,sausage,whole milk
+curd,hard cheese,other vegetables,root vegetables,sausage,white bread,whole milk,yogurt
+bottled beer,domestic eggs,flour,meat,onions,pork,salad dressing,salt,white bread
+bottled beer,bottled water,canned beer,flower (seeds),male cosmetics,pastry,pudding powder,sausage,soda,whole milk,yogurt
+citrus fruit
+candy,chocolate
+coffee
+brown bread,cream cheese,curd,dessert,detergent,other vegetables,pip fruit,sausage,tropical fruit,whipped/sour cream,whole milk,yogurt
+beef,chocolate,citrus fruit,cream cheese,dessert,pip fruit,rolls/buns,tropical fruit
+berries,butter milk,other vegetables,rolls/buns,sliced cheese,soda,yogurt
+bottled beer,bottled water,flower (seeds),frozen meals,oil
+beef,herbs,whole milk
+butter milk,meat,other vegetables,pastry,root vegetables,sausage,waffles,whole milk,yogurt
+rolls/buns
+frankfurter,fruit/vegetable juice,rolls/buns
+brown bread,napkins,pork,rolls/buns,sausage,shopping bags,whole milk,yogurt
+baking powder,pip fruit,whipped/sour cream,whole milk
+baking powder,candles,grapes,photo/film,whole milk
+chocolate marshmallow
+coffee
+soda,white wine
+bottled beer,liquor,red/blush wine
+butter,cleaner
+fruit/vegetable juice,nut snack
+meat,specialty bar
+butter,chocolate,curd,pip fruit
+domestic eggs,other vegetables
+dog food,frankfurter,pastry,shopping bags,soda,white bread
+long life bakery product
+mayonnaise,mustard,rolls/buns,sliced cheese,tropical fruit,whole milk
+salty snack,white bread,whole milk
+canned beer
+canned beer
+other vegetables,pastry,red/blush wine,whipped/sour cream
+soda
+candy,newspapers,rolls/buns,soda,specialty bar
+bags
+rolls/buns
+dessert,frozen dessert
+canned beer
+butter,domestic eggs,fruit/vegetable juice,newspapers,pasta
+butter,domestic eggs,frozen vegetables,sugar,whole milk,yogurt
+canned beer
+coffee
+butter,chicken,chocolate,hamburger meat,long life bakery product,onions,other vegetables,pip fruit,whipped/sour cream,white bread,whole milk,yogurt
+long life bakery product,soda
+beef,domestic eggs,other vegetables,pastry
+pastry,spread cheese
+citrus fruit,other vegetables,potted plants,tropical fruit
+canned beer
+rolls/buns,soda
+pip fruit,potted plants,roll products
+pip fruit
+baking powder,bottled water,candles,cooking chocolate,soda,whole milk
+chocolate
+canned beer,rolls/buns,sausage,whole milk
+pip fruit,whole milk
+other vegetables,rolls/buns
+brown bread,dessert,hard cheese,sliced cheese,white bread
+frankfurter
+butter,candy,citrus fruit,other vegetables
+UHT-milk,citrus fruit,napkins
+bottled beer,curd,hygiene articles,pip fruit,soda,softener
+curd,domestic eggs,frozen vegetables,root vegetables,tropical fruit,whole milk,yogurt
+condensed milk,cream cheese,frankfurter,other vegetables,pastry,rolls/buns,whole milk,yogurt
+brown bread,butter milk,cling film/bags,frozen vegetables,fruit/vegetable juice,long life bakery product,other vegetables,pip fruit,sauces,soups
+canned beer
+canned beer,chocolate,citrus fruit,hygiene articles,pork,soda
+newspapers,rolls/buns
+canned beer
+citrus fruit,other vegetables,pip fruit,tropical fruit
+dishes,grapes,newspapers,white wine,whole milk
+tropical fruit
+frozen fish,hygiene articles,shopping bags
+pastry,soda,tropical fruit
+beverages,pastry
+pip fruit,potato products,sausage,whole milk
+whole milk
+bottled beer,misc. beverages,sausage,specialty cheese
+pastry,pork,shopping bags,white bread
+newspapers,rolls/buns,whole milk
+bottled beer,dessert,sausage,spices,whole milk
+pastry,soda
+soda
+bottled water,canned fish,fruit/vegetable juice,grapes,tropical fruit,whole milk
+bottled water,napkins,whole milk
+canned beer
+pip fruit,whole milk
+berries,bottled water,butter,citrus fruit,flower (seeds),frozen vegetables,herbs,hygiene articles,napkins,pickled vegetables,pip fruit,root vegetables,rubbing alcohol,sauces,tropical fruit,turkey,whole milk
+seasonal products,specialty chocolate,yogurt
+baking powder,whipped/sour cream
+bottled water,finished products,popcorn,shopping bags,tropical fruit
+candy,mayonnaise,misc. beverages,sausage
+cream cheese,other vegetables,rolls/buns
+newspapers
+white wine
+bottled water,brown bread,fruit/vegetable juice,meat,newspapers,other vegetables,pip fruit,rolls/buns,sausage,soda,yogurt
+misc. beverages
+UHT-milk,red/blush wine,soda,waffles,yogurt
+beef,frozen fish,margarine,rolls/buns
+other vegetables
+photo/film
+tropical fruit
+hygiene articles,meat,sausage,soda,tropical fruit
+citrus fruit,flour,frankfurter,long life bakery product,rolls/buns
+cat food,hygiene articles,pet care,pip fruit,rolls/buns,root vegetables,shopping bags,sweet spreads,tropical fruit,whole milk,yogurt
+UHT-milk,bottled water,citrus fruit,hygiene articles,zwieback
+bottled beer,bottled water,pork
+house keeping products,soda
+whole milk
+cookware
+butter,newspapers,rolls/buns
+coffee,frozen vegetables,sugar
+bottled water,chicken,dessert,domestic eggs,frozen vegetables,newspapers,pasta,salt,specialty fat,yogurt
+bottled water,butter milk,coffee,dish cleaner,female sanitary products,frankfurter,pastry,rolls/buns,root vegetables,vinegar,whipped/sour cream,whole milk
+bottled water,female sanitary products,misc. beverages,processed cheese,rolls/buns,soda,tropical fruit,yogurt
+domestic eggs,root vegetables,whole milk
+bottled beer,chocolate,citrus fruit,cooking chocolate,curd,domestic eggs,flour,fruit/vegetable juice,hygiene articles,meat,napkins,pastry,pip fruit,salty snack,shopping bags,whipped/sour cream,yogurt
+hamburger meat
+napkins,tropical fruit
+whole milk
+dessert,newspapers,pastry,rolls/buns,whole milk
+butter,citrus fruit,coffee,frozen vegetables,hamburger meat,pasta,sweet spreads
+candy,curd,frankfurter,frozen vegetables,jam,long life bakery product,sausage,whipped/sour cream
+canned beer,soda
+popcorn,rice,whipped/sour cream
+bottled beer,bottled water,butter,canned beer,chocolate,flower (seeds),frozen meals,whole milk,yogurt
+bottled water,chewing gum,citrus fruit,other vegetables,root vegetables,salt
+coffee,pip fruit
+butter milk,dish cleaner,frozen vegetables,hygiene articles,napkins,pastry,root vegetables
+fruit/vegetable juice,pip fruit,potted plants,root vegetables,zwieback
+bottled beer,onions,other vegetables,potted plants,soups,whole milk
+canned vegetables,fruit/vegetable juice,grapes,oil,snack products,tea,tropical fruit
+brown bread,canned beer,other vegetables,shopping bags,soda
+bottled water,citrus fruit,newspapers,red/blush wine,rolls/buns
+canned beer,shopping bags
+cream cheese,curd,domestic eggs,misc. beverages,napkins,other vegetables,root vegetables,whole milk
+curd,frozen meals,pip fruit,tropical fruit,whole milk,yogurt
+butter milk
+root vegetables
+margarine,pork,whole milk
+ice cream,pip fruit,soda,yogurt
+canned beer,newspapers
+brown bread,butter,tropical fruit,whole milk
+baking powder,chewing gum,flour,frozen fish,long life bakery product,other vegetables,pip fruit,pork,sugar,whole milk,yogurt
+napkins,pip fruit
+rolls/buns
+UHT-milk,butter,cat food,female sanitary products,frozen vegetables,meat,organic sausage,pickled vegetables,whole milk
+soda
+root vegetables
+red/blush wine,root vegetables
+butter,canned beer,pastry,sausage,shopping bags
+butter,white wine
+dish cleaner,red/blush wine,sauces
+beef,canned vegetables,cat food,citrus fruit,margarine,other vegetables,pip fruit,root vegetables,shopping bags,whipped/sour cream
+butter milk,ham,pork,shopping bags,sweet spreads
+fruit/vegetable juice,rolls/buns
+rolls/buns,tropical fruit
+butter milk,curd,house keeping products,rolls/buns,sausage,softener,tropical fruit,whipped/sour cream,whole milk
+candy,chocolate,cream cheese,frozen vegetables,potted plants,rolls/buns,tropical fruit,whole milk
+soda
+pastry,whole milk
+pip fruit
+whole milk
+beef,bottled water,chicken,newspapers,whole milk
+canned beer,liquor,other vegetables,root vegetables,shopping bags,whipped/sour cream
+meat spreads,rolls/buns
+butter,domestic eggs,rolls/buns,whipped/sour cream
+napkins,potted plants,rolls/buns,sliced cheese,tropical fruit
+beef,chicken,cream cheese,curd,ice cream,newspapers,other vegetables,root vegetables,sausage,yogurt
+soda
+bottled water,rolls/buns,soda
+dessert,other vegetables,pastry,pip fruit,root vegetables,shopping bags,sliced cheese,tropical fruit,whipped/sour cream
+flower (seeds),other vegetables,packaged fruit/vegetables,root vegetables,tropical fruit
+UHT-milk,coffee,pastry,potted plants,red/blush wine
+bottled beer,bottled water,domestic eggs,instant coffee,other vegetables,red/blush wine,root vegetables,soda,specialty chocolate,sugar,waffles
+dessert,pastry,pip fruit,rolls/buns,specialty bar
+brown bread,newspapers,whole milk
+dessert,zwieback
+canned fish,coffee,frozen meals,other vegetables,pasta
+cream cheese,frozen vegetables,hamburger meat,instant coffee,pasta,pork,seasonal products,soda,specialty bar,spread cheese,waffles,yogurt
+domestic eggs,frankfurter
+mayonnaise,pasta,rolls/buns,sliced cheese,specialty chocolate,whole milk,yogurt
+UHT-milk,citrus fruit,frankfurter,frozen potato products,newspapers,other vegetables,pip fruit,pork,salad dressing,salty snack,whipped/sour cream
+soda,whipped/sour cream
+curd
+bottled beer,cake bar,frozen potato products,fruit/vegetable juice,instant coffee,other vegetables,pasta,rolls/buns,seasonal products,soda,whole milk
+bottled water,ham,soda
+curd,margarine,pasta,pastry,rolls/buns,whole milk
+butter,condensed milk,detergent,frozen vegetables,hard cheese,processed cheese,soft cheese,whipped/sour cream,whole milk
+soda
+margarine
+pip fruit
+frozen dessert,other vegetables,packaged fruit/vegetables,rolls/buns,soda
+margarine,potted plants,whole milk
+margarine,pork,rolls/buns,tropical fruit,whole milk
+brown bread,citrus fruit,cream cheese,curd,frozen vegetables,herbs,margarine,meat,onions,other vegetables,pastry,pip fruit,root vegetables,sausage,semi-finished bread,soft cheese,tropical fruit,turkey,whipped/sour cream,whole milk,yogurt
+curd,frozen vegetables,yogurt
+canned beer
+napkins
+chewing gum
+ice cream
+bottled water
+brown bread,citrus fruit,curd,dessert,dog food,frozen vegetables,fruit/vegetable juice,liver loaf,oil,other vegetables,pork,root vegetables,semi-finished bread,tropical fruit,whole milk,yogurt
+bottled beer,bottled water,citrus fruit,herbs,other vegetables,root vegetables,tropical fruit,whole milk,yogurt
+chicken,citrus fruit,margarine,softener,spread cheese,whipped/sour cream,yogurt
+bottled beer,bottled water,canned beer,chocolate,citrus fruit,coffee,pastry,roll products,rolls/buns,rum,sliced cheese,soda,waffles,whole milk
+bottled water,liquor (appetizer),specialty bar
+berries,other vegetables,pip fruit,root vegetables,whipped/sour cream,whole milk
+canned fish,cereals,cling film/bags,curd,frozen vegetables,ketchup,margarine,soda,whole milk,yogurt
+curd,dessert,hamburger meat,whole milk
+candy,cereals,hamburger meat,hard cheese,hygiene articles,long life bakery product,other vegetables,root vegetables,specialty chocolate,turkey,whole milk,yogurt
+beef,chocolate,dessert,frozen potato products,ham,long life bakery product,other vegetables,pip fruit,rolls/buns,soda,soft cheese,tropical fruit,whipped/sour cream,whole milk,yogurt
+canned vegetables,citrus fruit,other vegetables,pip fruit
+dessert,domestic eggs,napkins,other vegetables,pastry,sausage
+yogurt
+butter
+canned beer,chicken,coffee,flour,hamburger meat,hygiene articles,margarine,rolls/buns,shopping bags,whole milk
+beverages,long life bakery product,rolls/buns,shopping bags
+bottled water,canned beer,chewing gum,cling film/bags,male cosmetics,napkins,onions,soda
+bottled beer
+butter,detergent,pastry,semi-finished bread,white wine
+butter,potted plants,root vegetables
+butter,detergent,domestic eggs,frozen fish,frozen meals,grapes,ham,ice cream,meat,other vegetables,pastry,pip fruit,pork,sausage,soda,syrup,tropical fruit,whipped/sour cream,whole milk
+ham,newspapers,rolls/buns,spread cheese,waffles,whole milk
+canned beer,soda
+chicken,chocolate,long life bakery product,pastry,soda,tropical fruit,waffles,whole milk
+flour,oil,pip fruit,rolls/buns,sausage,soda,whole milk
+other vegetables,soda
+bottled beer,whole milk
+root vegetables
+chicken,other vegetables,whole milk
+bottled beer,curd,frozen meals,frozen vegetables,hygiene articles,instant coffee,misc. beverages,pip fruit,tropical fruit,white bread,whole milk,yogurt
+bottled beer,brown bread,pork,root vegetables,soda
+beverages,domestic eggs,pip fruit,root vegetables,soda,sweet spreads,tropical fruit,white bread,whole milk,yogurt
+chicken,napkins
+Instant food products,cake bar,chewing gum,curd,napkins,other vegetables,pastry,salty snack
+female sanitary products,whipped/sour cream
+whipped/sour cream,whole milk
+bottled beer,bottled water,other vegetables,root vegetables,whole milk
+berries,domestic eggs,sausage,whole milk,yogurt
+frozen vegetables
+beef,bottled beer,butter,cat food,rolls/buns,whole milk
+root vegetables,whole milk,yogurt
+bottled water,brown bread,rolls/buns
+canned beer,specialty chocolate
+chocolate,coffee,seasonal products,sweet spreads
+beef,potted plants
+frozen meals,frozen vegetables
+bottled water,specialty chocolate
+domestic eggs
+dishes,ice cream,napkins,sugar
+Instant food products,candles,coffee,ice cream,roll products
+brown bread,butter,canned vegetables,fruit/vegetable juice,long life bakery product,pastry,whipped/sour cream
+sausage
+ham,hygiene articles,long life bakery product,newspapers,specialty cheese,tropical fruit
+butter,citrus fruit,cream cheese,domestic eggs,fruit/vegetable juice,napkins,other vegetables,pip fruit,softener,vinegar,whole milk
+red/blush wine
+butter,margarine
+bottled water,fruit/vegetable juice,whole milk
+hard cheese,newspapers
+hygiene articles
+shopping bags,soda,soups
+pastry,soda
+onions,rolls/buns
+fruit/vegetable juice,ice cream,soda
+herbs
+artif. sweetener,citrus fruit,coffee,curd,dog food,pip fruit
+bottled beer,soda,white bread
+bottled beer,coffee,pip fruit,root vegetables,sugar
+cake bar,misc. beverages
+bottled beer,ice cream,salty snack,soda
+potted plants
+beef,bottled water,frozen vegetables,pickled vegetables,soda,tropical fruit
+canned beer
+cat food,chocolate,specialty chocolate
+whipped/sour cream
+shopping bags
+berries,other vegetables,yogurt
+potted plants,whole milk
+domestic eggs,root vegetables
+detergent,ketchup,other vegetables,pickled vegetables,pip fruit,pork,soda,whole milk,yogurt
+bathroom cleaner,berries,citrus fruit,fish,fruit/vegetable juice,pork,sausage,soap,soda,whipped/sour cream
+bottled water
+bottled water,ice cream
+berries,canned fruit,cream cheese,dessert,fruit/vegetable juice,root vegetables,semi-finished bread,whipped/sour cream,whole milk,yogurt
+bottled beer,shopping bags
+berries,candy,dessert,fruit/vegetable juice,pork,whipped/sour cream,whole milk
+ice cream,soda,specialty chocolate
+curd,waffles,yogurt
+dessert,sausage,soda
+bottled beer,rolls/buns,vinegar
+domestic eggs,other vegetables,soda
+other vegetables,pastry
+canned vegetables,root vegetables,shopping bags,soda
+butter,cling film/bags,cream cheese,fruit/vegetable juice,other vegetables,pet care,vinegar,whole milk,yogurt
+pastry,salty snack
+brown bread,other vegetables,soda
+frozen vegetables,other vegetables,pastry,specialty bar
+bottled water,citrus fruit,domestic eggs,pastry,salty snack,tropical fruit,whole milk
+white bread
+berries,bottled beer,bottled water,citrus fruit,cling film/bags,coffee,condensed milk,dish cleaner,male cosmetics,oil,onions,other vegetables,pickled vegetables,soda,soft cheese,specialty vegetables
+whole milk
+chocolate,potted plants
+canned beer,citrus fruit,frozen meals,other vegetables,rice,salty snack
+fruit/vegetable juice,other vegetables,shopping bags,yogurt
+beef,bottled water,chicken,coffee,dish cleaner,jam,margarine,mayonnaise,onions,pip fruit,root vegetables,sausage,soda,soft cheese,sweet spreads,yogurt
+frozen meals,hygiene articles,root vegetables,snack products,white bread
+berries,brown bread,canned beer,chicken,dessert,frozen meals,frozen vegetables,ketchup,other vegetables,pip fruit,popcorn,ready soups,sausage,semi-finished bread,soda,spices,yogurt
+bottled water,pip fruit,shopping bags,vinegar
+berries,brown bread,candy,domestic eggs,soda,tropical fruit,yogurt
+other vegetables,pork,whipped/sour cream
+cat food,chocolate,cream cheese,dishes,long life bakery product,misc. beverages,oil,pickled vegetables,specialty bar,whole milk,yogurt
+fruit/vegetable juice,mustard,soda
+bottled beer,citrus fruit,fruit/vegetable juice,ketchup,popcorn,salty snack,shopping bags,white bread
+bottled water,margarine,whole milk
+coffee,curd,dessert,fruit/vegetable juice,newspapers,pastry,root vegetables,sauces,soda,whipped/sour cream
+citrus fruit,other vegetables,tropical fruit
+UHT-milk
+soda
+bottled beer,tropical fruit
+shopping bags
+bottled beer
+beef,fruit/vegetable juice,grapes
+pip fruit,sugar
+canned vegetables,frozen meals,napkins,onions,other vegetables,root vegetables,salty snack,soda,vinegar,yogurt
+beef,canned beer,chicken,citrus fruit,cream cheese,domestic eggs,napkins,rolls/buns,shopping bags,whole milk
+bottled water
+flour
+domestic eggs,pip fruit
+canned beer,fruit/vegetable juice,pastry,specialty chocolate,whole milk
+bottled water,candy,frankfurter,specialty chocolate,whole milk
+canned beer
+bottled water,cream cheese,fruit/vegetable juice,oil,potted plants,whole milk
+canned beer
+butter milk,specialty chocolate
+margarine
+whole milk
+coffee,ice cream,pastry,shopping bags,whole milk
+canned beer,liquor
+salty snack
+UHT-milk,frozen dessert,margarine,onions,root vegetables,syrup,whipped/sour cream
+bottled water,cat food,citrus fruit,curd cheese,dessert,flower (seeds),flower soil/fertilizer,hard cheese,other vegetables,sausage,seasonal products,semi-finished bread,softener,whipped/sour cream,white bread,yogurt
+brown bread
+dessert,light bulbs,other vegetables,waffles
+butter,chicken,cream cheese,ham,other vegetables,sausage,whipped/sour cream,whole milk
+frozen vegetables,ham,other vegetables,whole milk
+bottled water,cat food,domestic eggs
+bottled beer,cat food,newspapers,onions,pip fruit,sausage,spices
+fruit/vegetable juice,root vegetables,yogurt
+other vegetables,yogurt
+citrus fruit,cling film/bags,dish cleaner,specialty bar,whole milk
+frozen potato products,pork,soda
+bottled water,brown bread,cat food,chocolate,dessert,domestic eggs,female sanitary products,fruit/vegetable juice,long life bakery product,napkins,onions,pastry,rolls/buns,soda,yogurt
+other vegetables,spices,whole milk,yogurt
+beef,berries,chicken,jam,pork,shopping bags,sliced cheese
+margarine,pip fruit
+berries,chewing gum,newspapers,seasonal products
+specialty bar,whole milk
+canned beer,chicken,shopping bags
+bottled water,onions,pastry,pork,potato products
+soda,specialty fat,whole milk
+berries,oil,pork,tropical fruit,white bread,whole milk,yogurt
+cat food,chocolate
+citrus fruit,finished products,pastry,shopping bags,soda,waffles,yogurt
+brown bread,flower (seeds),long life bakery product,margarine
+berries,bottled water,dessert,fruit/vegetable juice,soda,whipped/sour cream,white wine
+baking powder,chewing gum,chocolate marshmallow,domestic eggs,ham,oil,pastry,whole milk
+brown bread,fish,napkins,pet care
+canned beer,pastry,shopping bags
+pastry,sausage
+baking powder,cake bar,chocolate,semi-finished bread,soda,specialty bar,spread cheese,whole milk,yogurt
+bottled beer
+brown bread,whole milk
+napkins,roll products,root vegetables,sausage,semi-finished bread,soda,white bread
+chocolate,chocolate marshmallow,soda
+bottled water,chocolate,dessert,fruit/vegetable juice,ham,processed cheese,soda,whole milk
+bottled beer,canned beer
+baking powder,bottled water,dessert,ham,margarine,sausage,whole milk
+brown bread,chicken,cream cheese,other vegetables,sausage,soda,whole milk,yogurt
+bottled water,dessert,domestic eggs,fruit/vegetable juice,other vegetables,pastry,popcorn,root vegetables,sausage,sliced cheese,whipped/sour cream,white bread,yogurt
+rolls/buns,sausage,white wine
+pork
+beverages,cat food,domestic eggs,root vegetables,white bread,yogurt
+baking powder,citrus fruit,cocoa drinks,shopping bags,skin care,whole milk
+other vegetables
+soda,whole milk
+ice cream,shopping bags,sweet spreads,white bread,yogurt
+UHT-milk,hygiene articles,mayonnaise,pickled vegetables,rolls/buns,shopping bags,soda
+citrus fruit,fruit/vegetable juice,misc. beverages,other vegetables,pip fruit,rolls/buns,tropical fruit
+bottled water,citrus fruit,pip fruit,whole milk
+brown bread,butter milk,candy,dish cleaner,ice cream,specialty chocolate,whipped/sour cream,whole milk
+canned beer
+chewing gum,newspapers,rolls/buns,sugar,sweet spreads
+rolls/buns,sausage,soda
+bottled beer,frozen fish
+baking powder,coffee,flower (seeds),other vegetables,whole milk
+rolls/buns,soda
+cake bar,frozen vegetables,other vegetables,pastry,tropical fruit,whole milk
+butter milk,hard cheese
+butter milk,instant coffee,rolls/buns,sausage,shopping bags,soft cheese
+pastry,soda
+fruit/vegetable juice,spread cheese
+canned fish,chewing gum,newspapers,rolls/buns,sweet spreads
+candy,detergent,frankfurter,onions
+frankfurter,newspapers,pip fruit
+coffee,condensed milk,cookware,long life bakery product,nut snack,pastry,red/blush wine,salty snack,soda,waffles
+canned beer,rolls/buns
+brown bread,cake bar,frankfurter,shopping bags,specialty bar,whole milk
+bottled beer,rolls/buns
+dish cleaner,rolls/buns,shopping bags,white bread
+chocolate,other vegetables,soda,whole milk
+coffee,other vegetables,sausage,shopping bags,tropical fruit,whole milk,yogurt
+coffee
+beverages,frozen potato products,fruit/vegetable juice,other vegetables,pip fruit,rolls/buns,whole milk,yogurt
+citrus fruit,pip fruit
+bottled water,chocolate,flour,specialty chocolate
+frankfurter,rolls/buns
+soda
+soda
+root vegetables
+artif. sweetener,baking powder,house keeping products,newspapers,pork,rolls/buns,specialty chocolate,whole milk
+frozen vegetables,pastry,rolls/buns
+frozen meals,other vegetables,tropical fruit,whole milk
+citrus fruit,pastry,rolls/buns,whipped/sour cream,whole milk
+beef,frankfurter,other vegetables,rolls/buns
+margarine,other vegetables,rolls/buns,soda,vinegar,waffles,whole milk
+cat food,sweet spreads
+canned fish,domestic eggs,frankfurter,ketchup,long life bakery product,other vegetables,sausage,shopping bags,soda
+beef,brown bread,cream cheese,hard cheese,napkins,other vegetables,pork,rolls/buns
+finished products,frozen meals,ham,long life bakery product,salty snack,sausage,shopping bags,waffles
+pip fruit,soda
+bottled beer,canned beer
+beverages
+liver loaf,whole milk,yogurt
+chocolate,frankfurter,newspapers,onions,pastry,salt,shopping bags,soft cheese,white bread
+berries,brown bread,dishes,liquor,onions,pasta,whipped/sour cream
+curd,soda,tidbits
+bottled beer,sausage,whole milk
+bottled water,cleaner,curd,domestic eggs,hard cheese,onions,whole milk,yogurt
+soda
+bottled beer,soda
+UHT-milk,candles,chicken,citrus fruit,coffee,kitchen towels,margarine,mustard,rolls/buns,soft cheese,yogurt
+cream cheese
+bottled water,fruit/vegetable juice
+chocolate
+cat food,coffee,cream cheese,specialty bar,sweet spreads,syrup,white bread
+canned beer,liquor (appetizer),newspapers,soda,whole milk
+brown bread,domestic eggs,rolls/buns,shopping bags,specialty chocolate,whole milk
+fruit/vegetable juice
+onions,spread cheese
+mayonnaise,mustard,newspapers,other vegetables,tropical fruit,yogurt
+bottled beer,grapes,other vegetables,popcorn,tropical fruit
+pastry
+Instant food products,hamburger meat,semi-finished bread
+frankfurter
+curd,frozen dessert,jam,margarine,other vegetables,rolls/buns,tropical fruit,whole milk
+butter
+misc. beverages,rolls/buns
+baking powder,beef,coffee,domestic eggs,frozen fish,kitchen towels,margarine,other vegetables,roll products,sausage,shopping bags,sugar
+chocolate,citrus fruit,cling film/bags,coffee,cream cheese,female sanitary products,frozen dessert,grapes,hygiene articles,ice cream,long life bakery product,margarine,mayonnaise,mustard,onions,other vegetables,pickled vegetables,pip fruit,seasonal products,sliced cheese,soups,tropical fruit
+other vegetables,tropical fruit
+beef,bottled water,jam,margarine,pasta,pork,root vegetables,whole milk
+whole milk
+hamburger meat,rolls/buns
+frankfurter,frozen potato products
+beef,citrus fruit,coffee,sausage,sweet spreads
+bottled beer,other vegetables
+brown bread,ham,margarine,onions,other vegetables
+bottled beer
+cake bar,pip fruit,soda,specialty chocolate
+fruit/vegetable juice,napkins,pasta,soda,sparkling wine,vinegar
+curd,frozen dessert,light bulbs,nuts/prunes,pip fruit,sweet spreads
+dessert,pork,shopping bags,soda
+frankfurter,hard cheese,other vegetables,rolls/buns,sausage
+rolls/buns,rum
+bottled water,cat food,curd,domestic eggs,meat,newspapers,other vegetables,pastry,rolls/buns,sausage,shopping bags,sliced cheese,soda
+chocolate,cream cheese,tropical fruit
+chicken,hamburger meat,other vegetables
+whole milk,yogurt
+ham
+soda
+chicken,hamburger meat,other vegetables
+canned beer
+pastry,pip fruit
+bottled water,cream cheese,dishes,frozen dessert,napkins,pip fruit,rolls/buns,tropical fruit,waffles,whole milk
+domestic eggs,rolls/buns
+bottled water,cat food,curd,meat,pork,rolls/buns,soda,tropical fruit,whole milk
+citrus fruit,male cosmetics
+cat food,citrus fruit,curd,herbs,other vegetables,pip fruit,root vegetables,sausage,shopping bags,soft cheese,yogurt
+rolls/buns,tea
+light bulbs
+newspapers,rolls/buns
+beverages,meat,shopping bags,sweet spreads,tropical fruit
+bottled water,frozen vegetables,herbs,root vegetables,shopping bags
+bottled water,tropical fruit,zwieback
+berries,bottled water,citrus fruit,pip fruit,red/blush wine,soda,tropical fruit
+beverages,frozen dessert,frozen meals,whole milk
+margarine,napkins
+domestic eggs,fruit/vegetable juice,hamburger meat,ice cream,margarine,pastry,popcorn,red/blush wine,salty snack,shopping bags,soda,sweet spreads,syrup,white bread,whole milk
+bottled water,dessert,rolls/buns,specialty bar
+beef,napkins,whipped/sour cream
+beverages,brown bread,domestic eggs,newspapers,other vegetables,pastry,soda
+bottled water,mustard,other vegetables,tropical fruit,whole milk
+beef,chicken,citrus fruit,other vegetables,pip fruit,rolls/buns,root vegetables,tropical fruit,whole milk
+brown bread,fruit/vegetable juice,newspapers,shopping bags
+hamburger meat,pastry,sausage,shopping bags,whole milk
+Instant food products,curd,hamburger meat,hygiene articles,napkins,rolls/buns,whole milk
+domestic eggs,onions,other vegetables,pork,root vegetables,yogurt
+baking powder,citrus fruit,flour,pip fruit,sausage,tropical fruit
+soda
+soda,sweet spreads,waffles
+instant coffee,pastry
+canned fish,chocolate,flour,long life bakery product,margarine,other vegetables,pastry,whole milk
+bottled beer,bottled water,hygiene articles,jam,root vegetables,soda,specialty chocolate,whole milk,yogurt
+canned fish,dish cleaner,napkins,pastry,soda,waffles,whipped/sour cream
+coffee,hard cheese,whole milk
+chewing gum,dog food,domestic eggs,soda,specialty cheese,whipped/sour cream,whole milk
+butter,candy,citrus fruit,coffee,newspapers,pastry,semi-finished bread,shopping bags,whole milk
+other vegetables,whipped/sour cream
+bottled water,frozen potato products,frozen vegetables,fruit/vegetable juice,mustard,napkins,pork,root vegetables,shopping bags,sliced cheese
+onions,pip fruit,whole milk
+bottled beer
+other vegetables
+canned vegetables,curd,shopping bags,soda,whipped/sour cream,whole milk,yogurt
+pastry,soda
+brown bread,canned fish,meat spreads,sausage
+liver loaf,sausage,soda,specialty cheese
+salty snack
+dessert
+brown bread,hamburger meat,hard cheese,herbs,pork,soda,sweet spreads,yogurt
+chewing gum,frankfurter,frozen fish,newspapers,sausage,tropical fruit,white wine,whole milk
+butter
+canned beer,margarine,other vegetables,rum,white bread
+liver loaf,rolls/buns,soda
+frankfurter,hard cheese,nut snack,sausage,shopping bags,soda
+beverages,butter milk,curd,dental care,long life bakery product,tidbits,waffles,whole milk
+brown bread,chicken,frankfurter,oil
+bottled beer,bottled water,root vegetables
+soda
+butter,whipped/sour cream,yogurt
+bottled water,cat food,shopping bags,white wine
+chewing gum
+berries,root vegetables,shopping bags,whipped/sour cream,whole milk
+other vegetables
+rolls/buns,yogurt
+fruit/vegetable juice,long life bakery product,other vegetables,shopping bags,tropical fruit,whole milk
+whole milk
+candy,canned beer,curd,waffles
+butter,hard cheese,white wine,whole milk
+bottled water
+chocolate,soda,specialty chocolate
+brown bread,butter,candy,citrus fruit,curd cheese,domestic eggs,ham,hard cheese,margarine,other vegetables,rolls/buns,sausage,soda
+fruit/vegetable juice,oil
+hamburger meat,whipped/sour cream,whole milk
+frozen vegetables,onions,yogurt
+cat food,pork
+domestic eggs,female sanitary products,frozen vegetables,napkins,pickled vegetables,pip fruit,sliced cheese,specialty vegetables,yogurt
+beef,canned beer,curd,pork,root vegetables,sliced cheese,soda
+citrus fruit,pip fruit
+pastry,yogurt
+beverages,brandy,canned beer,canned fish,frankfurter,hard cheese,other vegetables,rolls/buns,shopping bags,soda,yogurt
+domestic eggs,frankfurter,ham,pip fruit
+brown bread
+brandy,herbs,other vegetables,root vegetables,salty snack,shopping bags,skin care,waffles,yogurt
+dish cleaner,napkins
+organic products,shopping bags,yogurt
+fruit/vegetable juice,mustard,other vegetables,pip fruit,sausage,shopping bags,yogurt
+sauces,specialty chocolate
+brown bread,pasta,pastry
+beverages,butter milk,citrus fruit,shopping bags,soda,tropical fruit,whole milk
+cream cheese,ice cream,specialty chocolate,white bread
+beverages,candy,misc. beverages,rolls/buns,soft cheese,sugar
+candy,curd,flower (seeds),pudding powder,shopping bags,whipped/sour cream
+chocolate marshmallow,ice cream
+hard cheese,soda
+decalcifier,detergent,hygiene articles
+bottled beer,bottled water,dental care,soda
+soda,specialty bar
+oil,other vegetables,pip fruit,whipped/sour cream
+butter milk,whole milk,yogurt
+waffles
+canned vegetables,dessert,other vegetables,sausage
+UHT-milk,bottled beer,bottled water,chicken,pip fruit,shopping bags
+beverages,rolls/buns
+frozen dessert,ice cream,salty snack
+butter,fruit/vegetable juice,misc. beverages,sliced cheese
+beverages,waffles
+brown bread,dessert,flower (seeds),frankfurter,rolls/buns,seasonal products,tropical fruit
+detergent
+citrus fruit,curd,domestic eggs,margarine,newspapers,pip fruit,sausage,whole milk
+chicken,cream cheese,hygiene articles,other vegetables,whole milk
+bottled beer,chewing gum,liquor (appetizer),yogurt
+bottled beer,bottled water,oil,salty snack,specialty chocolate,whole milk,yogurt
+bottled water,yogurt
+whipped/sour cream
+bottled water,hard cheese,rolls/buns,whole milk,yogurt
+baking powder,butter milk,citrus fruit,whole milk,yogurt
+whole milk
+baking powder,citrus fruit,flour,margarine,pasta,soda,sugar
+candy,canned fish,coffee,other vegetables,pork,specialty bar,whole milk
+beverages
+UHT-milk,cling film/bags,hygiene articles,newspapers
+beef,candy,dental care,dish cleaner,frozen vegetables,photo/film,sweet spreads,whole milk
+other vegetables
+bottled water,rolls/buns,whole milk,yogurt
+candles,citrus fruit,frankfurter,other vegetables,tropical fruit,whole milk
+pastry,rolls/buns,soda,yogurt
+canned beer
+canned beer
+newspapers,other vegetables,whipped/sour cream,yogurt
+bottled water,brown bread,candy,flour,frankfurter,other vegetables,sausage
+canned beer
+cake bar,herbs,other vegetables,pork,processed cheese
+bottled beer,bottled water,brown bread,candy,coffee,frankfurter,frozen dessert,ice cream,processed cheese,rolls/buns,soda,sugar,white bread,whole milk,yogurt
+chocolate,specialty bar
+citrus fruit,fruit/vegetable juice,tropical fruit
+cat food,specialty fat,sugar
+brown bread,rolls/buns,soda,spread cheese
+beverages,bottled water,cake bar,newspapers,whole milk
+pastry,whole milk
+pastry,whole milk
+hygiene articles
+beef,citrus fruit,coffee,pastry,rolls/buns,root vegetables,seasonal products,whole milk
+beef,butter,flour,fruit/vegetable juice,meat,napkins,root vegetables,whisky,white wine
+beef,other vegetables,rolls/buns,whole milk
+pip fruit,whole milk,yogurt
+other vegetables,rolls/buns
+artif. sweetener,dish cleaner,dishes,hamburger meat,rolls/buns,sauces,yogurt
+rolls/buns,specialty chocolate
+instant coffee
+canned beer
+pork,rolls/buns,soda
+beverages,bottled beer,flour,margarine,pork
+berries,bottled water,cream cheese,rolls/buns,root vegetables,soda,tropical fruit,whole milk,yogurt
+bottled water,cat food,napkins,whole milk
+baking powder,berries,bottled beer,butter,domestic eggs,frankfurter,frozen vegetables,meat,napkins,oil,rolls/buns,root vegetables,specialty fat,spices,waffles,whipped/sour cream
+beverages,processed cheese
+newspapers,pip fruit,rolls/buns,sauces,sugar
+other vegetables,pip fruit,root vegetables,whole milk,yogurt
+bottled water,frankfurter,meat,newspapers,pip fruit,rolls/buns,sausage,soda,yogurt
+bottled water,pip fruit,sausage
+long life bakery product
+bottled water
+beef,other vegetables,root vegetables,whipped/sour cream
+dish cleaner,domestic eggs,hygiene articles
+bottled water,margarine,oil,red/blush wine,waffles
+butter,meat,other vegetables,pastry,pip fruit,tropical fruit
+processed cheese,rolls/buns,soda
+frozen vegetables,pastry,pork,sausage,spread cheese
+citrus fruit,curd
+frozen vegetables
+rolls/buns,sausage,shopping bags
+candles,pastry
+hamburger meat,pork
+berries,other vegetables,whipped/sour cream,whole milk
+sugar,whipped/sour cream,whole milk,yogurt
+ham,rolls/buns
+bottled water,candy,frozen vegetables,fruit/vegetable juice,packaged fruit/vegetables,processed cheese,snack products
+packaged fruit/vegetables
+canned beer,rolls/buns
+butter milk,domestic eggs,whole milk
+whole milk
+berries,brown bread,margarine,other vegetables,pork,roll products,rolls/buns,sausage,softener,sweet spreads,whole milk
+bottled water,coffee,flour,oil,salty snack,sugar,white bread
+bottled water,rolls/buns
+bottled water
+bottled beer,other vegetables,shopping bags,soda
+frankfurter,napkins,rolls/buns
+canned beer,frankfurter,newspapers,rolls/buns,salt
+butter,frankfurter,misc. beverages,rolls/buns,semi-finished bread,shopping bags
+pastry,rolls/buns,soda
+bottled water,coffee,sausage
+bottled beer,bottled water,brown bread
+UHT-milk,bottled water,margarine,soda
+pip fruit,yogurt
+coffee,whole milk
+processed cheese
+flower (seeds),hamburger meat,margarine,other vegetables,rolls/buns,root vegetables,whole milk,zwieback
+beef,bottled beer,curd,herbs,rolls/buns,root vegetables
+bottled beer,brown bread,whole milk
+citrus fruit,curd,hamburger meat,misc. beverages,other vegetables,whole milk,yogurt
+fruit/vegetable juice,pasta
+brown bread,butter,tropical fruit
+bottled water,whole milk
+sausage
+rolls/buns,soda,specialty bar
+canned beer,rolls/buns,sliced cheese
+fruit/vegetable juice,long life bakery product,newspapers,rolls/buns
+sausage
+fruit/vegetable juice,pastry
+rolls/buns,soda
+beef,condensed milk,domestic eggs,fruit/vegetable juice,pork,salty snack,sparkling wine,waffles,whole milk
+UHT-milk,bottled water,other vegetables,pastry,rolls/buns,soda
+domestic eggs,soda
+beef,bottled water,citrus fruit,cream cheese,ham,newspapers,tropical fruit
+canned beer,soda
+specialty chocolate
+pork
+other vegetables
+butter,frozen fish,onions,whole milk
+bottled water,rolls/buns,tropical fruit
+curd,pip fruit,salt,whipped/sour cream,whole milk
+cream cheese,fruit/vegetable juice,hamburger meat,sausage,tropical fruit
+rolls/buns
+hamburger meat,other vegetables,roll products,root vegetables
+chocolate,citrus fruit,coffee,pastry,pip fruit,tropical fruit
+brown bread,frozen potato products,napkins,whole milk,yogurt
+other vegetables,root vegetables
+chewing gum
+beef,root vegetables
+rolls/buns
+citrus fruit,shopping bags
+chocolate,snack products
+cake bar,chicken,ham,sausage,turkey
+mustard
+pork,sausage,soda
+chocolate,frozen fish,frozen meals
+canned vegetables,citrus fruit,hard cheese,other vegetables,pastry,sausage,soda,yogurt
+rolls/buns,spread cheese
+rolls/buns,sausage,soda
+herbs,whole milk
+other vegetables,tropical fruit
+citrus fruit,cream cheese,dishes,domestic eggs,frankfurter,hamburger meat,meat,pastry,whole milk
+bottled water,domestic eggs,margarine
+other vegetables,sausage
+citrus fruit,other vegetables,specialty cheese,tropical fruit,whole milk,yogurt
+butter milk,frozen vegetables,fruit/vegetable juice,misc. beverages,newspapers,pip fruit,potted plants,rolls/buns,root vegetables
+bottled water,flour,fruit/vegetable juice,hair spray,onions,red/blush wine,sugar,yogurt
+domestic eggs,frankfurter,rolls/buns
+shopping bags
+bottled beer
+Instant food products,condensed milk,frankfurter,frozen vegetables,mayonnaise,onions,root vegetables
+spread cheese,whole milk
+hygiene articles,napkins,soda
+beef,brown bread,cat food,dessert,domestic eggs,fruit/vegetable juice,herbs,mayonnaise,other vegetables,soda,sweet spreads,whipped/sour cream,whole milk,yogurt
+bottled water,chocolate
+sausage
+ice cream
+bottled beer,bottled water,cat food,hygiene articles,soda,tropical fruit,white wine
+frozen vegetables,whole milk
+canned beer,pastry,red/blush wine,yogurt
+herbs,misc. beverages,shopping bags
+bottled beer,cling film/bags,napkins,tea,whole milk
+curd,meat,white bread
+butter,frankfurter,fruit/vegetable juice,other vegetables,pip fruit,shopping bags,whole milk,yogurt
+citrus fruit,hygiene articles,softener,whole milk,yogurt
+candy,canned beer
+canned beer,chicken,liquor (appetizer),newspapers,soda
+waffles,yogurt
+beef,margarine,salty snack,spread cheese,yogurt
+candy,whipped/sour cream
+flour,fruit/vegetable juice,napkins,pip fruit,processed cheese,root vegetables,whipped/sour cream,white bread,whole milk
+frankfurter,pastry,rolls/buns,soda,specialty chocolate,whole milk
+soda
+bottled water,canned beer,chewing gum,napkins,pip fruit,yogurt
+candy,citrus fruit,newspapers,rolls/buns,tropical fruit,whipped/sour cream
+whole milk
+canned vegetables,frozen meals,onions,other vegetables,pastry,rolls/buns,root vegetables,specialty cheese,sweet spreads,whipped/sour cream,white bread,whole milk
+baking powder,sausage,whipped/sour cream,white bread
+butter milk,coffee,curd,dessert,fruit/vegetable juice,ham,liver loaf,long life bakery product,mayonnaise,napkins,other vegetables,pastry,pet care,pip fruit,rice,root vegetables,salty snack,soda,sugar,white bread,whole milk,yogurt
+soda
+liquor,root vegetables,shopping bags
+bottled water,canned beer,cling film/bags,coffee,cream cheese,fruit/vegetable juice,jam,other vegetables,red/blush wine,soda,white bread
+bottled water,cat food,coffee,fruit/vegetable juice,misc. beverages,shopping bags,soda,spread cheese,tropical fruit,whole milk
+butter,cling film/bags,oil
+hard cheese,pip fruit,rolls/buns,sausage,soda
+butter
+brown bread,chocolate,house keeping products,newspapers,whole milk
+bottled water,cat food,other vegetables,specialty cheese,whipped/sour cream,white bread,whole milk
+misc. beverages,pastry,shopping bags,soda,whole milk,yogurt
+white bread
+pork
+frozen dessert,hygiene articles,napkins,sliced cheese,whipped/sour cream
+frozen fish,ice cream,yogurt
+bottled beer,butter milk,fruit/vegetable juice,red/blush wine,shopping bags,tea
+hard cheese,ketchup,whipped/sour cream,yogurt
+coffee,other vegetables,whole milk
+pastry
+misc. beverages,rolls/buns,yogurt
+butter,citrus fruit,dishes,jam,whole milk,yogurt,zwieback
+coffee,condensed milk
+pastry,root vegetables
+oil,other vegetables
+citrus fruit,rolls/buns,snack products
+frankfurter,photo/film
+sausage
+other vegetables
+herbs
+bottled beer,cream cheese,ham,other vegetables,pastry,pip fruit
+beverages,flour,root vegetables,yogurt
+soda
+beef,cream cheese,domestic eggs,hamburger meat,instant coffee,pastry,rolls/buns,sausage,soft cheese,yogurt
+frankfurter,frozen vegetables,fruit/vegetable juice,nut snack,pip fruit
+bottled water
+citrus fruit,meat,spread cheese,whole milk
+bottled water,butter,ham,root vegetables,white wine
+canned beer,sugar
+chicken,citrus fruit,other vegetables,root vegetables,tropical fruit,whole milk
+UHT-milk,domestic eggs,fruit/vegetable juice,newspapers,sugar
+beef,cat food,dishes,napkins,newspapers,rolls/buns,yogurt
+bottled water,brown bread,chocolate marshmallow,domestic eggs,ham,napkins,newspapers,seasonal products
+chocolate marshmallow,dishes,rolls/buns,zwieback
+cat food,citrus fruit,dish cleaner,margarine,pastry,salt,specialty bar,specialty fat,yogurt
+bottled beer,citrus fruit,napkins,pastry,rolls/buns,semi-finished bread,tropical fruit,whole milk,yogurt
+cat food,coffee
+candy,hard cheese,honey
+coffee,cream cheese,frankfurter,other vegetables,pastry,rolls/buns,whole milk,yogurt
+bottled beer
+canned beer,rolls/buns,shopping bags,soda,spread cheese,yogurt
+chewing gum,chicken,coffee,frankfurter,frozen meals,hygiene articles,light bulbs,male cosmetics,napkins,other vegetables,salt,sausage,soups,sugar
+newspapers,rolls/buns,soda
+beverages,bottled water,cake bar,newspapers,soda,whole milk
+beef,dishes,meat,onions,white wine
+curd,napkins
+beverages,newspapers,pastry,shopping bags,white bread
+UHT-milk,brown bread,frankfurter,hard cheese,margarine,mayonnaise,newspapers,rolls/buns,whole milk
+beef,brown bread,butter,canned fish,oil,pastry,pork,rolls/buns,root vegetables,sausage,spread cheese,yogurt
+chewing gum,pip fruit,rolls/buns,sausage,shopping bags,soda,whole milk
+meat,other vegetables
+margarine,pastry,pip fruit,rolls/buns,sausage,tropical fruit
+pastry,rolls/buns,whole milk
+canned beer
+bottled water,candy,citrus fruit,curd,domestic eggs,frankfurter,hygiene articles,other vegetables,pip fruit,salty snack,sugar,tropical fruit,whipped/sour cream,whole milk,yogurt
+long life bakery product
+butter,cream cheese,hard cheese,pork
+baking powder,bottled beer,bottled water,butter,canned beer,cooking chocolate,curd,margarine,napkins,other vegetables,pip fruit,rolls/buns,whole milk
+bottled beer
+onions,other vegetables,pork,root vegetables,shopping bags,tropical fruit
+bottled water,newspapers,white wine
+brown bread,domestic eggs,photo/film,whole milk
+candy,curd,dessert,fruit/vegetable juice,hygiene articles,shopping bags,soda
+UHT-milk,pastry,pip fruit,rolls/buns,salt,tropical fruit
+brown bread,other vegetables,pastry,pip fruit,whole milk,yogurt
+beef,bottled water,canned fish,chicken,fruit/vegetable juice,misc. beverages,napkins,onions,other vegetables,pickled vegetables,root vegetables,tropical fruit
+newspapers,whole milk
+chocolate,citrus fruit,newspapers,other vegetables,rolls/buns,soda,spread cheese,yogurt
+canned beer
+canned beer,coffee,condensed milk,liquor (appetizer),nuts/prunes,pickled vegetables,pip fruit,rolls/buns,root vegetables
+photo/film
+frozen vegetables,other vegetables,root vegetables
+butter,curd,frankfurter,root vegetables,tropical fruit,whole milk,yogurt
+red/blush wine,white wine,yogurt
+UHT-milk,cling film/bags,domestic eggs,ice cream,oil,soda
+butter,chicken,citrus fruit,grapes,hygiene articles,organic sausage,other vegetables,rolls/buns,seasonal products,whipped/sour cream,yogurt
+whipped/sour cream,whole milk
+meat,newspapers,root vegetables,whole milk
+pork
+coffee
+bottled water,candles,chocolate,hard cheese,liquor (appetizer),soda,soft cheese,waffles
+bottled water,canned beer,mayonnaise,other vegetables,rolls/buns,sausage,shopping bags,soda,yogurt
+chocolate,chocolate marshmallow,citrus fruit,cream cheese,domestic eggs,fruit/vegetable juice,pastry,pip fruit,sausage,sugar,tidbits,whole milk
+finished products,misc. beverages
+frozen meals,margarine,rolls/buns,whole milk
+curd,yogurt
+coffee,fruit/vegetable juice
+herbs,soda,tropical fruit,whipped/sour cream,whole milk,yogurt
+soda
+brown bread,curd,whole milk
+bottled beer
+oil
+hamburger meat,tropical fruit
+meat spreads,rolls/buns,soda,yogurt
+citrus fruit,pork
+canned fish,chocolate,coffee,cream cheese,frankfurter,frozen vegetables,fruit/vegetable juice,jam,long life bakery product,other vegetables,pip fruit,root vegetables,salt,shopping bags,soft cheese,specialty fat,sugar,waffles,whole milk
+liquor (appetizer),sausage,shopping bags,soda
+canned beer
+coffee,frankfurter,frozen vegetables,house keeping products,long life bakery product,napkins,newspapers,root vegetables,shopping bags,soda,whole milk
+beef,citrus fruit,whole milk
+UHT-milk,candles,rolls/buns,yogurt
+long life bakery product
+butter,margarine,other vegetables,pastry,rolls/buns,yogurt
+pastry
+beverages,citrus fruit,pasta,sausage,specialty chocolate,waffles,whole milk,yogurt
+canned beer
+artif. sweetener,citrus fruit,cling film/bags,coffee,cream cheese,frozen dessert,hard cheese,newspapers,other vegetables,sausage
+canned beer
+finished products,soda,specialty chocolate
+bottled water,fruit/vegetable juice,misc. beverages,other vegetables,specialty cheese,whole milk,yogurt
+other vegetables,pork,rolls/buns
+beef,domestic eggs,hygiene articles,other vegetables,root vegetables,whole milk
+specialty bar
+canned beer
+bottled beer
+canned beer,citrus fruit,ham,napkins,root vegetables,whipped/sour cream
+tropical fruit,whole milk
+chicken,photo/film,sugar
+butter,hamburger meat,herbs,margarine,other vegetables,pastry,pip fruit,pork,processed cheese,roll products,rolls/buns,sliced cheese,whole milk
+yogurt
+bottled water,chewing gum,chicken,other vegetables,softener
+butter milk,ham,hard cheese,margarine,pastry,pip fruit,rolls/buns,salty snack,sausage,shopping bags,spread cheese,whole milk,yogurt
+brown bread,hard cheese,white bread
+long life bakery product
+chicken
+beef,bottled beer,citrus fruit,coffee,frankfurter,rolls/buns,semi-finished bread,whole milk
+bottled beer,mustard,pastry
+shopping bags
+pastry,rolls/buns,tropical fruit
+bottled beer,frozen meals,rolls/buns
+whole milk
+newspapers,pork,sugar
+chocolate,hamburger meat,hard cheese,pip fruit,whole milk
+candy,napkins,other vegetables,pastry
+domestic eggs,rolls/buns
+frozen vegetables,hamburger meat,hard cheese,soda
+berries,curd,domestic eggs,frozen fish,rolls/buns,root vegetables,whole milk
+pastry,soda
+rolls/buns,sausage,soda,yogurt
+frozen vegetables
+bottled water,dessert,rolls/buns,sugar
+domestic eggs,pip fruit,whole milk
+beef,liver loaf,napkins,onions,shopping bags,specialty chocolate
+rolls/buns,root vegetables,specialty chocolate,whole milk
+pastry,root vegetables,yogurt
+other vegetables,rolls/buns,soda
+chicken,coffee,pastry,pip fruit,whole milk
+rolls/buns
+butter milk,canned fish
+butter milk,rolls/buns,soft cheese
+onions,other vegetables,specialty cheese
+curd,domestic eggs,ham,hamburger meat,margarine,mayonnaise,other vegetables,rolls/buns,whole milk
+coffee
+bottled beer,chicken,coffee,frozen vegetables,other vegetables,red/blush wine,whole milk,yogurt
+curd,dessert,shopping bags,whole milk
+Instant food products,detergent,domestic eggs,frankfurter,hamburger meat,root vegetables,tropical fruit
+bottled beer,bottled water,citrus fruit,curd,pip fruit,shopping bags,specialty chocolate,whipped/sour cream,whole milk
+cat food,popcorn,specialty bar,tropical fruit,whole milk
+baking powder,bottled water,brown bread,butter,citrus fruit,other vegetables,soda
+whole milk
+canned beer
+canned beer
+citrus fruit,pastry,potted plants,rolls/buns,shopping bags,soda
+brown bread,chicken,frozen fish,onions,other vegetables,soda,white wine,whole milk
+canned beer
+bottled water,sugar,white wine
+bottled beer,curd,domestic eggs,frozen meals,margarine,pickled vegetables,pork,potted plants,soda,tropical fruit,whole milk
+chewing gum,rolls/buns,soda,waffles
+frozen vegetables,kitchen towels,newspapers,pastry,rolls/buns,whole milk
+brown bread,fruit/vegetable juice,newspapers,rolls/buns
+mayonnaise,rolls/buns
+rolls/buns
+frozen vegetables,misc. beverages,pastry,pork
+citrus fruit,flour,other vegetables,whole milk
+beverages
+napkins
+canned beer
+chewing gum,newspapers,photo/film,soda
+bottled beer,dishes,liquor (appetizer)
+beef,dessert,dog food,grapes,hamburger meat,napkins,other vegetables,pork,rolls/buns,root vegetables,sausage
+bottled beer,dish cleaner,sausage
+canned beer,rolls/buns
+UHT-milk,coffee,grapes,jam,pickled vegetables,salty snack,tropical fruit
+frankfurter,frozen fish,pork,root vegetables,soda,whole milk,yogurt
+berries,bottled water,citrus fruit,hard cheese,other vegetables,rolls/buns,sausage
+bottled water,butter milk,canned beer,rolls/buns,sausage,shopping bags,soda
+rolls/buns,whole milk
+butter milk,cream cheese,herbs,napkins,newspapers,root vegetables,waffles,whole milk
+brandy,rolls/buns,sausage
+bottled water,butter,flower (seeds),mustard,other vegetables,root vegetables,whole milk
+candy,tropical fruit
+canned beer,fruit/vegetable juice,hamburger meat,white wine
+male cosmetics,meat,soda,whole milk,yogurt
+soda
+frankfurter,margarine,shopping bags,white bread
+other vegetables
+fruit/vegetable juice,whole milk
+newspapers,pastry
+canned beer,salty snack
+canned beer
+coffee,condensed milk
+citrus fruit,ham,soda,tropical fruit,whipped/sour cream,whole milk,yogurt
+cream cheese
+margarine,onions,other vegetables,pork,root vegetables,spices,sugar
+pastry,soda
+bottled water,butter,chocolate,citrus fruit,frozen vegetables,herbs,hygiene articles,long life bakery product,napkins,onions,other vegetables,pip fruit,processed cheese,red/blush wine,root vegetables,rubbing alcohol,whole milk
+finished products,long life bakery product,meat,shopping bags,white bread
+fruit/vegetable juice,soda,specialty bar
+chocolate,cream cheese,rolls/buns,yogurt
+domestic eggs,margarine,whipped/sour cream
+bottled water,canned beer,other vegetables,sausage,shopping bags,soda,yogurt
+canned beer
+other vegetables,photo/film,root vegetables
+pastry,soda
+chewing gum,coffee,red/blush wine,rolls/buns
+rolls/buns
+chocolate,frankfurter,other vegetables,pip fruit,rolls/buns,sausage,sweet spreads
+dog food,pastry,rolls/buns,sausage,soda,yogurt
+liquor
+rolls/buns,yogurt
+brown bread,frankfurter,rolls/buns,shopping bags
+frozen vegetables,ham,other vegetables,pork,rolls/buns,rum,whole milk
+chocolate
+bottled beer,newspapers
+chicken,citrus fruit,flour,other vegetables,pastry,rolls/buns,specialty chocolate,tropical fruit,whipped/sour cream,whole milk
+hygiene articles,newspapers,shopping bags,specialty cheese
+brown bread,citrus fruit,detergent,frankfurter,frozen vegetables,other vegetables,pasta,root vegetables,salty snack,sausage,soda,vinegar,whipped/sour cream,white bread,whole milk,yogurt
+bottled beer,pip fruit
+canned beer
+other vegetables,pork,soda
+canned beer
+bathroom cleaner,beef,candy,chocolate marshmallow,dessert,jam,light bulbs,liquor (appetizer),margarine,other vegetables,rolls/buns,root vegetables,soda,waffles,whole milk,yogurt
+pastry,rolls/buns
+dental care,male cosmetics
+Instant food products,beef,bottled water,citrus fruit,flour,herbs,margarine,sausage,turkey
+rolls/buns,soda
+pastry,soda,whole milk
+beef,root vegetables,tropical fruit,whole milk
+bottled beer,bottled water,domestic eggs,ham,tea,whole milk
+Instant food products,beef,berries,brown bread,butter,chicken,chocolate,domestic eggs,finished products,flour,flower (seeds),hamburger meat,hygiene articles,pastry,pork,rolls/buns,salty snack,soda,specialty chocolate
+beverages,dessert,ice cream,soda
+bottled beer,bottled water,rolls/buns
+canned beer,fruit/vegetable juice,liver loaf,misc. beverages,salty snack,sausage,shopping bags
+candy,canned beer,chocolate,citrus fruit,misc. beverages,shopping bags,soda,specialty chocolate
+frozen vegetables,whole milk
+curd,margarine,whole milk
+cream,sausage,yogurt
+dishes,fruit/vegetable juice,mustard,oil,root vegetables,shopping bags,waffles,whole milk
+organic sausage,rolls/buns
+coffee,other vegetables,pork,shopping bags,tropical fruit
+bottled water,chocolate,dessert,meat spreads,rolls/buns,shopping bags,soda,yogurt
+canned beer
+citrus fruit,newspapers,other vegetables,processed cheese,rolls/buns,root vegetables,whipped/sour cream
+brown bread,frozen vegetables,fruit/vegetable juice,hamburger meat,kitchen towels,margarine,newspapers,rolls/buns,root vegetables,soda,white wine
+Instant food products,berries,beverages,citrus fruit,grapes,long life bakery product,other vegetables,pip fruit,root vegetables,tropical fruit
+other vegetables
+canned beer
+canned fruit,rolls/buns
+condensed milk,domestic eggs,ham,other vegetables,salty snack
+beverages,waffles
+brown bread,pastry,whole milk
+canned beer
+chocolate,frankfurter,margarine,sauces,sausage,whole milk
+frozen dessert,margarine,snack products,whole milk
+citrus fruit
+butter,frankfurter,herbs,other vegetables,pork,rolls/buns
+brown bread,butter,chocolate,curd,dessert,dishes,frankfurter,other vegetables,pastry,sausage,waffles,whole milk,yogurt
+beverages,bottled beer,dishes,yogurt
+condensed milk,domestic eggs,flour,oil,sugar,whipped/sour cream
+candy
+frankfurter,rolls/buns
+beef,berries,chicken,domestic eggs,frozen fruits,frozen meals,other vegetables,pip fruit,salty snack,whipped/sour cream,whole milk
+rolls/buns,sausage
+brown bread
+coffee,other vegetables,pip fruit,whipped/sour cream,whole milk
+bottled water,long life bakery product
+UHT-milk,bottled beer,chicken,frozen vegetables,ice cream,newspapers,pickled vegetables,shopping bags
+brown bread,butter,domestic eggs,napkins,other vegetables,rolls/buns,sausage,sliced cheese,tropical fruit
+butter,candles,chicken,pork
+beverages,bottled beer,chocolate marshmallow,frozen meals,frozen vegetables,kitchen towels,pork,potato products,rolls/buns,yogurt
+ham,rolls/buns,shopping bags,soda
+citrus fruit,dishes,domestic eggs,margarine,root vegetables
+fruit/vegetable juice,pasta,pastry,rolls/buns,soda,specialty chocolate
+newspapers,nuts/prunes,tropical fruit,waffles,whipped/sour cream,whole milk
+condensed milk,other vegetables,rolls/buns,shopping bags,whipped/sour cream,whole milk
+newspapers,other vegetables,white bread
+photo/film
+UHT-milk,bottled water,candy,frozen vegetables,oil,pork,roll products,root vegetables,tropical fruit,whipped/sour cream
+chewing gum,mustard,pastry,shopping bags,sugar
+frankfurter
+rolls/buns,soda
+berries,cookware,flower (seeds)
+photo/film,shopping bags
+photo/film
+bottled beer,bottled water,butter,curd,detergent,frozen vegetables,potted plants,shopping bags,whole milk
+waffles
+candy,cream cheese,sausage,shopping bags,sliced cheese
+baking powder,chewing gum,fruit/vegetable juice,hamburger meat,margarine,other vegetables,specialty bar,sugar,sweet spreads
+canned beer
+other vegetables,specialty cheese
+brown bread,chicken,dog food,frozen vegetables,sugar,whole milk
+chewing gum,ice cream
+baking powder,bottled water,butter,chocolate,domestic eggs,herbs,hygiene articles,pork,rolls/buns,root vegetables,rum,salty snack,tropical fruit,whole milk
+butter,citrus fruit,other vegetables,pip fruit,salt,whole milk,yogurt
+frozen meals,pasta,pastry
+berries,chicken,flower (seeds),ham,long life bakery product,meat,soft cheese,specialty cheese,tropical fruit
+canned vegetables,hamburger meat,hard cheese,pasta
+chewing gum,misc. beverages,shopping bags,soda,sparkling wine,specialty chocolate
+frankfurter,root vegetables
+canned beer
+frozen meals,shopping bags,soda
+whole milk
+misc. beverages
+canned beer
+root vegetables
+onions,sausage
+canned beer,male cosmetics
+canned beer,coffee,dental care,light bulbs,liquor (appetizer),newspapers,onions,red/blush wine,spread cheese,tropical fruit
+pastry,soda
+dessert,ham,sausage
+canned beer
+soda
+canned beer,newspapers
+cat food,waffles
+cat food,coffee,dental care,margarine,meat,other vegetables,pork,root vegetables,sausage,sliced cheese
+bottled water,soda
+chocolate,soda
+rolls/buns
+pork
+frozen meals
+soda
+pastry,soda
+shopping bags
+bottled water,brown bread
+yogurt
+bottled beer
+pickled vegetables,pip fruit,rolls/buns,waffles,whole milk
+cat food,frozen meals,frozen vegetables,fruit/vegetable juice,hamburger meat,other vegetables
+long life bakery product,potted plants
+beverages,domestic eggs,fruit/vegetable juice,ham,whipped/sour cream
+butter,napkins
+seasonal products,shopping bags,whole milk
+dessert
+photo/film
+bags
+brown bread,rolls/buns
+bottled beer,bottled water,brown bread,fruit/vegetable juice,newspapers,photo/film,soda
+beef,kitchen towels,margarine,newspapers,other vegetables,root vegetables,salty snack,specialty chocolate,waffles
+dessert,rolls/buns,soft cheese
+misc. beverages
+sugar
+chocolate,rolls/buns,sausage,soda
+canned fish,newspapers,whole milk
+beverages,domestic eggs,finished products,pastry,salty snack,sausage
+canned beer
+citrus fruit,frozen dessert,frozen meals,misc. beverages,rolls/buns,tropical fruit
+bottled beer,liquor,red/blush wine,sausage
+newspapers,whole milk
+cake bar,pastry,pip fruit,shopping bags,specialty bar,waffles,whole milk
+bottled beer,frankfurter
+citrus fruit,whole milk
+misc. beverages
+beef,brown bread,candy,frankfurter,margarine,soda
+chocolate,napkins
+berries,cling film/bags,curd,dessert,detergent,grapes,ham,honey,margarine,napkins,other vegetables,pip fruit,rolls/buns,specialty chocolate,tropical fruit,yogurt
+bottled beer,brown bread,frankfurter
+brown bread
+rolls/buns,waffles,white bread
+cake bar,pip fruit,salty snack,specialty bar,zwieback
+brown bread,cake bar,long life bakery product,margarine,rolls/buns,root vegetables,sausage,soda,whole milk
+rolls/buns,root vegetables,whole milk
+brown bread,liquor,pork,salt,shopping bags
+rolls/buns,specialty bar,waffles,whole milk,yogurt
+beverages
+domestic eggs,newspapers,tropical fruit
+specialty chocolate
+pastry
+cat food
+Instant food products,beverages,canned fish,chicken,citrus fruit,fruit/vegetable juice,ice cream,newspapers,other vegetables,red/blush wine,rice,root vegetables,shopping bags,soda,sweet spreads
+bottled beer,liquor,red/blush wine
+candy,whipped/sour cream
+long life bakery product
+beef,root vegetables,shopping bags,white wine
+salty snack
+other vegetables,soda,specialty bar
+citrus fruit,dessert,detergent,meat,root vegetables,waffles,whole milk,yogurt
+fish,potted plants,rolls/buns
+candy,hair spray,long life bakery product,sliced cheese,whole milk
+detergent
+hamburger meat,photo/film
+dessert,rolls/buns,seasonal products,sliced cheese,soda,whole milk,yogurt
+beef
+bottled beer,frozen meals
+pip fruit,yogurt
+decalcifier,frozen vegetables,yogurt
+rolls/buns
+candy,frozen meals,pasta,whole milk
+canned fish,coffee,frozen meals,ham,instant coffee,rolls/buns
+frozen meals
+canned beer,canned fruit,ice cream,shopping bags
+coffee,female sanitary products,frozen potato products,margarine,pork,rolls/buns
+chewing gum
+Instant food products,baking powder,butter,canned fish,dessert,frozen dessert,frozen vegetables,fruit/vegetable juice,ice cream,newspapers,other vegetables,rolls/buns,root vegetables,shopping bags,sliced cheese,tropical fruit
+hygiene articles,pastry,soda,sugar,whole milk
+cereals,whole milk
+bottled water,soda
+rolls/buns,sausage,whole milk
+napkins,whole milk
+whole milk
+specialty bar,whole milk
+bottled beer,pork,soda,tropical fruit,white bread
+curd
+dessert,frozen potato products,specialty chocolate
+waffles
+misc. beverages,onions,other vegetables,spread cheese
+canned beer,misc. beverages
+shopping bags
+white wine
+curd,frankfurter,semi-finished bread
+canned beer,white bread
+beef,curd,dental care,other vegetables,pork,shopping bags,specialty cheese,whipped/sour cream
+other vegetables,whole milk
+pork
+berries,bottled beer,cat food,female sanitary products,organic products,salt,soda
+bottled beer,frankfurter,root vegetables,shopping bags
+candy,hard cheese,root vegetables,whole milk
+finished products,frozen potato products,pip fruit,soda
+bottled beer,bottled water,misc. beverages
+canned beer,coffee,instant coffee,margarine,soda
+shopping bags,soda
+canned vegetables,hamburger meat,soda,whole milk
+curd,frozen fish,onions,other vegetables,root vegetables,waffles,whole milk,yogurt
+curd,onions,other vegetables,pickled vegetables,root vegetables,specialty vegetables,whipped/sour cream
+soda
+canned beer
+frozen fish
+beverages
+pip fruit
+potted plants
+pork,whole milk
+fruit/vegetable juice
+fruit/vegetable juice
+fruit/vegetable juice,salty snack
+tropical fruit
+misc. beverages,yogurt
+canned beer
+canned beer
+candy,cream cheese,rolls/buns,shopping bags
+bottled water
+candy,chocolate,citrus fruit,dessert,frozen meals,frozen potato products,fruit/vegetable juice,hamburger meat,house keeping products,long life bakery product,other vegetables,sausage,white bread,yogurt
+bottled beer,liquor,red/blush wine,soda
+newspapers
+beverages,whole milk
+potted plants
+bottled beer,hard cheese,sugar,yogurt
+misc. beverages,roll products
+soft cheese
+frozen meals
+ice cream
+frankfurter,frozen fish,frozen vegetables,margarine,newspapers,pork,tropical fruit,whipped/sour cream,whole milk
+baking powder,bottled water,butter,chocolate,cooking chocolate,dog food,domestic eggs,frozen dessert,frozen meals,fruit/vegetable juice,hard cheese,long life bakery product,margarine,meat,mustard,oil,onions,other vegetables,rice,root vegetables,rum,salt,sliced cheese,tropical fruit,turkey,whipped/sour cream,white bread,whole milk,yogurt
+soda
+butter milk,pastry
+bottled water,canned beer,frozen potato products,hygiene articles,napkins,oil,rolls/buns
+canned beer,coffee,flower (seeds),margarine,other vegetables
+frankfurter,pastry,pork,soda,whole milk
+misc. beverages,salty snack
+UHT-milk,sausage
+butter,detergent,rolls/buns,shopping bags,yogurt
+beef,bottled beer,butter,canned fish,chewing gum,cream cheese,curd,decalcifier,domestic eggs,frankfurter,frozen vegetables,hamburger meat,hygiene articles,ketchup,meat spreads,mustard,other vegetables,pork,rolls/buns,sugar,whipped/sour cream,whole milk,yogurt
+bottled water
+kitchen towels
+bottled water,dental care,fruit/vegetable juice,newspapers,other vegetables,salty snack,soda,whole milk
+butter,ice cream,margarine,soda
+domestic eggs,fruit/vegetable juice,light bulbs,rolls/buns,sausage,whole milk
+brown bread,butter milk,cream cheese,frankfurter,other vegetables,pip fruit,pork,rolls/buns,root vegetables,soda,whole milk,yogurt
+frozen vegetables,liver loaf,other vegetables,root vegetables,white wine,whole milk
+white wine
+curd,dessert,frankfurter,frozen vegetables,instant coffee,newspapers,pastry,root vegetables,tea,tropical fruit,whole milk
+meat
+canned beer
+chicken,liquor,shopping bags,soda,white wine
+cereals,hard cheese,long life bakery product,other vegetables,pickled vegetables,processed cheese,specialty chocolate
+butter milk,cereals,dessert,pip fruit,rolls/buns,whole milk
+newspapers,other vegetables,processed cheese,soda,white bread,whole milk
+frozen vegetables,yogurt
+rolls/buns,root vegetables,whole milk
+shopping bags
+UHT-milk,bottled water,soda
+butter milk,dessert,whole milk
+baking powder,bottled water,chewing gum,cream cheese,hamburger meat,margarine,meat spreads,other vegetables,pip fruit,sugar,whole milk,yogurt
+bottled beer,frozen vegetables
+bottled water,butter,chocolate,dessert,frozen fish,frozen meals,fruit/vegetable juice,long life bakery product,other vegetables,rice,root vegetables,whole milk
+butter,cat food,chocolate,long life bakery product,other vegetables,salty snack,sausage,waffles,whole milk
+chocolate,newspapers,rolls/buns,salty snack,whole milk
+beef,bottled beer,butter,canned fish,chocolate,coffee,frozen potato products,frozen vegetables,hamburger meat,house keeping products,instant coffee,liquor (appetizer),long life bakery product,mayonnaise,napkins,oil,onions,other vegetables,rice,rolls/buns,root vegetables,sliced cheese,specialty fat,specialty vegetables,tropical fruit,whipped/sour cream,white bread,whole milk,yogurt
+bottled beer,meat,rolls/buns,sausage,whole milk
+beef,packaged fruit/vegetables,pastry,pork
+bottled beer
+female sanitary products,salty snack
+bottled beer
+skin care,soda
+bottled water
+frankfurter,light bulbs,mustard,napkins,other vegetables,soda
+baking powder,chocolate,long life bakery product,newspapers,other vegetables,rolls/buns,tropical fruit,whole milk,yogurt
+canned beer
+bottled water,chicken,chocolate,citrus fruit,curd,domestic eggs,rolls/buns,shopping bags,spices,waffles,yogurt
+citrus fruit,ice cream,tropical fruit
+curd
+butter,citrus fruit,domestic eggs,long life bakery product,napkins,other vegetables,salty snack,shopping bags,sugar,tropical fruit,whipped/sour cream,whole milk
+brown bread,citrus fruit,napkins,tropical fruit
+bottled beer,other vegetables,soda
+bottled water,soda,waffles
+cake bar,chicken,frozen vegetables,onions,other vegetables,root vegetables
+waffles
+cake bar,curd
+oil
+berries,cereals,cream cheese,curd,herbs,long life bakery product,other vegetables,root vegetables,shopping bags,waffles,whole milk
+cream cheese,frankfurter,hamburger meat,salty snack,whole milk
+beef,cookware,frozen meals,frozen vegetables,margarine,napkins,pork,potato products
+bottled water,dishes,napkins,rolls/buns,root vegetables,tropical fruit,whole milk
+bottled beer,flour,frankfurter,meat,napkins,pickled vegetables,roll products,shopping bags,whole milk
+chewing gum,specialty cheese
+bottled water,onions,pork,root vegetables,soda
+bottled water,citrus fruit,dog food,hard cheese,newspapers,other vegetables,root vegetables,sliced cheese,specialty cheese,tropical fruit,whole milk,yogurt
+bottled beer,white wine
+bottled water,butter milk,dishes,fruit/vegetable juice,oil,other vegetables,rolls/buns,softener
+beef,bottled water,canned vegetables,coffee,cream cheese,flour,frankfurter,frozen vegetables,fruit/vegetable juice,margarine,misc. beverages,pickled vegetables,pip fruit,potted plants,salty snack,soda,waffles,whipped/sour cream,whole milk,yogurt
+canned beer
+citrus fruit,condensed milk,dessert,margarine,tropical fruit
+other vegetables,white bread
+baking powder,citrus fruit,flour,frozen vegetables,hygiene articles,margarine,other vegetables,root vegetables,soft cheese,waffles,whipped/sour cream,white bread,whole milk
+candy,cream cheese,salty snack,whole milk
+cake bar,candles,candy,fruit/vegetable juice,soda
+other vegetables
+pip fruit
+canned beer
+butter milk,cream cheese,curd,other vegetables,pastry,rolls/buns,tropical fruit,whipped/sour cream,whole milk,yogurt
+canned beer,frozen fruits,onions,other vegetables,root vegetables
+newspapers,other vegetables,rolls/buns,whole milk,yogurt
+flour,other vegetables,rolls/buns,root vegetables,yogurt
+bottled water
+whole milk
+roll products,root vegetables,whole milk
+brown bread,coffee,flour,frozen vegetables,fruit/vegetable juice,ice cream,misc. beverages,other vegetables,pastry,pickled vegetables,pip fruit,soda,tropical fruit
+butter,candy,canned beer,cream cheese,curd,dessert,shopping bags
+flower soil/fertilizer
+cake bar,pasta,snack products,soda
+abrasive cleaner,candles,candy,cling film/bags,dessert,dishes,other vegetables
+UHT-milk,bottled water,brown bread,curd,newspapers,other vegetables,shopping bags,yogurt
+beef
+root vegetables
+coffee,frozen vegetables,whole milk
+butter,candy,domestic eggs,jam,napkins,other vegetables,pastry,pork,processed cheese,rolls/buns,root vegetables,soda,waffles,whipped/sour cream,white bread,whole milk
+beef,other vegetables
+specialty bar
+salty snack
+bottled water,brandy,grapes,ham,misc. beverages,other vegetables,sausage,shopping bags
+bottled beer,frozen meals,newspapers,rolls/buns,tropical fruit
+canned beer
+bottled beer,brown bread,grapes,newspapers,pickled vegetables,pip fruit,potted plants,rice,semi-finished bread,spread cheese,whole milk,yogurt
+turkey
+other vegetables
+baking powder,beef,chocolate,citrus fruit,mayonnaise,newspapers,nuts/prunes,oil,other vegetables,pickled vegetables,root vegetables,sausage,tropical fruit,whole milk
+brown bread,chocolate,frankfurter,fruit/vegetable juice,male cosmetics,nuts/prunes,onions,pip fruit,salty snack,shopping bags,soda,specialty cheese
+bottled water,citrus fruit,margarine,rice,soft cheese,soups,sugar,whole milk
+chicken,frozen vegetables,pork,soda
+butter,chocolate,citrus fruit,fruit/vegetable juice,hard cheese,margarine,misc. beverages,newspapers,other vegetables,roll products,sliced cheese,soda,soft cheese,tropical fruit,whipped/sour cream,whole milk,yogurt
+cat food,flour,misc. beverages,sugar,waffles
+baking powder
+canned fish,dental care,finished products,frozen fish,hygiene articles,other vegetables,pastry,pip fruit,potted plants,seasonal products,tropical fruit,whole milk
+frankfurter,margarine,rolls/buns,soda
+UHT-milk,chicken,coffee,cream cheese,curd,dishes,margarine,salty snack,waffles
+bottled beer,candy,chicken,coffee,domestic eggs,margarine,oil,other vegetables,specialty bar,sugar,whole milk
+beef,pastry,sausage,whole milk
+beef,margarine,other vegetables,soda
+frozen meals,specialty chocolate,whole milk
+other vegetables,sausage
+other vegetables,potted plants
+onions,roll products
+UHT-milk,bottled beer,bottled water,cream cheese,frozen vegetables,hard cheese,herbs,onions,other vegetables,red/blush wine,rolls/buns,root vegetables,sausage,soda
+bottled water,frankfurter,misc. beverages,oil,pickled vegetables,sausage,spices,tropical fruit
+dental care,long life bakery product,zwieback
+baking powder,chicken,instant coffee,pip fruit,soda,sugar,tropical fruit,whipped/sour cream
+curd cheese,frankfurter
+baking powder,bottled water,napkins,pickled vegetables,semi-finished bread,soda,whipped/sour cream,whole milk
+brandy,frozen fish
+berries,frozen dessert,frozen meals,rolls/buns,shopping bags,soda,whole milk
+butter,chicken,curd,hygiene articles,margarine,other vegetables,pickled vegetables,pork,specialty chocolate,waffles,whole milk
+ice cream,onions,yogurt
+beef,candles,canned fish,cream cheese,fruit/vegetable juice,herbs,margarine,meat spreads,oil,packaged fruit/vegetables,pickled vegetables,root vegetables,soups,vinegar,whipped/sour cream
+canned beer,cat food,fruit/vegetable juice,hygiene articles,liquor (appetizer),newspapers,root vegetables,semi-finished bread,shopping bags,waffles,whole milk
+soda
+rum,soft cheese,whole milk
+butter,citrus fruit,dental care,dessert,pickled vegetables,processed cheese,seasonal products,white bread
+UHT-milk,bottled water,citrus fruit,frozen vegetables,fruit/vegetable juice,sausage,specialty cheese,tea,whole milk
+sparkling wine
+UHT-milk,bottled beer,cat food,coffee,shopping bags,sparkling wine,white wine
+soda
+cat food,curd,soda
+bottled water,cat food,coffee,margarine,mayonnaise,mustard,processed cheese,whole milk
+butter milk,chewing gum,curd,frankfurter,frozen dessert,other vegetables,pork,root vegetables,tropical fruit,whole milk,yogurt
+chocolate
+other vegetables,processed cheese,tea
+coffee
+bottled beer,butter milk,candles,chocolate,curd cheese,fruit/vegetable juice,other vegetables,sugar,tropical fruit
+beef,fish,pastry,soda,specialty chocolate,yogurt
+bottled water,domestic eggs,soda,whipped/sour cream
+UHT-milk,butter milk,margarine,other vegetables,pip fruit,sugar,tropical fruit,waffles,whipped/sour cream,yogurt
+UHT-milk,canned beer
+root vegetables,semi-finished bread,specialty bar
+butter,coffee,dessert,frankfurter,pastry,sausage,spread cheese,waffles,white bread
+butter milk,cream cheese,dental care,fruit/vegetable juice,hygiene articles,kitchen towels,other vegetables,pasta,photo/film,pip fruit,whole milk,yogurt
+pip fruit,soft cheese,tidbits
+whipped/sour cream
+canned beer
+oil
+bottled beer,white bread
+soda,specialty bar
+hygiene articles
+bottled beer
+brown bread,cake bar,dessert,light bulbs,long life bakery product,pastry,soda,yogurt
+cereals,potted plants,specialty chocolate
+canned beer
+frankfurter,shopping bags,soda
+cream cheese,domestic eggs,other vegetables,sausage,soda
+UHT-milk,cream cheese,rolls/buns,spread cheese
+misc. beverages,specialty chocolate
+baking powder
+bottled water,soda
+berries,brown bread,chicken,cream cheese,long life bakery product,mayonnaise,meat,whipped/sour cream,yogurt
+bottled beer,bottled water
+pip fruit,pork
+pip fruit,soda,tropical fruit,white wine
+UHT-milk,bottled beer,butter,citrus fruit,frozen vegetables,long life bakery product,margarine,other vegetables,pastry,pip fruit,root vegetables,soda,softener,soups,sugar
+canned beer,rolls/buns,soda
+meat spreads,specialty bar
+bottled water,brown bread,specialty bar
+bottled water
+UHT-milk,bottled water,canned beer,frankfurter,oil
+butter milk,chocolate,citrus fruit,dessert,fruit/vegetable juice,other vegetables,pip fruit,pork,processed cheese,root vegetables,shopping bags,sliced cheese
+hard cheese,hygiene articles,misc. beverages,napkins,rolls/buns,soda,specialty chocolate,sweet spreads,yogurt
+soda
+canned beer
+pastry
+citrus fruit,curd,herbs,other vegetables
+citrus fruit
+bottled water,domestic eggs,newspapers,pastry,sausage
+decalcifier
+UHT-milk,baking powder,bottled water,butter,fruit/vegetable juice,ham,mayonnaise,meat,sausage
+beef,chocolate
+hamburger meat,ketchup
+mayonnaise,soda,white bread
+chewing gum,fruit/vegetable juice
+bottled beer,domestic eggs,finished products,margarine,newspapers,other vegetables,pip fruit
+bottled beer,canned beer,chicken,chocolate,newspapers,other vegetables,potted plants,sparkling wine
+bottled beer,dessert,soda,whole milk
+bottled water,brown bread,dessert,fruit/vegetable juice,ham,margarine,other vegetables,pasta,red/blush wine,root vegetables
+liquor
+canned beer
+cling film/bags,dog food
+UHT-milk,canned fish,citrus fruit,domestic eggs,mustard,tropical fruit,yogurt
+dessert,domestic eggs,fruit/vegetable juice,oil,tropical fruit,yogurt
+beef,bottled water,citrus fruit,fruit/vegetable juice,potted plants,root vegetables,soda
+photo/film
+UHT-milk,bottled beer,butter,chewing gum,chicken,salty snack,spread cheese,waffles
+fruit/vegetable juice,misc. beverages,rolls/buns,sausage
+whole milk
+meat,newspapers,other vegetables,white bread
+candy,rolls/buns,specialty chocolate,whole milk
+abrasive cleaner,beef,butter,newspapers,root vegetables,soda,whole milk,yogurt
+berries,butter,ham,margarine,meat,other vegetables,processed cheese,specialty bar,specialty cheese,white bread,whole milk,yogurt
+frozen vegetables,meat,other vegetables,rolls/buns,sausage
+brown bread,coffee,dish cleaner,roll products,sausage
+domestic eggs,ham,newspapers,other vegetables,semi-finished bread,yogurt
+canned fish,chocolate,other vegetables,pork,rolls/buns
+canned beer,specialty bar
+bottled water,chicken,liquor (appetizer)
+beef,butter milk,fruit/vegetable juice,hamburger meat,ice cream,other vegetables,pastry,pip fruit,rolls/buns,tropical fruit,whole milk,yogurt
+condensed milk,house keeping products,pet care,shopping bags,yogurt
+margarine,sugar,tropical fruit,whole milk
+bottled water,chicken,margarine,rolls/buns,root vegetables
+flower soil/fertilizer
+other vegetables,waffles,whole milk
+domestic eggs,frozen vegetables,pastry
+margarine
+meat
+meat,newspapers
+canned beer,pip fruit,white wine
+brown bread,citrus fruit,dog food,fruit/vegetable juice,ham,herbs,other vegetables,pip fruit,spread cheese,tropical fruit,whole milk,yogurt
+beef,margarine,salty snack,whole milk
+bottled beer,bottled water,other vegetables,waffles
+beverages,chocolate,ham,hard cheese,specialty bar,specialty chocolate,tropical fruit,waffles
+frozen vegetables,napkins,newspapers,potted plants,yogurt
+frozen fish,other vegetables,vinegar
+cling film/bags,domestic eggs,whole milk
+UHT-milk,bottled water,brown bread,pastry,rolls/buns,root vegetables
+beverages,bottled water,brown bread,cereals,cream cheese,frankfurter,frozen meals,frozen vegetables,fruit/vegetable juice,kitchen towels,liver loaf,pastry,pip fruit,soda,whole milk,yogurt
+bottled beer
+bottled beer,coffee,curd,domestic eggs,hamburger meat,margarine,newspapers,oil,other vegetables,pip fruit,root vegetables,salt,spices,vinegar,whole milk
+bottled water,brown bread,newspapers,packaged fruit/vegetables,sausage,whole milk
+beef,bottled water,brown bread,cat food,chicken,margarine,root vegetables,soda
+dishes
+napkins,pork,root vegetables,shopping bags,sliced cheese,specialty bar,specialty chocolate
+brown bread,chicken,citrus fruit,frankfurter,instant coffee,pork,root vegetables,seasonal products,whole milk,yogurt
+napkins
+UHT-milk,root vegetables,soda
+beef,chicken,cream cheese,newspapers,pet care,root vegetables,whole milk
+frankfurter,rolls/buns
+canned beer
+canned beer
+UHT-milk,candy,chocolate,frozen meals,frozen potato products,grapes,ham,other vegetables,rolls/buns,sausage,waffles
+frankfurter,margarine,newspapers,pastry,pork,sausage,sliced cheese
+bottled water
+baking powder,flour,ice cream,margarine,other vegetables,pudding powder,whole milk,yogurt
+rolls/buns
+citrus fruit,domestic eggs,frankfurter,ketchup,newspapers,other vegetables,pastry,pickled vegetables,pork,skin care,soda,syrup
+UHT-milk,canned beer,rolls/buns,sausage,shopping bags,sugar,whole milk
+butter,chicken,curd,frankfurter,frozen dessert,frozen potato products,hamburger meat,other vegetables,pastry,pip fruit,rice,salad dressing,whipped/sour cream,whole milk
+pastry,whole milk
+beef,canned beer,citrus fruit,flour,other vegetables,pastry,pip fruit,red/blush wine,root vegetables
+canned beer
+bottled beer,frankfurter,margarine
+frozen chicken,salty snack
+bottled water,chocolate,dish cleaner,ice cream,pork,rolls/buns,whipped/sour cream
+UHT-milk,berries,butter,curd,domestic eggs,hard cheese,other vegetables,rolls/buns,tropical fruit
+other vegetables
+coffee,soda
+margarine,meat,other vegetables,rolls/buns,shopping bags,soda,whipped/sour cream,whole milk
+citrus fruit,pastry,rolls/buns,soft cheese
+cat food,chewing gum,citrus fruit,curd cheese,frozen vegetables,other vegetables,root vegetables,soups,tropical fruit,whipped/sour cream,whole milk
+dishes,house keeping products,other vegetables,salty snack
+beef,root vegetables
+dishes
+shopping bags
+beverages,cream cheese,flour,hard cheese,long life bakery product,other vegetables,soda,sweet spreads,tropical fruit,whipped/sour cream
+hamburger meat,newspapers,other vegetables,salty snack,sauces,soda
+dessert,dish cleaner,other vegetables,pastry,sausage,waffles
+baking powder,curd,semi-finished bread,soda,whole milk
+other vegetables
+ice cream
+bottled water,canned vegetables,instant coffee,other vegetables,red/blush wine,turkey,whipped/sour cream
+berries,domestic eggs,margarine,other vegetables,pastry,pip fruit,rolls/buns,whole milk,yogurt
+butter,butter milk,canned vegetables,chicken,curd,domestic eggs,frozen vegetables,hamburger meat,oil,onions,other vegetables,popcorn,root vegetables,whole milk
+baking powder,liqueur,rolls/buns,root vegetables,whipped/sour cream,whole milk,yogurt
+canned beer,meat,nut snack,popcorn,rolls/buns,sausage,shopping bags,waffles
+bottled beer,candles,canned fish,chewing gum,pickled vegetables,soda
+condensed milk,frankfurter,packaged fruit/vegetables,sausage
+bottled beer,frozen meals,long life bakery product,meat,roll products
+berries,butter milk,napkins,pet care,soda,yogurt
+chewing gum
+specialty chocolate
+sausage
+butter milk,long life bakery product,rolls/buns
+canned beer
+frankfurter,fruit/vegetable juice,herbs,onions,other vegetables,whipped/sour cream,yogurt
+bottled beer,bottled water
+pork,root vegetables,shopping bags
+bottled beer
+soda
+beverages,cleaner,detergent,fruit/vegetable juice,yogurt
+pet care
+pork,sliced cheese,whole milk
+berries,bottled water,coffee,frozen vegetables,long life bakery product,other vegetables,salty snack,soda,specialty bar,tropical fruit,whipped/sour cream,whole milk,yogurt
+cream cheese,fruit/vegetable juice,napkins,organic sausage,shopping bags,soft cheese,whole milk,yogurt
+butter,flour,ham,oil,other vegetables,spices,whole milk,yogurt
+UHT-milk,berries,cat food,hamburger meat,napkins,salty snack,sausage,soda
+pastry,whole milk
+canned beer,frozen fish,waffles
+whipped/sour cream
+bottled beer,napkins,other vegetables,pork,shopping bags,white bread,yogurt
+UHT-milk,bottled water,specialty chocolate
+misc. beverages
+specialty chocolate
+sausage
+frozen meals
+specialty bar,specialty chocolate
+butter,curd,rolls/buns,whipped/sour cream,whole milk,yogurt
+canned beer,soda,whole milk,yogurt
+UHT-milk,bottled beer,butter,coffee,pip fruit,red/blush wine,rolls/buns,root vegetables,soda
+frozen meals,soda
+bottled beer,frankfurter,house keeping products,other vegetables,soda,spread cheese,sugar,whole milk
+bottled water,butter,chocolate,cocoa drinks,domestic eggs,fruit/vegetable juice,margarine,onions,other vegetables,pip fruit,soft cheese,white bread,whole milk
+bottled beer,canned fish,chocolate,cocoa drinks,red/blush wine,rice,rolls/buns,waffles
+cream cheese,curd,frozen potato products,ham,other vegetables,pastry,processed cheese,sausage,whole milk
+instant coffee,pet care,soda,specialty chocolate
+instant coffee
+other vegetables,specialty bar
+bottled water,herbs,napkins
+UHT-milk,candles,dessert,meat,napkins,rice,specialty bar
+candles,cereals,dessert,domestic eggs,margarine,other vegetables,pip fruit,root vegetables,soda
+baking powder,citrus fruit,coffee,dog food,domestic eggs,oil,pastry,pickled vegetables,soft cheese
+chicken,dessert,domestic eggs,fruit/vegetable juice,long life bakery product,meat,pickled vegetables,pip fruit,potted plants,processed cheese,rolls/buns,salty snack,sausage,soda,waffles,whipped/sour cream,white bread,whole milk
+bottled beer,bottled water,condensed milk,frankfurter,rolls/buns,soda,specialty bar,whipped/sour cream
+canned beer
+canned beer
+coffee,frozen potato products,other vegetables,salty snack,shopping bags,specialty chocolate
+soda
+soda
+pastry
+bottled water,candy,cat food,frozen potato products,ham,pastry,shopping bags,soda,sound storage medium,white bread
+canned vegetables,citrus fruit,coffee,frankfurter
+newspapers,soda,specialty chocolate
+UHT-milk,domestic eggs,newspapers,whole milk
+whole milk
+canned beer,misc. beverages,shopping bags
+dishes,other vegetables,root vegetables,specialty bar,whole milk
+margarine,other vegetables
+butter
+bottled beer,chocolate,specialty bar
+flour,pastry,salt,vinegar,whole milk
+berries,pip fruit
+male cosmetics
+citrus fruit,frozen meals,herbs,meat,other vegetables,shopping bags,tropical fruit,turkey
+bottled water,dishes,soda
+pastry,syrup
+canned beer,coffee,rolls/buns,sausage,sliced cheese,soda,specialty bar,whole milk,yogurt
+butter,margarine,other vegetables,pip fruit,pork,rice,shopping bags,soda,waffles
+packaged fruit/vegetables
+other vegetables,pet care
+misc. beverages
+whole milk
+chocolate,domestic eggs,margarine,napkins,pip fruit,soda,whole milk
+liquor
+pastry,vinegar,whole milk
+canned beer
+photo/film
+domestic eggs,grapes,oil,onions,other vegetables,pickled vegetables,pudding powder,salty snack,specialty bar,tropical fruit,waffles,yogurt
+domestic eggs,misc. beverages
+domestic eggs,meat,root vegetables,seasonal products,shopping bags,whipped/sour cream,whole milk,yogurt
+chewing gum,coffee,dishes,meat,whipped/sour cream
+cream cheese,decalcifier,flour,frozen fish,pork,root vegetables,shopping bags,sugar
+bottled beer,rolls/buns
+coffee
+canned beer
+butter milk
+bottled water
+bottled beer,candles,citrus fruit,detergent,hard cheese,house keeping products,long life bakery product,napkins,organic sausage,pastry,rolls/buns,whipped/sour cream,whole milk
+napkins
+dishes,organic sausage,other vegetables,pastry,pip fruit,root vegetables,salty snack
+ice cream,other vegetables,pastry,pip fruit,red/blush wine,tropical fruit,whole milk
+chocolate marshmallow
+frankfurter,hygiene articles,packaged fruit/vegetables,root vegetables,soda
+cling film/bags
+bottled beer
+bottled water,cat food,chocolate,citrus fruit,dental care,margarine,napkins,pastry,pet care,pip fruit,specialty bar,tropical fruit,yogurt
+liquor,specialty bar
+bottled water,brown bread,canned beer,soda
+ice cream
+newspapers
+detergent,dish cleaner,flower soil/fertilizer,processed cheese,rolls/buns
+chicken,coffee,frozen vegetables,other vegetables,pip fruit,tropical fruit,whipped/sour cream,whole milk
+bottled beer,other vegetables,potted plants,rolls/buns,tropical fruit,white bread
+bottled water,candy,fruit/vegetable juice,pickled vegetables,whole milk
+citrus fruit,specialty bar
+bottled beer
+beef,brown bread,canned fruit,canned vegetables,citrus fruit,dessert,finished products,frozen dessert,onions,other vegetables,sausage,soda,whole milk
+other vegetables,sausage,semi-finished bread,soda
+bottled water,pip fruit,rolls/buns,soda,specialty chocolate
+fruit/vegetable juice,long life bakery product,misc. beverages,other vegetables,shopping bags
+long life bakery product,other vegetables,rolls/buns,salty snack,sausage,soda,spread cheese
+ice cream,tropical fruit,whole milk
+coffee,liquor (appetizer),pastry,sugar
+coffee,napkins
+butter milk,dessert,fruit/vegetable juice,ham,meat,rolls/buns,sliced cheese,soda,whipped/sour cream,whole milk
+liquor
+bottled beer,dishes,other vegetables,pork,red/blush wine,sausage,tropical fruit,yogurt
+bottled beer,frozen chicken,fruit/vegetable juice,shopping bags
+frankfurter,ham,hard cheese,processed cheese,sausage
+bottled water,canned beer
+canned beer
+other vegetables
+bottled water
+UHT-milk,berries,instant coffee,packaged fruit/vegetables,root vegetables,whipped/sour cream
+dessert,fruit/vegetable juice,nut snack,specialty bar
+pip fruit,sweet spreads
+chocolate marshmallow,liquor,packaged fruit/vegetables,pork,white bread,whole milk
+bottled water,butter milk,frankfurter,misc. beverages,ready soups,rolls/buns,root vegetables,semi-finished bread,shopping bags
+bottled water,chewing gum,liquor,misc. beverages
+other vegetables,tropical fruit,whipped/sour cream,white bread
+bottled beer,coffee,fruit/vegetable juice,pip fruit,soda,sparkling wine,white bread
+UHT-milk,chocolate,napkins,pastry,shopping bags,tropical fruit
+bottled beer,liquor
+candles
+soda,spread cheese
+candy,chocolate marshmallow,dental care,herbs,ice cream,pork,toilet cleaner,tropical fruit,whole milk
+canned beer,white wine
+bottled water,flower (seeds),pork,rum,white wine
+beverages,cling film/bags,coffee,frozen vegetables,fruit/vegetable juice,soda
+baking powder,beef,canned fish,coffee,domestic eggs,frozen vegetables,onions,sausage,seasonal products,semi-finished bread,sugar,tropical fruit,white bread
+tropical fruit,whipped/sour cream,yogurt
+UHT-milk
+candy,salty snack,soda,specialty bar
+Instant food products,chocolate,domestic eggs,ham,hamburger meat,white bread,whole milk,yogurt
+specialty bar,white wine
+UHT-milk,pastry,waffles
+frozen meals,frozen vegetables,napkins,pip fruit,sausage,shopping bags,sliced cheese,whole milk
+chewing gum,whisky
+bottled beer,misc. beverages,white wine
+white wine
+fruit/vegetable juice,soda
+margarine,misc. beverages
+bottled water,brown bread,canned beer,cat food,coffee,detergent,domestic eggs,napkins,other vegetables,roll products,shopping bags,soft cheese,softener,specialty bar,specialty chocolate,yogurt
+baby cosmetics,butter milk,chicken,dish cleaner,kitchen towels,rolls/buns,root vegetables,soda,whole milk
+bottled water,coffee,other vegetables,salty snack
+other vegetables,pickled vegetables,pork,rolls/buns,sausage,shopping bags,specialty bar
+candles,chocolate,pastry
+ketchup,processed cheese,seasonal products
+potted plants,rolls/buns
+candy,chicken,frozen potato products,ice cream,shopping bags,soda,whipped/sour cream
+berries,long life bakery product,soda,specialty chocolate
+bottled water,canned beer,chicken,domestic eggs,frankfurter,oil,other vegetables,pastry,pip fruit,rolls/buns,root vegetables,shopping bags,soda,tropical fruit,whole milk,yogurt
+whole milk,yogurt
+berries,frozen vegetables,hard cheese,pip fruit,popcorn,whole milk,yogurt
+soda
+fruit/vegetable juice,soda,waffles
+candy,ice cream,long life bakery product,soda,yogurt
+canned fish,cat food,condensed milk,dessert,frozen vegetables,hard cheese,ice cream,nut snack,other vegetables,pickled vegetables,pork,root vegetables,salty snack,seasonal products,specialty cheese,waffles
+onions
+liquor
+onions
+beef,bottled beer,cake bar
+bottled water,coffee,pickled vegetables,red/blush wine,rolls/buns
+domestic eggs,frankfurter,fruit/vegetable juice,rolls/buns,soda,tropical fruit
+hamburger meat,rolls/buns,sausage,soda
+bottled water,whole milk
+bottled water,cleaner,dessert,frozen vegetables,pork,whole milk
+whole milk
+bottled water,fruit/vegetable juice
+shopping bags
+citrus fruit,pastry
+meat,root vegetables,whole milk
+berries,butter,candles,jam,roll products,rolls/buns,sausage,sugar,tropical fruit,vinegar,whole milk
+berries,pastry,rolls/buns,shopping bags,soda
+canned beer,shopping bags
+bottled water,chicken,citrus fruit,rolls/buns
+dessert,kitchen towels,specialty cheese,whipped/sour cream,whole milk,yogurt
+oil,rolls/buns
+canned beer,hamburger meat
+butter,citrus fruit,other vegetables,rolls/buns
+bottled beer
+beef,canned fish,other vegetables
+brown bread,margarine,napkins,yogurt
+domestic eggs,meat,specialty cheese,whole milk
+pastry
+other vegetables,red/blush wine,rolls/buns
+canned beer,red/blush wine,tidbits
+potato products
+specialty chocolate,waffles
+other vegetables,skin care,tropical fruit
+canned beer,fruit/vegetable juice,salty snack,waffles,whipped/sour cream,whole milk
+bottled beer,shopping bags
+canned beer,soda
+meat,rolls/buns,soda
+pip fruit
+rolls/buns
+cling film/bags,flower (seeds),frankfurter,frozen fish,frozen vegetables,house keeping products,shopping bags,whole milk
+soda,specialty chocolate
+butter,cream cheese,domestic eggs,pip fruit,shopping bags,whole milk
+brown bread,rolls/buns
+fruit/vegetable juice,mayonnaise,mustard,onions,rolls/buns
+fruit/vegetable juice,whole milk
+pastry,specialty chocolate
+chicken,citrus fruit,domestic eggs,ham,tropical fruit,whipped/sour cream,yogurt
+detergent,dish cleaner,photo/film,root vegetables,soda,softener,whole milk
+photo/film
+bottled beer,chocolate
+brown bread,chocolate,dessert,frozen dessert,frozen meals,soda,white bread
+beverages,long life bakery product
+chicken,frozen meals,frozen vegetables,long life bakery product,pork,rolls/buns,soda
+brown bread,cream cheese,misc. beverages,shopping bags,whole milk
+hard cheese
+butter milk,other vegetables,pasta,photo/film,pork,soda,waffles,yogurt
+soda
+yogurt
+brown bread,citrus fruit,dog food,margarine,shopping bags,sliced cheese,whole milk,yogurt
+bottled beer,liquor,red/blush wine,soda
+berries,cooking chocolate,domestic eggs,frankfurter,rolls/buns,whipped/sour cream
+ice cream
+brown bread
+cleaner,kitchen towels,shopping bags,sugar,waffles
+newspapers,other vegetables
+newspapers,photo/film
+nuts/prunes
+baking powder,frozen vegetables,fruit/vegetable juice,misc. beverages,pasta,salt,soda,whipped/sour cream,yogurt
+root vegetables
+bottled water,brown bread,chicken,newspapers
+brown bread,butter milk,canned beer,chocolate,cream cheese,domestic eggs,fruit/vegetable juice,long life bakery product,other vegetables,red/blush wine,rolls/buns,shopping bags,soda,whole milk,yogurt
+cake bar,fruit/vegetable juice
+canned vegetables,frozen potato products,fruit/vegetable juice,hamburger meat,pasta,popcorn,soft cheese,whole milk,yogurt
+Instant food products,hamburger meat,mayonnaise,pastry,whole milk
+rolls/buns,sausage,soda,tropical fruit,whole milk
+pastry
+root vegetables
+soda
+UHT-milk,brandy,hygiene articles,liquor (appetizer),specialty bar
+bottled water,citrus fruit,herbs,other vegetables,tropical fruit,whipped/sour cream,whole milk
+canned fish,condensed milk,dishes,sausage,soda,whole milk
+condensed milk,soda
+frozen meals,soda
+dessert
+beef,berries,bottled water,dessert,hygiene articles
+brown bread,chewing gum,misc. beverages,pip fruit
+soda
+canned beer,shopping bags
+canned beer,mayonnaise,rice
+butter milk,coffee,pet care,sausage
+domestic eggs,frozen vegetables,long life bakery product,pip fruit,white bread,yogurt
+sugar,whole milk
+chocolate,frozen fish,frozen meals,long life bakery product,salty snack,specialty chocolate,tropical fruit
+fruit/vegetable juice,pip fruit
+chewing gum,curd,domestic eggs,flour,frozen meals,ham,meat spreads,pasta,roll products,root vegetables,sugar,white bread,whole milk,yogurt
+pip fruit,whipped/sour cream,whole milk
+cereals,detergent
+curd,nuts/prunes,other vegetables,sausage,tropical fruit
+UHT-milk,bottled water,brown bread,coffee,cream cheese,dessert,domestic eggs,shopping bags,soda
+napkins,newspapers,nuts/prunes,rolls/buns,root vegetables,tropical fruit,waffles,whole milk,yogurt
+whole milk
+canned beer,newspapers
+margarine,newspapers,sausage
+beverages
+berries,cake bar,cereals,detergent,frozen dessert,frozen fish,frozen meals,hard cheese,long life bakery product,pasta,pastry,pip fruit,root vegetables,soda,soft cheese,white bread,yogurt
