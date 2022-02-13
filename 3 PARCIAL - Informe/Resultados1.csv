@@ -1,0 +1,51 @@
+,Antecedente,Consecuente,Confidence
+0,['citrus fruit'],['whole milk'],39.01639344262295
+1,['whole milk'],['citrus fruit'],13.492063492063492
+2,['citrus fruit'],['other vegetables'],35.40983606557377
+3,['yogurt'],['whole milk'],42.738589211618255
+4,['whole milk'],['yogurt'],23.356009070294785
+5,['other vegetables'],['citrus fruit'],16.023738872403563
+6,['tropical fruit'],['whole milk'],42.30769230769231
+7,['whole milk'],['tropical fruit'],16.213151927437643
+8,['whole milk'],['other vegetables'],28.68480725623583
+9,['tropical fruit'],['other vegetables'],37.278106508875744
+10,['whole milk'],['bottled water'],14.512471655328799
+11,['other vegetables'],['whole milk'],37.53709198813057
+12,['other vegetables'],['tropical fruit'],18.694362017804153
+13,['bottled water'],['whole milk'],30.117647058823525
+14,['whole milk'],['curd'],11.337868480725625
+15,['yogurt'],['rolls/buns'],25.518672199170123
+16,['yogurt'],['soda'],22.199170124481327
+17,['whole milk'],['soda'],16.666666666666664
+18,['whole milk'],['pastry'],13.151927437641723
+19,['whole milk'],['root vegetables'],19.047619047619047
+20,['whole milk'],['whipped/sour cream'],14.625850340136054
+21,['whole milk'],['domestic eggs'],11.678004535147393
+22,['rolls/buns'],['yogurt'],18.168389955686852
+23,['curd'],['whole milk'],50.76142131979695
+24,['soda'],['yogurt'],17.038216560509554
+25,['soda'],['whole milk'],23.40764331210191
+26,['pastry'],['whole milk'],36.024844720496894
+27,['root vegetables'],['whole milk'],44.44444444444444
+28,['whipped/sour cream'],['whole milk'],48.679245283018865
+29,['domestic eggs'],['whole milk'],44.97816593886463
+30,['whole milk'],['pip fruit'],12.471655328798185
+31,['whole milk'],['rolls/buns'],23.015873015873016
+32,['yogurt'],['other vegetables'],33.81742738589212
+33,['pip fruit'],['whole milk'],42.471042471042466
+34,['rolls/buns'],['whole milk'],29.98522895125554
+35,['other vegetables'],['yogurt'],24.183976261127597
+36,['other vegetables'],['rolls/buns'],22.551928783382788
+37,['rolls/buns'],['other vegetables'],22.451994091580502
+38,['rolls/buns'],['soda'],23.929098966026586
+39,['other vegetables'],['root vegetables'],23.14540059347181
+40,['rolls/buns'],['sausage'],16.100443131462335
+41,['other vegetables'],['soda'],18.84272997032641
+42,['other vegetables'],['whipped/sour cream'],15.43026706231454
+43,['bottled water'],['soda'],25.41176470588235
+44,['soda'],['rolls/buns'],25.796178343949045
+45,['root vegetables'],['other vegetables'],41.269841269841265
+46,['soda'],['other vegetables'],20.222929936305732
+47,['soda'],['bottled water'],17.197452229299362
+48,['sausage'],['rolls/buns'],35.85526315789473
+49,['whipped/sour cream'],['other vegetables'],39.24528301886793
